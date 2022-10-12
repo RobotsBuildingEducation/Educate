@@ -1,9 +1,15 @@
 V 0.0.2
 
+I know nothing about coding but I'm here from tiktok......
+Okay weirdo, here's a 30 minute crash course on everything you need to know to find your way into the tech industry. It'll make you feel like you can definitely learn it. If you still feel scared to contribute to this project after, I recommend to pick up a course on Codecademy so you can learn what coding feels like.
+
+[TIKTOK CODING BOOTCAMP SPEED RUN](https://www.youtube.com/watch?v=vSeypb04Do4)
+
 # Culture
 Before beginning, let's consider a few things to define our culture. 
 
 Share your story: robotsbuildingeducation@gmail.com
+
 
 1. This project originates from a TikTok channel that encourages disenfranchised communities and inspires individuals to learn. So the nature of this product is to be mindful of beginners. Things should be built and communicated in a way where any beginner can learn and understand. This allows even experts to improve because they're building from a position of teaching others, which is an ultimate form of securing knowledge and experience.
 
