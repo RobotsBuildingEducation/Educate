@@ -11,7 +11,7 @@ Share your story: robotsbuildingeducation@gmail.com
 
 3. We want to fail faster and encourage curiousity. If something feels like it's too hard for you, then you should definitely continue to go in that direction until it becomes less scary. That's where you really make leaps in progress. <3
 
-4. I'll be able to code sometimes. Progress can be slow, so be patient. Most of the times I'll be working on documentation or improving the learnability of this project. My primary function here is actually to "advertise" on TikTok so that people gain interest in the project. It's really possible for me to drive hundreds of thousands of clicks to this profile. Pretty crazy right? So you'll tend to find that communication is valued over code here. I recommend to value communication over code as well, and you'll see how empowering it can be.
+4. I'll be able to code sometimes. Progress can be slow, so be patient. Most of the times I'll be working on documentation or improving the learnability of this project. My primary function here is actually to "advertise" on TikTok so that people gain interest in the project. It's really possible for me to drive hundreds of thousands of clicks to this profile. Pretty crazy right? So you'll tend to find that communication is valued over code here. I recommend to value communication over code as well, and you'll see how empowering it can be. So feel free to use the material here on your own social medias too. I don't care if you pretend to be the owner of it or not. In fact, act like you are.
 
 ### Robots Building Education
 <img width="646" alt="image" src="https://user-images.githubusercontent.com/65219666/194991090-b500df98-a95b-4530-9314-1e3e4245738f.png">
