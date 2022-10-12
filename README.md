@@ -7,7 +7,7 @@ Share your story: robotsbuildingeducation@gmail.com
 
 1. This project originates from a TikTok channel that encourages disenfranchised communities and inspires individuals to learn. So the nature of this product is to be mindful of beginners. Things should be built and communicated in a way where any beginner can learn and understand. This allows even experts to improve because they're building from a position of teaching others, which is an ultimate form of securing knowledge and experience.
 
-2. The culture here is predominantly Latino. We as Latinos tend to be survival experts and are culturally inclined to do less for more. Take some time to understand the consequences of that. Ultimately, we no longer want that to be true in future generations. [Please read my following letter to Latino youth and education dropouts](https://res.cloudinary.com/eduprojectsil/image/upload/v1665596886/A_Letter_To_You_3_gyhikq.pdf)
+2. The culture here is predominantly Latino. We as Latinos tend to be survival experts and are culturally inclined to do more for less. Take some time to understand the consequences of that. Ultimately, we no longer want that to be true in future generations. [Please read my following letter to Latino youth and education dropouts](https://res.cloudinary.com/eduprojectsil/image/upload/v1665596886/A_Letter_To_You_3_gyhikq.pdf)
 
 3. We want to fail faster and encourage curiousity. If something feels like it's too hard for you, then you should definitely continue to go in that direction until it becomes less scary. That's where you really make leaps in progress. <3
 
