@@ -7,6 +7,8 @@ Before beginning, let's consider a few things to define our culture.
 
 2. The culture here is predominantly Latino. We as Latinos tend to be survival experts and are culturally inclined to do less for more. Take some time to understand the consequences of that. Ultimately, we no longer want that to be true in future generations. [Please read my following letter to Latino youth and education dropouts](https://res.cloudinary.com/eduprojectsil/image/upload/v1665596886/A_Letter_To_You_3_gyhikq.pdf)
 
+3. We want to fail faster and encourage curiousity. If something feels like it's too hard for you, then you should definitely continue to go in that direction until it becomes less scary. That's where you really make leaps in progress. <3
+
 ### Robots Building Education
 <img width="646" alt="image" src="https://user-images.githubusercontent.com/65219666/194991090-b500df98-a95b-4530-9314-1e3e4245738f.png">
 
