@@ -1,11 +1,20 @@
 V 0.0.2
+<img width="720" alt="image" src="https://user-images.githubusercontent.com/65219666/195417035-6570009f-d3f2-42ce-a682-c86a55bb618f.png">
 
 I know nothing about coding but I'm here from tiktok......
 Okay weirdo, here's a 30 minute crash course on everything you need to know to find your way into the tech industry. It'll make you feel like you can definitely learn it. If you still feel scared to contribute to this project after, I recommend to pick up a course on Codecademy so you can learn what coding feels like.
 
 [TIKTOK CODING BOOTCAMP SPEED RUN](https://www.youtube.com/watch?v=vSeypb04Do4)
 
+
+
+
+
+
+
 # Culture
+![image](https://user-images.githubusercontent.com/65219666/195417190-65cc2b05-9871-4a24-b81a-98a63125e509.png)
+
 Before beginning, let's consider a few things to define our culture. 
 
 Share your story: robotsbuildingeducation@gmail.com
@@ -20,6 +29,8 @@ Share your story: robotsbuildingeducation@gmail.com
 4. I'll be able to code sometimes. Progress can be slow, so be patient. Most of the times I'll be working on documentation or improving the learnability of this project. My primary function here is actually to "advertise" on TikTok so that people gain interest in the project. It's really possible for me to drive hundreds of thousands of clicks to this profile. Pretty crazy right? So you'll tend to find that communication is valued over code here. I recommend to value communication over code as well, and you'll see how empowering it can be. So feel free to use the material here on your own social medias too. I don't care if you pretend to be the owner of it or not. In fact, act like you are.
 
 ### Robots Building Education
+![image](https://user-images.githubusercontent.com/65219666/195417313-d75b6db7-35d1-47bf-9c89-7a8f07215997.png)
+
 <img width="646" alt="image" src="https://user-images.githubusercontent.com/65219666/194991090-b500df98-a95b-4530-9314-1e3e4245738f.png">
 
 So at this point, you're probably familiar with the culture behind Robots Building Education. It's people driven.
@@ -31,11 +42,12 @@ If you haven't yet, please consider reading the Patreon and contributing to the 
 
 # Educate
 A platform for teachers
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/65219666/194991372-50b6c6e3-d5f7-4034-8b84-9232080a0d06.png">
 
 The following application will allow teachers to share and collaborate on resources for free. In RO.B.E tradition, there will be a financial system underneath it, where schools may pay for subscriptions that get redistributed based on its usage. So a teacher in Mexico and a Mexican-American teacher in New York can work together, or alone, and generate revenue for other schools.
 The goal, as with any RO.B.E project, is to uplift, improve and empower the US public education system. So we must fundamentally serve students and teachers first, since they are the origin point for all systemic learning.
 
-<img width="1439" alt="image" src="https://user-images.githubusercontent.com/65219666/194991372-50b6c6e3-d5f7-4034-8b84-9232080a0d06.png">
+
 
 
 
