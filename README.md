@@ -54,12 +54,21 @@ The goal, as with any RO.B.E project, is to uplift, improve and empower the US p
 
 # RO.B.E
 Well my name is Sheilfer. But it's easier for people to do RO.B.E.
-Here's what I'm working on
 
+Here's what I'm working on:
   - Work on letter to reply to mentoring emails
   - Work on an animated video to introduce Assignment 1
   - Redo early videos in coding bootcamp speed run to create a uniform presentation for Tiktok and Youtube uploads
   - Drive views to Github
+  - Reply to IG DMs
+  
+What I recommend to myself:
+ - solve common denominator problems 
+   - mail count
+   - extended session creating video revisions + new Latino Gang animation video
+   
+Nice to have
+ - Better introduction to Latino Gang videos. Animated or not. Idk. Bet
 
 
 
