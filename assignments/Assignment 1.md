@@ -17,6 +17,7 @@ Feel free to ask questions, ask for resources, or use Google/Youtube and other p
 
 Things you will need to do:
 - Learn what branches or forks are on Github
+- Learn about commits on Github.
 - Learn what pull requests are on Github
 - Study/understand React toolchains and setup frameworks.
 
