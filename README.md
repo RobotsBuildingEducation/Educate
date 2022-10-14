@@ -12,6 +12,9 @@ Feel free to ask questions, ask for resources, or use Google/Youtube and other p
 
 
 #### What you need to accomplish this task
+
+[Example of a pull request and branch](https://github.com/RobotsBuildingEducation/Educate/pull/2)
+
 Things you will need to do:
 - Learn what branches or forks are on Github
 - Learn what pull requests are on Github
