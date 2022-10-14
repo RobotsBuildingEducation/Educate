@@ -5,7 +5,7 @@ Version 0.0.3
 <img width="720" alt="image" src="https://user-images.githubusercontent.com/65219666/195417035-6570009f-d3f2-42ce-a682-c86a55bb618f.png">
 
 I know nothing about coding but I'm here from tiktok......
-Okay weirdo, here's a 30 minute crash course on everything you need to know to find your way into the tech industry. It'll make you feel like you can definitely learn it. If you still feel scared to contribute to this project after, I recommend to pick up a course on Codecademy so you can learn what coding feels like.
+Okay lil g, here's a 30 minute crash course on everything you need to know to find your way into the tech industry. It'll make you feel like you can definitely learn it. If you still feel scared to contribute to this project after, I recommend to pick up a course on Codecademy so you can learn what coding feels like.
 
 [TIKTOK CODING BOOTCAMP SPEED RUN](https://www.youtube.com/watch?v=vSeypb04Do4)
 
