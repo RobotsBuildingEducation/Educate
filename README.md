@@ -1,6 +1,28 @@
 
 
-Version 0.0.3
+# Robots Building Education
+<code>Version 0.0.4</code>
+
+<img width="75%" src="https://user-images.githubusercontent.com/65219666/195417190-65cc2b05-9871-4a24-b81a-98a63125e509.png" />
+
+Robots Building Education is an idea that I started in 2015. The software is informed by a design that seeks to create and embed scholarships into the process of learning. This is completely different than "learn-to-earn" ideas that you may see floating around to incentivize learning. You subscribe as you would to any other platform, or you're granted a seat by your organization/school budget, and that subsciption is redistributed to some other location that can better allocate and use that financial resource. So the design is informed by prioritizing the needs of people over profit. It is still private and will always act independently from influence of both private capital and public bureaucracy. How is that possible? A lot of hard work, patience, social currency and good will.
+
+There is a much larger story to RO.B.E in the long term. But at this point, I feel comfortable sharing philosophy behind it as a way to drive inspiration and encouragement for folks who are looking for opportunities. To understand the project more, please read the following:
+
+1. [A Letter To You - Latino Youth and Dropout Outreach](https://res.cloudinary.com/eduprojectsil/image/upload/v1665596886/A_Letter_To_You_3_gyhikq.pdf)
+
+2. [Robots Building Education V1 Through Patreon](https://www.patreon.com/RobotsBuildingEducation)
+
+3. Share your story: robotsbuildingeducation@gmail.com
+
+4. [Building a junior resume](https://res.cloudinary.com/eduprojectsil/image/upload/v1665958568/Resume_nn5loi.pdf)
+
+5. [Additional Resources](https://res.cloudinary.com/eduprojectsil/image/upload/v1665958836/Resources_tbttgz.pdf)
+
+Ultimately, when understanding the philosophy behind RO.B.E more, you will understand that this work is a function of my belief that we should choose which problems we want to work on, contribute to, or solve. For me, that is equity in education. I think education can be better and I think the internet hasn't done a good job at driving that change correctly. I don't believe I'm alone in that belief and I believe in some way you might be here for that reason too. So thanks for coming! It means a lot, even if you don't contribute.
+
+
+# Getting started
 
 <img width="720" alt="image" src="https://user-images.githubusercontent.com/65219666/195417035-6570009f-d3f2-42ce-a682-c86a55bb618f.png">
 
@@ -16,11 +38,11 @@ Okay lil g, here's a 30 minute crash course on everything you need to know to fi
 
 
 # Culture
-![image](https://user-images.githubusercontent.com/65219666/195417190-65cc2b05-9871-4a24-b81a-98a63125e509.png)
 
 
 
-Share your story: robotsbuildingeducation@gmail.com
+
+
 
 
 1. This project originates from a TikTok channel that encourages disenfranchised communities and inspires individuals to learn. So the nature of this product is to be mindful of beginners. Things should be built and communicated in a way where any beginner can learn and understand. This allows even experts to improve because they're building from a position of teaching others, which is an ultimate form of securing knowledge and experience.
@@ -37,7 +59,7 @@ Share your story: robotsbuildingeducation@gmail.com
 So at this point, you're probably familiar with the culture behind Robots Building Education. It's people driven.
 If you haven't yet, please consider reading the Patreon and contributing to the larger idea behind it. I would argue that contributing to the project allows you to understand it differently, since you become a client of RO.B.E yourself and can see how it influences your desire to use it or change it.
 
-- [Robots Building Education](https://www.patreon.com/RobotsBuildingEducation)
+
 
 
 
