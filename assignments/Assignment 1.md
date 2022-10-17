@@ -1,4 +1,14 @@
 # Resume Assignment 1
+As you saw in the videos, creating a project is as simple as installing a few programs and running a command. Which is basically as easy as downloading a game and clicking on it to launch it.
+
+- [Creating a Project](https://www.tiktok.com/@robotsbuildingeducation/video/7154933416230882606)
+- [Demystifying Command Lines & Operating Systems](https://www.tiktok.com/@robotsbuildingeducation/video/7150916026958466350)
+- Recommended Google/Youtube/Reddit/Stackoverflow: `"What are alternatives to create-react-app?"`
+
+<img width="389" alt="image" src="https://user-images.githubusercontent.com/65219666/196085411-9b26d07e-bd97-48fe-aeff-1fb300acbd24.png">
+
+
+
 
 #### Assignment ethos
 let's consider a few things to define our work culture. You're treated as a software engineer. So view yourself as one and don't deny yourself of that even if you're a student or self-teaching. So some things will be demanded of you but we also want to create a safe environment. So if you think a question is stupid - please ask it. Those are by far the most important questions. I don't care if you say "What should I Google?". That's an amazing question. 
@@ -27,3 +37,10 @@ Things you will need to do:
 
 **Resume Result:**
 - _collaborated and contributed to an education startup to determine which React environment and toolchain to use._
+
+
+<img width="75%" alt="image" src="https://user-images.githubusercontent.com/65219666/196085048-757a0fb6-aca4-4387-8610-fa347fbb770e.png">
+<img width="75%" alt="image" src="https://user-images.githubusercontent.com/65219666/196085095-df8c829e-59c2-4bc4-bb01-4308335c7f60.png">
+<img width="75%" alt="image" src="https://user-images.githubusercontent.com/65219666/196085165-fb78d614-17a5-4ff5-99d5-c1eb977fc237.png">
+<img width="75%" alt="image" src="https://user-images.githubusercontent.com/65219666/196085463-4399bbe4-0a4c-4593-92c3-a29dabe2c6ac.png">
+
