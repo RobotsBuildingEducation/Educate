@@ -21,11 +21,12 @@ There is a much larger story to RO.B.E in the long term. But at this point, I fe
 
 2. [IMPORTANT! A Letter To You - Latino Youth and Dropout Outreach](https://res.cloudinary.com/eduprojectsil/image/upload/v1665596886/A_Letter_To_You_3_gyhikq.pdf)
 
-3. Share your story: robotsbuildingeducation@gmail.com
+3. Share your story & connect: robotsbuildingeducation@gmail.com + https://www.linkedin.com/in/sheilfer/
 
 4. [Building a junior resume](https://res.cloudinary.com/eduprojectsil/image/upload/v1665958568/Resume_nn5loi.pdf)
 
 5. [Additional Resources](https://res.cloudinary.com/eduprojectsil/image/upload/v1665958836/Resources_tbttgz.pdf)
+
 
 Ultimately, when understanding the philosophy behind RO.B.E more, you will understand that this work is a function of my belief that we should choose which problems we want to work on, contribute to, or solve. For me, that is equity in education and to create more access for undocumented children. I think education can be better and I think the internet hasn't done a good job at driving that change correctly. I don't believe I'm alone with that sentiment and I believe in some way you might be here for that reason too. So thanks for coming! It means a lot, even if you don't contribute.
 
@@ -75,11 +76,11 @@ I have created the first assignment - which is starting the project. Please reme
 <img width="75%" src="https://user-images.githubusercontent.com/65219666/195417313-d75b6db7-35d1-47bf-9c89-7a8f07215997.png" />
 
 - _What's your name?_ 
-- 
+
 Sheilfer Zepeda Lopez. It's pronounced Chee-yel-feRr. I'm unhappy with the Lopez family, so I go by Sheilfer Zepeda professionally.
 
 - _What coding language should I learn first?_
-- 
+
 Well Javascript and Python are the most popular for a few reasons. Javascript is easy to visualize and understand. Python is the most general. But ultimately, it matters where you want to work. Web? Mobile? Robotics? Gaming? Servers? Data science? Think about what kind of machines you want to work on first, then look into what programming languages are best aligned there. This project will be using Typescript, but that conversation will be for a resume assignment.
 
 
