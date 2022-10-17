@@ -66,12 +66,10 @@ The following application will allow teachers to share and collaborate on resour
 The goal, as with any RO.B.E project, is to uplift, improve and empower the US public education system. So we must fundamentally serve students and teachers first, since they are the origin point for all systemic learning.
 
 
-I have created the first assignment - which is starting the project. The following videos cover what we're doing. Please remember that these assignemnts are designed to help beginners gain real experience. They should be challenging for beginners to an extent - but it's all possible to complete. I promise you. Remember that this also helps experts, and many experts would look at this assignment and wouldn't immediately start to Google for more information because they themselves likely do not know. It's better to learn how to learn than to remember everything.
-
+I have created the first assignment - which is starting the project. Please remember that these assignments are designed to help beginners gain real experience. They should be challenging for beginners to an extent - but it's all possible to complete and you will learn and grow as an engineer as a result. I promise you that. Remember that this also helps experts, and many experts would look at this assignment and wouldn't immediately start to Google for more information because they themselves likely do not know. It's better to learn how to learn than to remember everything.
 
 - [Assignment](https://github.com/RobotsBuildingEducation/Educate/blob/main/assignments/Assignment%201.md)
-- [Creating a Project](https://www.tiktok.com/@robotsbuildingeducation/video/7154933416230882606)
-- [Demystifying Command Lines & Operating Systems](https://www.tiktok.com/@robotsbuildingeducation/video/7150916026958466350)
+
 
 
 # Me - RO.B.E
