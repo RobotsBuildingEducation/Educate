@@ -96,4 +96,8 @@ You don't need to drop out of school to be a dropout. You can study a college de
 
 As a rule of thumb, try to get the highest quality education that you can afford to get time vs. money wise. I am a huge proponent of a community college + university education. There are options for first generation Latinos when it comes to financing education. It's not just done for the betterment of yourself. It's not just a ticket for employment. A successful education is only meant to empower yourself your community. Once you solve the problem of being able to take care of your family, then what? Exactly. Education is a privilege. You want to surround yourself with the right privileges. You want to be the privilege. I'm here to get you to believe in yourself more than coding. Coding is just an expression of that.
 
+- What are salaries like?
 
+I like to say that you can comfortably afford a family of 4 in any US state. So salaries in Alabama may be different than salaries in California, but the cost of living adjustments generally even out in terms of what can actually be afforded. Think of it historically - tech jobs are relatively new and the US economy leans on tech markets because we can easily distribute these systems globally. Data is valuable in a period of time where nations like Mexico or France have not created their own "Apple". So this market has a lot of time afforded to it, and historically speaking that means that this period of time will be known for that no different than how industrial jobs were once praised. 
+
+You can earn well over $500,000 in software engineering by working in big firms of the right startup. I like to work at startups.
