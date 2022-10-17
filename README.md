@@ -74,13 +74,17 @@ I have created the first assignment - which is starting the project. Please reme
 # Frequently Asked Questions
 <img width="75%" src="https://user-images.githubusercontent.com/65219666/195417313-d75b6db7-35d1-47bf-9c89-7a8f07215997.png" />
 
-1. _What's your name?_ 
+- _What's your name?_ 
+- 
 Sheilfer Zepeda Lopez. It's pronounced Chee-yel-feRr. I'm unhappy with the Lopez family, so I go by Sheilfer Zepeda professionally.
 
-2. _What coding language should I learn first?_
+- _What coding language should I learn first?_
+- 
 Well Javascript and Python are the most popular for a few reasons. Javascript is easy to visualize and understand. Python is the most general. But ultimately, it matters where you want to work. Web? Mobile? Robotics? Gaming? Servers? Data science? Think about what kind of machines you want to work on first, then look into what programming languages are best aligned there. This project will be using Typescript, but that conversation will be for a resume assignment.
 
-3. _What coding bootcamp should I go to?_
+
+
+- _What coding bootcamp should I go to?_
 
 I don't recommend coding bootcamps unless a few conditions are met - which is that you have a family that you need to take care of and you're in a really tight financial situation. They're expensive and I don't like for profit schools. I also don't like the unconscious attitude that many Latinos have that they want to find "shortcuts" into the engineering industry. I'll explain why. Many of us internalize the consequences of structural racism by stating that we aren't smart enough to code or do math. That is not true. That is disenfranchisement which I cover in the letter to dropout students.
 
