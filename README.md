@@ -17,7 +17,8 @@ Robots Building Education is an idea that I started in 2015. The software is inf
 
 There is a much larger story to RO.B.E in the long term. But at this point, I feel comfortable sharing philosophy behind it as a way to drive inspiration and encouragement for folks who are looking for opportunities. To understand the project more, please read the following:
 
-1. [IMPORTANT! Robots Building Education V1 Through Patreon](https://www.patreon.com/RobotsBuildingEducation)
+1. [SUPER IMPORTANT! PLEASE CONSIDER. Robots Building Education V1 Through Patreon](https://www.patreon.com/RobotsBuildingEducation/about)
+
 2. [IMPORTANT! A Letter To You - Latino Youth and Dropout Outreach](https://res.cloudinary.com/eduprojectsil/image/upload/v1665596886/A_Letter_To_You_3_gyhikq.pdf)
 
 3. Share your story: robotsbuildingeducation@gmail.com
