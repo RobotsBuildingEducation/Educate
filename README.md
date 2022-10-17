@@ -5,7 +5,7 @@
 2. Getting Started
 3. Culture
 4. Resume Building Project - Educate
-5. Me - RO.B.E
+5. Frequently Asked Questions
 
 
 # Robots Building Education
@@ -43,9 +43,7 @@ Afterward, as mentioned in the "Letter To You", I recommend spending time on Cod
 
 # Culture
 
-<img width="75%" src="https://user-images.githubusercontent.com/65219666/195417313-d75b6db7-35d1-47bf-9c89-7a8f07215997.png" />
-
-
+<img width="691" alt="image" src="https://user-images.githubusercontent.com/65219666/196083822-bbd8cc08-5b0e-4853-b716-3850693bf929.png">
 
 1. This project originates from a TikTok channel that encourages disenfranchised communities and inspires individuals to learn. So the nature of this product is to be mindful of beginners. Things should be built and communicated in a way where any beginner can learn and understand. This also allows even experts to improve because they're building from a position of teaching others, which is an ultimate form of securing knowledge and experience.
 
@@ -73,24 +71,21 @@ I have created the first assignment - which is starting the project. Please reme
 
 
 
-# Me - RO.B.E
-<img width="691" alt="image" src="https://user-images.githubusercontent.com/65219666/196083822-bbd8cc08-5b0e-4853-b716-3850693bf929.png">
-Well my name is Sheilfer. But it's easier for people to do RO.B.E.
+# Frequently Asked Questions
+<img width="75%" src="https://user-images.githubusercontent.com/65219666/195417313-d75b6db7-35d1-47bf-9c89-7a8f07215997.png" />
 
-Here's what I'm working on:
-  - Work on letter to reply to mentoring emails 
-  - Work on an animated video to introduce Assignment 1 
-  - Redo early videos in coding bootcamp speed run to create a uniform presentation for Tiktok and Youtube uploads 
-  - Drive views to Github
-  - Reply to IG DMs
-  
-What I recommend to myself:
- - solve common denominator problems 
-   - mail count
-   - extended session creating video revisions + new Latino Gang animation video
-   
-Nice to have
- - Better introduction to Latino Gang videos. Animated or not. Idk. Bet
+1. _What's your name?_ 
+Sheilfer Zepeda Lopez. It's pronounced Chee-yel-feRr. I'm unhappy with the Lopez family, so I go by Sheilfer Zepeda professionally.
 
+2. _What coding language should I learn first?_
+Well Javascript and Python are the most popular for a few reasons. Javascript is easy to visualize and understand. Python is the most general. But ultimately, it matters where you want to work. Web? Mobile? Robotics? Gaming? Servers? Data science? Think about what kind of machines you want to work on first, then look into what programming languages are best aligned there. This project will be using Typescript, but that conversation will be for a resume assignment.
+
+3. _What coding bootcamp should I go to?_
+
+I don't recommend coding bootcamps unless a few conditions are met - which is that you have a family that you need to take care of and you're in a really tight financial situation. They're expensive and I don't like for profit schools. I also don't like the unconscious attitude that many Latinos have that they want to find "shortcuts" into the engineering industry. I'll explain why. Many of us internalize the consequences of structural racism by stating that we aren't smart enough to code or do math. That is not true. That is disenfranchisement which I cover in the letter to dropout students.
+
+You don't need to drop out of school to be a dropout. You can study a college degree and avoid a study that you wanted because you didn't think you wouild be good enough. That's still dropping out. Anyway the sooner you figure out that you're capable of anything when you align your intentions correctly, the better off you'll be. Because then you'll start to take advantage of privleges around you since you essentially stop counting yourself out. That could be a computer science degree. Or an astrophysics one. It could be going to conferences, job fairs, or office hours to connect with your professor for opportunities. Or it can be to start a business. I don't care. 
+
+As a rule of thumb, try to get the highest quality education that you can afford to get time vs. money wise. I am a huge proponent of a community college + university education. There are options for first generation Latinos when it comes to financing education. It's not just done for the betterment of yourself. It's not just a ticket for employment. A successful education is only meant to empower yourself your community. Once you solve the problem of being able to take care of your family, then what? Exactly. Education is a privilege. You want to surround yourself with the right privileges. You want to be the privilege. I'm here to get you to believe in yourself more than coding. Coding is just an expression of that.
 
 
