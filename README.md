@@ -6,6 +6,7 @@
 3. Culture
 4. Resume Building Project - Educate
 5. Frequently Asked Questions
+6. Thing's RO.B.E Is Working On
 
 
 # El Silicon Barrio - Robots Building Education
@@ -18,10 +19,11 @@ Robots Building Education is an idea that I started in 2015. The software is inf
 There is a much larger story to RO.B.E in the long term. But at this point, I feel comfortable sharing philosophy behind it as a way to drive inspiration and encouragement for folks who are looking for opportunities. To understand the project more, please read the following:
 
 1. [SUPER IMPORTANT! PLEASE CONSIDER. Robots Building Education V1 Through Patreon](https://www.patreon.com/RobotsBuildingEducation/about)
-<img width="598" alt="image" src="https://user-images.githubusercontent.com/65219666/196122756-a087c3e6-2695-47d2-aaf3-f7e04fc11727.png">
+<img width="631" alt="image" src="https://user-images.githubusercontent.com/65219666/197273826-f32579ab-783b-43e0-b138-98b76ee8817a.png">
 
 
-2. [IMPORTANT! A Letter To You - Latino Youth and Dropout Outreach](https://res.cloudinary.com/eduprojectsil/image/upload/v1665596886/A_Letter_To_You_3_gyhikq.pdf)
+
+2. [SUPER IMPORTANT! PLEASE READ. A Letter To You - Latino Youth and Dropout Outreach](https://res.cloudinary.com/eduprojectsil/image/upload/v1665596886/A_Letter_To_You_3_gyhikq.pdf)
 
 3. Share your story & connect: robotsbuildingeducation@gmail.com + https://www.linkedin.com/in/sheilfer/
 
@@ -46,7 +48,7 @@ Afterward, as mentioned in the "Letter To You", I recommend spending time on Cod
 
 # Culture
 
-<img width="681" alt="image" src="https://user-images.githubusercontent.com/65219666/196114114-05fbb1a1-31f6-411a-992d-caf036a648ff.png">
+<img width="752" alt="image" src="https://user-images.githubusercontent.com/65219666/197273663-a0017482-a5c8-4563-a5b9-c7cfeb888450.png">
 
 
 1. This project originates from a TikTok channel that encourages disenfranchised communities and inspires individuals to learn. So the nature of this product is to be mindful of beginners. Things should be built and communicated in a way where any beginner can learn and understand. This also allows even experts to improve because they're building from a position of teaching others, which is an ultimate form of securing knowledge and experience.
@@ -101,3 +103,11 @@ As a rule of thumb, try to get the highest quality education that you can afford
 I like to say that you can comfortably afford a family of 4 in any US state. So salaries in Alabama may be different than salaries in California, but the cost of living adjustments generally even out in terms of what can actually be afforded. Think of it historically - tech jobs are relatively new and the US economy leans on tech markets because we can easily distribute these systems globally. Data is valuable in a period of time where nations like Mexico or France have not created their own "Apple". So this market has a lot of time afforded to it, and historically speaking that means that this period of time will be known for that no different than how industrial jobs were once praised. 
 
 You can earn well over $500,000 in software engineering by working in big firms of the right startup. I like to work at startups.
+
+
+# 6. Things RO.B.E Is Working On
+
+1. Creating a stronger relationship with recruiters to participate here and create an accessible network for beginners
+2. Develop a relationship with Hack The Hood
+3. Learning more about crypto/DID protocols with atp or the at_protocol
+4. Lesson 22: Creating a financial technology project or company.
