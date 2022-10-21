@@ -1,7 +1,7 @@
 
 ### Table of contents
 
-1. El Silicon Barrio - Robots Building Education
+1. The Silicon Barrio - Robots Building Education
 2. Getting Started
 3. Culture
 4. Resume Building Project - Educate
@@ -9,7 +9,7 @@
 6. Thing's RO.B.E Is Working On
 
 
-# El Silicon Barrio - Robots Building Education
+# The Silicon Barrio - Robots Building Education
 <code>Version 0.0.4</code>
 
 <img width="75%" src="https://user-images.githubusercontent.com/65219666/195417190-65cc2b05-9871-4a24-b81a-98a63125e509.png" />
