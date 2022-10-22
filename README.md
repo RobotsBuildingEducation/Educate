@@ -107,7 +107,7 @@ You can earn well over $500,000 in software engineering by working in big firms 
 
 # 6. Things RO.B.E Is Working On
 
-1. Creating a stronger relationship with recruiters to participate here and create an accessible network for beginners
-2. Develop a relationship with Hack The Hood
-3. Learning more about crypto/DID protocols with atp or the at_protocol
-4. Lesson 22: Creating a financial technology project or company.
+1. The E.L.E.C.T Platform - Educate, Learn, Empower, Communicate, Testify
+2. Learning more about crypto/DID protocols with atp or the at_protocol: https://twitter.com/at_protocol
+3. Lesson 22: Creating a financial technology project or company.
+
