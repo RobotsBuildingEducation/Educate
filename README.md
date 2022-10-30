@@ -48,7 +48,7 @@ Afterward, as mentioned in the "Letter To You", I recommend spending time on Cod
 
 # Culture
 
-<img width="752" alt="image" src="https://user-images.githubusercontent.com/65219666/197273663-a0017482-a5c8-4563-a5b9-c7cfeb888450.png">
+<img width="743" alt="image" src="https://user-images.githubusercontent.com/65219666/198862822-91bc829a-e5bb-4c8f-9321-5ccc0d337244.png">
 
 
 1. This project originates from a TikTok channel that encourages disenfranchised communities and inspires individuals to learn. So the nature of this product is to be mindful of beginners. Things should be built and communicated in a way where any beginner can learn and understand. This also allows even experts to improve because they're building from a position of teaching others, which is an ultimate form of securing knowledge and experience.
