@@ -3,10 +3,11 @@
 
 1. The Silicon Border - Robots Building Education
 2. Getting Started
-3. Culture
-4. Resume Building Project - Educate
-5. Frequently Asked Questions
-6. Thing's RO.B.E Is Working On
+3. Fast Forward
+4. Culture
+5. Resume Building Project - Educate
+6. Frequently Asked Questions
+7. Thing's RO.B.E Is Working On
 
 
 # The Silicon Border - Robots Building Education
@@ -44,6 +45,20 @@ If you know nothing about coding but came here from Tiktok, I've compiled my tik
 Afterward, as mentioned in the "Letter To You", I recommend spending time on Codecademy or Fireship so that you can directly learn how to code more. Codecademy and Fireship both offer decent quality free content although I do recommend to use any trials or about a month of subscription. I'm not here to sell courses, but these are quality services and it's generally worthwhile.
 
 [TIKTOK CODING BOOTCAMP SPEED RUN](https://www.youtube.com/watch?v=vSeypb04Do4)
+
+# Fast Forward
+
+If you're excited and want to skip all the steps, we use just about all of the 20 lessons in this 3 minute video. I try to make it beginner friendly, so please take the time to watch it if you feel like you're doubting yourself. I suggest watching it on the Tiktok app, where you can access it via the playlist or the pinned video.
+
+https://www.tiktok.com/@robotsbuildingeducation/video/7160132241933339946?is_from_webapp=1&sender_device=pc&web_id=7142667285525055019
+<img width="558" alt="image" src="https://user-images.githubusercontent.com/65219666/198927544-10f26bf3-89df-470e-a99b-934a08a3e265.png">
+
+
+ I am currently working on a follow-up lesson that allows us to connect our own custom database to this web3 network 
+Under development:
+<img width="1491" alt="image" src="https://user-images.githubusercontent.com/65219666/198927594-6811b0ee-1ad2-4d85-b9af-56e742dea25d.png">
+
+
 
 
 # Culture
@@ -109,5 +124,5 @@ You can earn well over $500,000 in software engineering by working in big firms 
 
 1. The E.L.E.C.T Platform - Educate, Learn, Empower, Communicate, Testify
 2. Learning more about crypto/DID protocols with atp or the at_protocol: https://twitter.com/at_protocol
-3. Lesson 22: Creating a financial technology project or company.
+3. Lesson 23: Connecting A Database To Your Fintech App
 
