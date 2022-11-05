@@ -1,4 +1,5 @@
 
+
 ### Table of contents
 
 1. The Silicon Border - Robots Building Education
@@ -126,3 +127,5 @@ You can earn well over $500,000 in software engineering by working in big firms 
 2. Learning more about crypto/DID protocols with atp or the at_protocol: https://twitter.com/at_protocol
 3. Lesson 23: Connecting A Database To Your Fintech App
 
+
+block.xyz
