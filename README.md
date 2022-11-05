@@ -1,3 +1,6 @@
+Working on this is free. All content will be free. Apps will have a subscription so that we can create scholarships out of it.
+
+
 
 
 ### Table of contents
@@ -16,49 +19,45 @@
 
 <img width="75%" src="https://user-images.githubusercontent.com/65219666/195417190-65cc2b05-9871-4a24-b81a-98a63125e509.png" />
 
-Robots Building Education is an idea that I started in 2015. The software is informed by a design that seeks to create and embed scholarships into the process of learning. This is completely different than "learn-to-earn" ideas that you may see floating around to incentivize learning. You subscribe as you would to any other platform, or you're granted a seat by your organization/school budget, and that subsciption is redistributed to some other location that can better allocate and use that financial resource. So the design is informed by prioritizing the needs of people over profit. It is still private and will always act independently from influence of both private capital and public bureaucracy. How is that possible? A lot of hard work, patience, social currency and good will.
+Robots Building Education is a platform that create scholarships out of subscription. You learn and your subscription will be put into a pool based on your learning or usage. There's a much bigger picture as to why it has to be built this way. It's not for profit. It's to change things. There will be 5 different apps for RO.B.E E.L.E.C.T
 
-There is a much larger story to RO.B.E in the long term. But at this point, I feel comfortable sharing philosophy behind it as a way to drive inspiration and encouragement for folks who are looking for opportunities. To understand the project more, please read the following:
+- Educate: a platform for teachers
+- Learn: a platform for learning
+- Empower: a decentralized protocol for education in social media
+- Communicate: a platform for youth and professional networking
+- Testify: a platform for civic engagement.
 
-1. [SUPER IMPORTANT! PLEASE CONSIDER. Robots Building Education V1 Through Patreon](https://www.patreon.com/RobotsBuildingEducation/about)
+1. [SUPER IMPORTANT! PLEASE CONSIDER. Robots Building Education SCHOLARSHIP FUND v1](https://www.patreon.com/RobotsBuildingEducation/about)
 <img width="631" alt="image" src="https://user-images.githubusercontent.com/65219666/197273826-f32579ab-783b-43e0-b138-98b76ee8817a.png">
 
 
 
 2. [SUPER IMPORTANT! PLEASE READ. A Letter To You - Latino Youth and Dropout Outreach](https://res.cloudinary.com/eduprojectsil/image/upload/v1665596886/A_Letter_To_You_3_gyhikq.pdf)
 
-3. Share your story & connect: robotsbuildingeducation@gmail.com + https://www.linkedin.com/in/sheilfer/
+3. Share your story & connect: robotsbuildingeducation@gmail.com
 
-4. [Building a junior resume](https://res.cloudinary.com/eduprojectsil/image/upload/v1665958568/Resume_nn5loi.pdf)
+4. Connect: https://www.linkedin.com/in/sheilfer/
 
-5. [Additional Resources](https://res.cloudinary.com/eduprojectsil/image/upload/v1665958836/Resources_tbttgz.pdf)
+5. [Building a junior resume](https://res.cloudinary.com/eduprojectsil/image/upload/v1665958568/Resume_nn5loi.pdf)
+
+6. [Additional Resources](https://res.cloudinary.com/eduprojectsil/image/upload/v1665958836/Resources_tbttgz.pdf)
 
 
-Ultimately, when understanding the philosophy behind RO.B.E more, you will understand that this work is a function of my belief that we should choose which problems we want to work on, contribute to, or solve. For me, that is equity in education and to create more access for undocumented children. I think education can be better and I think the internet hasn't done a good job at driving that change correctly. I don't believe I'm alone with that sentiment and I believe in some way you might be here for that reason too. So thanks for coming! It means a lot, even if you don't contribute.
 
 
 # Getting started
 
-<img width="720" alt="image" src="https://user-images.githubusercontent.com/65219666/195417035-6570009f-d3f2-42ce-a682-c86a55bb618f.png">
-
-If you know nothing about coding but came here from Tiktok, I've compiled my tiktok playlist (which is not available to everyone) into a Youtube video. It will get better over time. It's a 30 minute crash course that covers what you need to generally learn so that you can break into the industry and covers it in simple langauge. The goal is to make it all feel less scary so that you spend more time believing in yourself and looking forward. I recommend to watch it while doing chores like washing dishes. 
-
-Afterward, as mentioned in the "Letter To You", I recommend spending time on Codecademy or Fireship so that you can directly learn how to code more. Codecademy and Fireship both offer decent quality free content although I do recommend to use any trials or about a month of subscription. I'm not here to sell courses, but these are quality services and it's generally worthwhile.
-
 [TIKTOK CODING BOOTCAMP SPEED RUN](https://www.youtube.com/watch?v=vSeypb04Do4)
 
-# Fast Forward
+<img width="720" alt="image" src="https://user-images.githubusercontent.com/65219666/195417035-6570009f-d3f2-42ce-a682-c86a55bb618f.png">
 
-If you're excited and want to skip all the steps, we use just about all of the 20 lessons in this 3 minute video. I try to make it beginner friendly, so please take the time to watch it if you feel like you're doubting yourself. I suggest watching it on the Tiktok app, where you can access it via the playlist or the pinned video.
+I'm assuming you know nothing about coding. 
+Please watch the 3 pinned videos. It goes through what it takes to build a simple app in about 5 minutes.
 
-https://www.tiktok.com/@robotsbuildingeducation/video/7160132241933339946?is_from_webapp=1&sender_device=pc&web_id=7142667285525055019
-<img width="558" alt="image" src="https://user-images.githubusercontent.com/65219666/198927544-10f26bf3-89df-470e-a99b-934a08a3e265.png">
-
-
- I am currently working on a follow-up lesson that allows us to connect our own custom database to this web3 network 
-Under development:
-<img width="1491" alt="image" src="https://user-images.githubusercontent.com/65219666/198927594-6811b0ee-1ad2-4d85-b9af-56e742dea25d.png">
-
+- The highest quality course is on Tiktok for free, via playlists. 
+- The second highest quality is a youtube video that combines all the tiktok videos. This will improve over time.
+- If you want more direct guidance and practice, utilize Codecademy and/or Fireship to learn how to build apps with React.
+- The third version will be a youtube video made for blind students. This is inclusive of people who work in labor and can use a headphone to learn.
 
 
 
@@ -83,9 +82,11 @@ A Platform For Teachers
 ![image](https://user-images.githubusercontent.com/65219666/195417469-b6b9d8bf-3654-4726-a3b6-b17ae675d83e.png)
 
 
-The following application will allow teachers to share and collaborate on resources for free. In RO.B.E tradition, there will be a financial system underneath it, where schools may pay for subscriptions that get redistributed based on its usage. So a teacher in Mexico and a Mexican-American teacher in New York can work together, or alone, and generate revenue for other schools.
-The goal, as with any RO.B.E project, is to uplift, improve and empower the US public education system. So we must fundamentally serve students and teachers first, since they are the origin point for all systemic learning.
+Why?
+The following application will allow teachers to share and collaborate on resources for free. In RO.B.E tradition, there will be a financial system underneath it, where schools may pay for subscriptions that get redistributed based on its usage. So a teacher in Mexico and a Mexican-American teacher in New York can work together, or alone, and generate revenue for other schools. The goal, as with any RO.B.E project, is to uplift, improve and empower the US public education system. So we must fundamentally serve students and teachers first, since they are the origin point for all systemic learning.
 
+What is this?
+It's a collaboration app for teachers to upload, share and improve their digital resources. Go to appletree.io for a toy version of this app.
 
 I have created the first assignment - which is starting the project. Please remember that these assignments are designed to help beginners gain real experience. They should be challenging for beginners to an extent - but it's all possible to complete and you will learn and grow as an engineer as a result. I promise you that. Remember that this also helps experts, and many experts would look at this assignment and wouldn't immediately start to Google for more information because they themselves likely do not know. It's better to learn how to learn than to remember everything.
 
