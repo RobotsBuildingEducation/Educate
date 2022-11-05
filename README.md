@@ -7,11 +7,10 @@ Working on this is free. All content will be free. Apps will have a subscription
 
 1. The Silicon Border - Robots Building Education
 2. Getting Started
-3. Fast Forward
-4. Culture
-5. Resume Building Project - Educate
-6. Frequently Asked Questions
-7. Thing's RO.B.E Is Working On
+3. Culture
+4. Resume Building Project - Educate
+5. Frequently Asked Questions
+6. Thing's RO.B.E Is Working On
 
 
 # The Silicon Border - Robots Building Education
@@ -124,9 +123,10 @@ You can earn well over $500,000 in software engineering by working in big firms 
 
 # 6. Things RO.B.E Is Working On
 
-1. The E.L.E.C.T Platform - Educate, Learn, Empower, Communicate, Testify
+1. Building Learn in E.L.E.C.T
 2. Learning more about crypto/DID protocols with atp or the at_protocol: https://twitter.com/at_protocol
-3. Lesson 23: Connecting A Database To Your Fintech App
+3. Marketting the Patreon Scholarship Fund
+4. Creating a recruiter pipeline
 
 
 block.xyz
