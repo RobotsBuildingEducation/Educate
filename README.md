@@ -62,7 +62,7 @@ Please watch the 3 pinned videos. It goes through what it takes to build a simpl
 
 # Culture
 
-<img width="743" alt="image" src="https://user-images.githubusercontent.com/65219666/198862822-91bc829a-e5bb-4c8f-9321-5ccc0d337244.png">
+<img width="699" alt="image" src="https://user-images.githubusercontent.com/65219666/200189127-e802b79c-a58c-42e6-a74c-141a574bae72.png">
 
 
 1. This project originates from a TikTok channel that encourages disenfranchised communities and inspires individuals to learn. So the nature of this product is to be mindful of beginners. Things should be built and communicated in a way where any beginner can learn and understand. This also allows even experts to improve because they're building from a position of teaching others, which is an ultimate form of securing knowledge and experience.
