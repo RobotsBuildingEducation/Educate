@@ -113,5 +113,5 @@ To support and help create this scholarship, I ask that people subscribe to my P
 
 For the most part, this effort is only driven by me. There isn't anyone else working on it. It can slow progress sometimes, but I work hard as hell for this idea, and the longer I can do it alone, the less I/we have to ever depend on the needs of investors and their capitalistic driven needs. My efforts aren't meant for profit. I want our community to succeed. That's it.
 
-<img src="https://user-images.githubusercontent.com/65219666/201549197-25c070c3-1af5-46f7-ab3f-7d56bd33e1b6.png" width="50%" />
+<img src="https://user-images.githubusercontent.com/65219666/201549273-73429c51-0e28-4aea-910a-fd5835945b31.png" width="50%" />
 
