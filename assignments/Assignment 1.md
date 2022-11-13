@@ -29,6 +29,7 @@ Things you will need to do:
 - Learn what branches or forks are on Github
 - Learn about commits on Github.
 - Learn what pull requests are on Github
+- How to clone repo and update a branch
 - Study/understand React toolchains and setup frameworks.
 
 
