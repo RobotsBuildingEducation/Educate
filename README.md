@@ -33,6 +33,8 @@ Goal: 365 per year**
 <img width="626" alt="image" src="https://user-images.githubusercontent.com/65219666/201502441-69cc43db-5a30-4583-9c95-a4d0e0cef00e.png">
 
 ## Learn To Code
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/65219666/201549376-259ac430-a2df-4ab7-bb0c-346b67f90165.png">
+
 The goal of the introductions is to believe that you are capable of doing it. I explain more in the mentorship section.
 Before starting. Please watched the 3 pinned videos on my profile on Tiktok. It covers all of the lessons I teach you but applies them so that we can build a real app. It's only about 5-7 minutes. Ideally, you'll be like `"woah, that wasn't so bad..."`
 
@@ -46,7 +48,7 @@ Before starting. Please watched the 3 pinned videos on my profile on Tiktok. It 
 
 
 #### Youtube
-2. If you don't have access to the Tiktok playlist, I'll be creating backup Youtube videos. These videos will be compilations. Over the long term, I will make these videos specific to Youtube so that the presentation is better for long-form learning
+2. If you don't have access to the Tiktok playlist, I'll be creating backup Youtube videos. These videos will be compilations. Over the long term, I will make these videos specific to Youtube so that the presentation is better for long-form learning. I will include a list of Tiktok links here soon since the app does not show playlists on desktop and does not organize videos well. This will render better than Youtube.
 [YOUTUBE LINK](https://www.youtube.com/watch?v=vSeypb04Do4&t=376s)
 <img width="861" alt="image" src="https://user-images.githubusercontent.com/65219666/201494588-77a5cda6-93e1-4f82-9548-5c77397b6829.png">
 
@@ -63,6 +65,8 @@ I want to change the nature of social media to challenge school credentials and 
 
 
 ## Gaining Experience
+![image](https://user-images.githubusercontent.com/65219666/201503616-1c8ba6f4-3697-44d9-be7f-ecd227a3f087.png)
+
 This github repository is one of five projects building software. Some are much more long term. I call it RO.B.E E.L.E.C.T or
 Robots Building Education:
 E - Educate: a platform for teachers 
@@ -79,7 +83,7 @@ The first assignment is here: [ASSIGNMENT 1](https://github.com/RobotsBuildingEd
 
 _TL;DR_ The goal of the assignment is to get the project started using a React toolchain like. The key is explaining why one was selected over another. `create-react-app`, `next.js` or `hydrogen by Shopify`
 
-![image](https://user-images.githubusercontent.com/65219666/201503616-1c8ba6f4-3697-44d9-be7f-ecd227a3f087.png)
+
 
 
 ## Mentorship
@@ -106,6 +110,8 @@ Please take the take the time to read some of these essays. It's a work in progr
 
 
 ## Building Scholarships
+<img src="https://res.cloudinary.com/eduprojectsil/image/upload/v1589613611/Screen_Shot_2020-05-16_at_12.19.34_AM_iaa5zw.png" width="50%" />
+
 
 - To apply to the scholarship: email robotsbuildingeducation@gmail.com with your story and vision. That's all. You will forever be eligible to receive $1,000 in Bitcoin, Apple or Meta credits. I will personally read and issue scholarships.
 
