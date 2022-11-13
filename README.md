@@ -11,10 +11,10 @@ I want to flood the barrio and border with silicon before we flood it with ice.
 
 
 You're likely here from Tiktok for a few reasons:
-1. You want to learn how to code: start here
-2. You want experience for your resume: start here
-3. You want a mentor + life resources: start here
-4. You want to help my goals with the scholarship fund, or you want to apply to it: start here
+1. You want to learn how to code: [start here](https://github.com/RobotsBuildingEducation/Educate/blob/main/README.md#learn-to-code)
+2. You want experience for your resume: [start here](https://github.com/RobotsBuildingEducation/Educate/blob/main/README.md#gaining-experience)
+3. You want a mentor + life resources: [start here](https://github.com/RobotsBuildingEducation/Educate/blob/main/README.md#gaining-experience)
+4. You want to help my goals with the scholarship fund, or you want to apply to it: [start here](https://github.com/RobotsBuildingEducation/Educate/blob/main/README.md#gaining-experience)
 
 
 
@@ -71,7 +71,9 @@ E - Empower: a platform for decentralized learning protocols
 C - Communicate: a platform to youth and professional networking
 T - Testify: a platform for youth experience
 
-I'm choosing **Educate** as the project to assist others to gain experience. I've built a demo version of it many years here: [Appletree.io](https://appletree.io). It's an application where teachers can share resources and collaborate together, much like Github. The assignment/tasks are meant to be challenging and they're designed for real-world skills learning, but they can be figured out by a beginner that has learned the previous material. It will require you to understand Github, which I have not made introductory tutorials on yet.
+I'm choosing **Educate** as the project to assist others to gain experience. I've built a demo version of it many years here: [Appletree.io](https://appletree.io). It's an application where teachers can share resources and collaborate together, much like Github. The assignment/tasks are meant to be challenging and they're designed for real-world skills learning, but they can be figured out by a beginner that has learned the previous material. It will require you to understand Github, which I have not made introductory tutorials on yet. If you are seeking real-world experience or project experience for your resume, please work on these while I work on "Learn" by myself. I will be happy to be a point of contact/reference on your job applications and can confirm your work to employers.
+
+Long term, I hope to have a stronger pipeline with industry recruiters. I'm working on that.
 
 The first assignment is here: [ASSIGNMENT 1](https://github.com/RobotsBuildingEducation/Educate/blob/main/assignments/Assignment%201.md)
 
