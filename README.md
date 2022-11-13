@@ -112,3 +112,6 @@ Please take the take the time to read some of these essays. It's a work in progr
 To support and help create this scholarship, I ask that people subscribe to my Patreon. In the future, I/we will build apps that will support this effort. It's only $1, $3, $8. Please support it, it keeps me going and gets me closer to a ridiculous vision of mine.
 
 For the most part, this effort is only driven by me. There isn't anyone else working on it. It can slow progress sometimes, but I work hard as hell for this idea, and the longer I can do it alone, the less I/we have to ever depend on the needs of investors and their capitalistic driven needs. My efforts aren't meant for profit. I want our community to succeed. That's it.
+
+<img src="https://user-images.githubusercontent.com/65219666/201549197-25c070c3-1af5-46f7-ab3f-7d56bd33e1b6.png" width="50%" />
+
