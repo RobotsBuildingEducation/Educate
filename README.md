@@ -121,3 +121,7 @@ For the most part, this effort is only driven by me. There isn't anyone else wor
 
 <img src="https://user-images.githubusercontent.com/65219666/201549273-73429c51-0e28-4aea-910a-fd5835945b31.png" width="50%" />
 
+
+
+## Things I'm Working On
+- Industry recruiter pipeline. Basically there are people whos jobs are to get you a job. I can 
