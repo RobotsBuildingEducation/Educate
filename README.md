@@ -14,7 +14,7 @@ You're likely here from Tiktok for a few reasons:
 1. You want to learn how to code: [start here](https://github.com/RobotsBuildingEducation/Educate/blob/main/README.md#learn-to-code)
 2. You want experience for your resume: [start here](https://github.com/RobotsBuildingEducation/Educate/blob/main/README.md#gaining-experience)
 3. You want a mentor + life resources: [start here](https://github.com/RobotsBuildingEducation/Educate/blob/main/README.md#mentorship)
-4. You want to help my goals with the scholarship fund, or you want to apply to it: [start here](https://github.com/RobotsBuildingEducation/Educate/blob/main/README.md#mentorship)
+4. You want to help my goals with the scholarship fund, or you want to apply to it: [start here](https://res.cloudinary.com/eduprojectsil/image/upload/v1665958568/Resume_nn5loi.pdf)
 
 
 
