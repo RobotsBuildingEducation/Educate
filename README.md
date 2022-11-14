@@ -101,6 +101,8 @@ Please take the take the time to read some of these essays. It's a work in progr
 
 [A Letter To You - Being Latino and Dropping Out](https://res.cloudinary.com/eduprojectsil/image/upload/v1665596886/A_Letter_To_You_3_gyhikq.pdf)
 
+[Creating a competitive resume](https://res.cloudinary.com/eduprojectsil/image/upload/v1665958568/Resume_nn5loi.pdf)
+
 [Resources -  Books, Communities, Platforms](https://res.cloudinary.com/eduprojectsil/image/upload/v1668331769/Resources_3_vdduju.pdf)
 
 [Tech & Colonization](https://www.instagram.com/p/CiuLpfVOTo2/)
