@@ -2,12 +2,12 @@
 ![image](https://user-images.githubusercontent.com/65219666/201502422-7b828773-5c13-4fbe-8d5f-f770986da0cc.png)
 
 
-<pre>All content and offerings will be free. Payment is optional. 
+<b>All content and offerings will be free. Payment is optional. 
 All app subscriptions and Patreon contributions earned will go to the scholarship fund.
 It will directly support Latino engineers, artists, entrepeneurs and future leaders. 
 The essence of Robots Building Education: embed the creation of scholarships in the process of 
 learning. I want to flood the barrio and border with silicon before we flood it with ice.
-</pre>
+</b>
 
 
 You're likely here from Tiktok for a few reasons:
