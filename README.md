@@ -49,7 +49,7 @@ Before starting. Please watched the 3 pinned videos on my profile on Tiktok. It 
 
 #### TikTok Desktop
 2. If you don't have access to the Tiktok playlist, I've recreated the playlist here so that you can watch it on desktop instead
-[Desktop Version]([https://www.youtube.com/watch?v=vSeypb04Do4&t=376s](https://github.com/RobotsBuildingEducation/Educate/blob/main/Tiktok/Learn%20To%20Code.md))
+[Desktop Version](https://github.com/RobotsBuildingEducation/Educate/blob/main/Tiktok/Learn%20To%20Code.md)
 <img width="640" alt="image" src="https://user-images.githubusercontent.com/65219666/201820540-f1bc97d5-58dd-478d-ae8c-acdcdd4d5200.png">
 
 
