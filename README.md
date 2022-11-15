@@ -128,3 +128,7 @@ For the most part, this effort is only driven by me. There isn't anyone else wor
 
 ## Things I'm Working On
 - Industry recruiter pipeline. Basically there are people whos jobs are to get you a job. I'm going to connect with them more over time to make you guys have a stronger, trust worthy and immediate network. Having a larger following on Tiktok with my Latino empowerment brand is helpful. It may be a long-term thing with project Community in E.L.E.C.T 
+
+- Improving Learnability of this project from discovery on TikTok.
+
+- Revising old videos 
