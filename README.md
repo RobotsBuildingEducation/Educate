@@ -47,10 +47,11 @@ Before starting. Please watched the 3 pinned videos on my profile on Tiktok. It 
 <img src="https://user-images.githubusercontent.com/65219666/201494455-2bca725b-565e-4131-820f-197ef2cbd698.png" width="50%" />
 
 
-#### Youtube
-2. If you don't have access to the Tiktok playlist, I'll be creating backup Youtube videos. These videos will be compilations. Over the long term, I will make these videos specific to Youtube so that the presentation is better for long-form learning. I will include a list of Tiktok links here soon since the app does not show playlists on desktop and does not organize videos well. This will render better than Youtube.
-[YOUTUBE LINK](https://www.youtube.com/watch?v=vSeypb04Do4&t=376s)
-<img width="861" alt="image" src="https://user-images.githubusercontent.com/65219666/201494588-77a5cda6-93e1-4f82-9548-5c77397b6829.png">
+#### TikTok Desktop
+2. If you don't have access to the Tiktok playlist, I've recreated the playlist here so that you can watch it on desktop instead
+[Desktop Version]([https://www.youtube.com/watch?v=vSeypb04Do4&t=376s](https://github.com/RobotsBuildingEducation/Educate/blob/main/Tiktok/Learn%20To%20Code.md))
+<img width="640" alt="image" src="https://user-images.githubusercontent.com/65219666/201820540-f1bc97d5-58dd-478d-ae8c-acdcdd4d5200.png">
+
 
 #### Afterwards
 3. I recommend practicing these ideas and reinforcing them on course platforms like Codecademy and Fireship. Fireship is a high quality course creator on Youtube and Codecademy is an OG learn to code platform where I started in 2014. They both offer free and paid services. I recommend paying for the service ($20-$40/month) as an investment for 1-2 months. I don't have any affiliate links here so the only way to directly support me is via Patreon.
