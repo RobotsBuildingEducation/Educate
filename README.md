@@ -114,6 +114,7 @@ Please take the take the time to read some of these essays. It's a work in progr
 ## Building Scholarships
 <img src="https://res.cloudinary.com/eduprojectsil/image/upload/v1589613611/Screen_Shot_2020-05-16_at_12.19.34_AM_iaa5zw.png" width="50%" />
 
+- [TO CONTRIBUTE TO THE SCHOLARSHIP FUND](https://patreon.com/robotsbuildingeducation)
 
 - To apply to the scholarship: email robotsbuildingeducation@gmail.com with your story and vision. That's all. You will forever be eligible to receive $1,000 in Bitcoin, Apple or Meta credits. I will personally read and issue scholarships.
 
