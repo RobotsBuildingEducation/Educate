@@ -6,18 +6,18 @@ Remember: if this helped you in any meaningful way and you believe in what I wan
 [Lesson 1 - Foundation of Coding & Logic](https://www.tiktok.com/@robotsbuildingeducation/video/7166910359456976170?is_from_webapp=1&sender_device=pc&web_id=7142667285525055019)
 
 
-[Lesson 2 - Sets Of Data](https://www.tiktok.com/t/ZTRQJnyCe/)
+[Lesson 2 - Sets Of Data**](https://www.tiktok.com/t/ZTRQJnyCe/)
 
-[Lesson 3 - Using Functions](https://www.tiktok.com/t/ZTRQedUyT/)
+[Lesson 3 - Using Functions**](https://www.tiktok.com/t/ZTRQedUyT/)
 
-[Lesson 4 - Creating Objects](https://www.tiktok.com/t/ZTRQe8jC3/)
+[Lesson 4 - Creating Objects**](https://www.tiktok.com/t/ZTRQe8jC3/)
 
-[Lesson 5 - Network Functions ](https://www.tiktok.com/t/ZTRQJ34Ua/)
+[Lesson 5 - Network Functions**](https://www.tiktok.com/t/ZTRQJ34Ua/)
 
-[Lesson 6 - Loops & Counting](https://www.tiktok.com/t/ZTRQe18WL/)
+[Lesson 6 - Loops & Counting**](https://www.tiktok.com/t/ZTRQe18WL/)
 
 
-This sections is under revision
+** This section is under revision
 - More uniform presentation
 - More audio-only friendly
 
