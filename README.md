@@ -27,7 +27,8 @@ Connect with me:
 - [Twitter - Random](https://www.twitter.com/sheilfer)
 - Gmail - Submit a scholarship application: robotsbuildingeducation@gmail.com
 
-**Current amount of $1,000 scholarships per year: 3 per year
+**Current amount of $1,000 scholarships per year: 3
+
 Goal: 365 per year**
 <img width="626" alt="image" src="https://user-images.githubusercontent.com/65219666/201502441-69cc43db-5a30-4583-9c95-a4d0e0cef00e.png">
 
