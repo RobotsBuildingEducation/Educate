@@ -29,8 +29,11 @@ Connect with me:
 
 **Current amount of $1,000 scholarships per year: 3
 
-Goal: 365 per year**
-<img width="626" alt="image" src="https://user-images.githubusercontent.com/65219666/201502441-69cc43db-5a30-4583-9c95-a4d0e0cef00e.png">
+**Goal: 365 per year**
+
+
+<img width="611" alt="image" src="https://user-images.githubusercontent.com/65219666/202891961-21c33385-b6ca-41bb-af55-1895c8a6885e.png">
+<img width="876" alt="image" src="https://user-images.githubusercontent.com/65219666/202891974-2a74fa3d-9d91-4e57-ba8f-f64ad84fe39f.png">
 
 ## Learn To Code
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/65219666/201549376-259ac430-a2df-4ab7-bb0c-346b67f90165.png">
