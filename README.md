@@ -54,7 +54,7 @@ Before starting. Please watched the 3 pinned videos on my profile on Tiktok. It 
 #### Tiktok 
 
 
-1. I'm curating a playlist on Tiktok that will introduce to you what you need to learn and how to think about it in order to break into tech or to build your own apps and businesses. It's about 30-40 minutes. I will continuously improve it until people can learn how to code by just listening to my voice. The reason it has to be like this is because many Latinos and minorities work in labor, and they may only have access to a headphone during the part of the day where they have most energy (I used to work in labor)
+1. I'm curating a playlist on Tiktok that will introduce to you what you need to learn and how to think about it in order to break into tech or to build your own apps and businesses. It's about 30-40 minutes. I will continuously improve it until people can learn how to code by just listening to my voice. The reason it has to be like this is because many Latinos and minorities work in labor with headphones, they're busy parents with high amounts of unpaid labor or they have some significant challenge that prevents them from being able to access learning.
 
 
 <img src="https://user-images.githubusercontent.com/65219666/201494455-2bca725b-565e-4131-820f-197ef2cbd698.png" width="50%" />
