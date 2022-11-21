@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 ![image](https://user-images.githubusercontent.com/65219666/201502422-7b828773-5c13-4fbe-8d5f-f770986da0cc.png)
 
 
@@ -204,7 +204,7 @@ Incubating:
 5. Financial & civic Engagement
 
 
-If you're interested in investing in me, then to be totally honest I'm not really sure what the best approach would be. I intentionally try to run with the lowest economy possible although I suppose doing this full-time would be more impactful. I could probably go pretty hard but I never really considered outside influence in the process. I always felt like I just needed to tap into the culture the right way with the right amount of effort to make something happen.
+If you're interested in investing in me, then to be totally honest I'm not really sure what the best approach would be. I intentionally try to run with the lowest economy possible although I suppose doing this full-time would be more impactful. At the same time, working on my own means I can operate on my own, i can fail faster and i can take risks that i otherwise could with someone else. I could probably go pretty hard but I never really considered outside influence in the process. I always felt like I just needed to tap into the culture the right way with the right amount of effort to make something happen and the pipelines created from that approach are more organic and resilient. its slow though, but that might not be true in the future.
 
 
 ## Things I'm Working On
