@@ -83,13 +83,14 @@ I want to change the nature of social media to challenge school credentials and 
 
 This github repository is one of five projects building software. Some are much more long term. I call it RO.B.E E.L.E.C.T or
 Robots Building Education:
-E - Educate: a platform for teachers 
-L - Learn: a platform for learning
-E - Empower: a platform for decentralized learning protocols 
-C - Communicate: a platform to youth and professional networking
-T - Testify: a platform for youth experience
 
-I'm choosing **Educate** as the project to assist others to gain experience. I've built a demo version of it many years here: [Appletree.io](https://appletree.io). It's an application where teachers can share resources and collaborate together, much like Github. The assignment/tasks are meant to be challenging and they're designed for real-world skills learning, but they can be figured out by a beginner that has learned the previous material. It will require you to understand Github, which I have not made introductory tutorials on yet. If you are seeking real-world experience or project experience for your resume, please work on these while I work on "Learn" by myself. I will be happy to be a point of contact/reference on your job applications and can confirm your work to employers.
+- E - Educate: a platform for teachers 
+- L - Learn: a platform for learning
+- E - Empower: a platform for decentralized learning protocols 
+- C - Communicate: a platform to youth and professional networking
+- T - Testify: a platform for youth experience
+
+Pretty cute huh? 😭 I'm choosing **Educate** as the project to assist others to gain experience. I've built a demo version of it many years here: [Appletree.io](https://appletree.io). It's an application where teachers can share resources and collaborate together, much like Github. The assignment/tasks are meant to be challenging and they're designed for real-world skills learning, but they can be figured out by a beginner that has learned the previous material. It will require you to understand Github, which I have not made introductory tutorials on yet. If you are seeking real-world experience or project experience for your resume, please work on these while I work on "Learn" by myself. I will be happy to be a point of contact/reference on your job applications and can confirm your work to employers.
 
 Long term, I hope to have a stronger pipeline with industry recruiters. I'm working on that.
 
