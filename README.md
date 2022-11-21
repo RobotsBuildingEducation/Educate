@@ -16,7 +16,7 @@ Main
 2. You want experience for your resume: [start here](https://github.com/RobotsBuildingEducation/Educate/blob/main/README.md#gaining-experience)
 3. You want a mentor + life resources: [start here](https://github.com/RobotsBuildingEducation/Educate/blob/main/README.md#mentorship)
 4. You want to help my goals with the scholarship fund, or you want to apply to it: [start here](https://github.com/RobotsBuildingEducation/Educate#building-scholarships)
-5. You're an investor that wants to learn more about me or my ideas: [start here](https://github.com/RobotsBuildingEducation/Educate#Investor-Relations)
+5. You're an investor that wants to learn more about me or my ideas: [start here](https://github.com/RobotsBuildingEducation/Educate#investor-relations)
 6. You want to read through frequently asked questions: [start here](https://github.com/RobotsBuildingEducation/Educate#FAQ)
 
 Not Main
