@@ -11,11 +11,20 @@ learning. I want to flood the barrio and border with silicon before we flood it 
 
 
 You're likely here from Tiktok for a few reasons:
+Main
 1. You want to learn how to code: [start here](https://github.com/RobotsBuildingEducation/Educate/blob/main/README.md#learn-to-code)
 2. You want experience for your resume: [start here](https://github.com/RobotsBuildingEducation/Educate/blob/main/README.md#gaining-experience)
 3. You want a mentor + life resources: [start here](https://github.com/RobotsBuildingEducation/Educate/blob/main/README.md#mentorship)
 4. You want to help my goals with the scholarship fund, or you want to apply to it: [start here](https://github.com/RobotsBuildingEducation/Educate#building-scholarships)
-5. You want to read through frequently asked questions: [start here](https://github.com/RobotsBuildingEducation/Educate#FAQ)
+5. You're an investor that wants to learn more about me or my ideas: [start here](https://github.com/RobotsBuildingEducation/Educate#Investor-Relations)
+6. You want to read through frequently asked questions: [start here](https://github.com/RobotsBuildingEducation/Educate#FAQ)
+
+Not Main
+1. You want to see what I'm working on to grow this [start here](https://github.com/RobotsBuildingEducation/Educate#Investor-Relations)
+2. You want to connect with recruiters to grow your network: [Not Yet Available](x.com)
+3. You want to learn about stocks and the tech recession: [Not Yet Available](x.com)
+
+
 
 
 
@@ -169,9 +178,39 @@ I'm neither. I'm not even independent. All I give a fuck about is the drug war a
 
 
 
+## Investor Relations
+
+Currently, this is run by one person and it's intentionally done this way. To understand some core philosophy that guides me, I recommend to read the following books:
+
+1. The One World Schoolhouse by Salman Khan (Khan Academy)
+2. Teaching Community: A Pedagogy Of Hope (bell hooks)
+3. Race After Technology (Rahu Benjamin)
+
+I'm largely inspired by Khan Academy and have been for many years. I think there can be different approaches to contribute to solving the same problem. Khan Academy did an excellent job becoming an adjacent and supportive element to public education and started from the classroom. I'm not doing that. I'm starting at the community. So my concerns are different. I'm not concerned with schedule. I'm not concerned with administrative standards. My concern is the experience of a kid growing up in a barrio and the disenfranchisement that comes with it.
+
+So I care about creating scholarships. I care about making students feel like their learning is significant and important to others. I care about empowering communities through the individuals that exist in it. It's more of a counter-culture in some ways and admittedly it's not easy given how corporatized public and private relationships are.
+
+So given that, right now, I feel like it's important to focus on creating a healthy scholarship fund and engaging with the community that way. The community ought to feel responsible for it, not simply granted it. They worked to create that environment. It belongs to them.
+
+But at the end of the day, here are the significant implementations I would like to work on:
+
+1. Embedding scholarships in digital education 
+2. Access to many best fit teachers
+3. Expanding social media to acreddit more education (verifiable credentials)
+
+Incubating:
+4. Educator's collaborative cloud
+5. Financial & civic Engagement
+
+
+If you're interested in investing in me, then to be totally honest I'm not really sure what the best approach would be. I intentionally try to run with the lowest economy possible although I suppose doing this full-time would be more impactful. I could probably go pretty hard but I never really considered outside influence in the process. I always felt like I just needed to tap into the culture the right way with the right amount of effort to make something happen.
+
+
 ## Things I'm Working On
 - Industry recruiter pipeline. Basically there are people whos jobs are to get you a job. I'm going to connect with them more over time to make you guys have a stronger, trust worthy and immediate network. Having a larger following on Tiktok with my Latino empowerment brand is helpful. It may be a long-term thing with project Community in E.L.E.C.T 
 
 - Improving Learnability of this project from discovery on TikTok.
 
 - Revising old videos 
+
+- Stock market writings
