@@ -193,7 +193,7 @@ So I care about creating scholarships. I care about making students feel like th
 
 So given that, right now, I feel like it's important to focus on creating a healthy scholarship fund and engaging with the community that way. The community ought to feel responsible for it, not simply granted it. They worked to create that environment. It belongs to them.
 
-But at the end of the day, here are the significant implementations I would like to work on:
+But at the end of the day, here are the significant implementations I would like to work on: 
 
 1. Embedding scholarships in digital education 
 2. Access to many best fit teachers
@@ -204,7 +204,7 @@ Incubating:
 5. Financial & civic Engagement
 
 
-If you're interested in investing in me, then to be totally honest I'm not really sure what the best approach would be. I intentionally try to run with the lowest economy possible although I suppose doing this full-time would be more impactful. At the same time, working on my own means I can operate on my own, i can fail faster and i can take risks that i otherwise could with someone else. I could probably go pretty hard but I never really considered outside influence in the process. I always felt like I just needed to tap into the culture the right way with the right amount of effort to make something happen and the pipelines created from that approach are more organic and resilient. its slow though, but that might not be true in the future.
+If you're interested in investing in me, then to be totally honest I'm not really sure what the best approach would be. I intentionally try to run with the lowest economy possible although I suppose doing this full-time would be more impactful. At the same time, working on my own means I can operate on my own, i can fail faster and i can take risks that i otherwise couldn't with someone else. I could probably go pretty hard but I never really considered outside influence in the process. I always felt like I just needed to tap into the culture the right way with the right amount of effort to make something happen and the pipelines created from that approach are more organic and resilient. its slow though, but that might not be true in the future.
 
 
 ## Things I'm Working On
