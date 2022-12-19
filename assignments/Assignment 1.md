@@ -2,8 +2,12 @@
 As you saw in the videos, creating a project is as simple as installing a few programs and running a command. Which is basically as easy as downloading a game and clicking on it to launch it.
 
 - [Creating a Project](https://www.tiktok.com/@robotsbuildingeducation/video/7154933416230882606)
-- [Demystifying Command Lines & Operating Systems](https://www.tiktok.com/@robotsbuildingeducation/video/7150916026958466350)
-- Recommended Google/Youtube/Reddit/Stackoverflow: `"What are alternatives to create-react-app?"`
+- [Lesson 7 - Operating Systems and Machines](https://www.tiktok.com/@robotsbuildingeducation/video/7150916026958466350)
+- [Lesson 11 - Working With Other Engineers - Featuring Chat GPT](https://www.tiktok.com/@robotsbuildingeducation/video/7178398406371593518?is_from_webapp=1&sender_device=pc&web_id=7142667285525055019)
+- Recommended ChatGPT/Google/Youtube/Reddit/Stackoverflow: `"What are alternatives to create-react-app?"`
+
+<img width="791" alt="image" src="https://user-images.githubusercontent.com/65219666/208537939-b1d7d324-639b-4e9f-bc8f-89cbb1b2be50.png">
+
 
 <img width="389" alt="image" src="https://user-images.githubusercontent.com/65219666/196085411-9b26d07e-bd97-48fe-aeff-1fb300acbd24.png">
 
