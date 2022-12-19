@@ -42,6 +42,8 @@ Remember: if this helped you in any meaningful way and you believe in what I wan
 
 [Lesson 10 - Connecting App To A Database](https://www.tiktok.com/t/ZTRQJwPuo/)
 
+[Lesson 11 - Working With Other Engineers - Featuring Chat GPT](https://www.tiktok.com/@robotsbuildingeducation/video/7178398406371593518?is_from_webapp=1&sender_device=pc&web_id=7142667285525055019)
+
 
 ## Level 3: Technical Interview Fundamentals
 <img width="872" alt="image" src="https://user-images.githubusercontent.com/65219666/201819960-cce5a14d-dae9-4233-ac98-1423bd5ed4b4.png">
