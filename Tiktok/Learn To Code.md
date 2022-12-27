@@ -1,6 +1,10 @@
 Remember: if this helped you in any meaningful way and you believe in what I want to create, pls help me build scholarships on Patreon <3 <3 [im tryna do it different 💯 ](https://www.patreon.com/RobotsBuildingEducation)
 
-<video class="" autoplay="" playsinline="true" x5-playsinline="true" webkit-playsinline="true" tabindex="2" mediatype="video" src="https://v16m-webapp.tiktokcdn-us.com/b513a87bfdc6bf1f62cefa4baf92d5fe/63ab1045/video/tos/useast5/tos-useast5-ve-0068c001-tx/3b37b6227b834205831187752ab497dd/?a=1988&amp;ch=0&amp;cr=0&amp;dr=0&amp;lr=tiktok_m&amp;cd=0%7C0%7C1%7C0&amp;cv=1&amp;br=434&amp;bt=217&amp;cs=0&amp;ds=3&amp;ft=4KLMeMzm8Zmo0lZdk64jV58WdpWrKsdm&amp;mime_type=video_mp4&amp;qs=0&amp;rc=Njs4NjwzPGY8ZTVnZDxnOEBpanB1ZDY6ZmZ5ZzMzZzczNEA2MTEuNDJeNi4xYTMxLy8tYSNmZms2cjQwZm5gLS1kMS9zcw%3D%3D&amp;l=202212270932163566EDC9F73F8809CB11"></video>
+
+
+https://user-images.githubusercontent.com/65219666/209646231-1cbafa7e-ec3e-4fec-b72d-37aaafdf0316.mp4
+
+
 
 ## Level 1: Introduction To Coding
 <img alt="image" src="https://user-images.githubusercontent.com/65219666/201819462-6a76b68f-7fe8-4804-9e58-2fab353f3071.png" width="100%" />
