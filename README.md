@@ -1,8 +1,8 @@
 # Current project in progress RO.B.E
 To find more information, join the Patreon:
 
-https://github.com/RobotsBuildingEducation/LearnUI
-https://learn-robotsbuildingeducation.web.app/
+- https://github.com/RobotsBuildingEducation/LearnUI
+- https://learn-robotsbuildingeducation.web.app/
 
 ## Introduction
 ![image](https://user-images.githubusercontent.com/65219666/201502422-7b828773-5c13-4fbe-8d5f-f770986da0cc.png)
