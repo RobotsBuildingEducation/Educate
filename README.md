@@ -1,3 +1,12 @@
+# What's Up Bendejos
+
+I'm working here at the moment and building the app behind the Patreon. Some of you may have seen it. It's pretty cool: 
+https://github.com/RobotsBuildingEducation/LearnUI
+
+There are no docs yet, but if you've seen the app at learn-robotsbuildingeducation.web.app or on Tiktok and have access to the pass code, you'll know it's pretty cool. I can always create good work. So follow me there for now, unless some of you want to lead this project instead. This project is included in the Patreon and the app behind the patreon.
+
+
+
 # Current project in progress RO.B.E
 To find more information, join the Patreon:
 
