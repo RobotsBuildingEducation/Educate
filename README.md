@@ -1,3 +1,5 @@
+this repo is now a feature in Robots Building Education and will no longer see any updates.
+
 # What's Up Bendejos
 
 I'm working here at the moment and building the app behind the Patreon. Some of you may have seen it. It's pretty cool: 
