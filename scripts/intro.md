@@ -24,11 +24,24 @@ You want to move fast when you're not completely prepared. So let's get you prep
 
 
 Well, first, f you go on my app robotsbuildingeducation.com, you'll find a list of frequently asked questions, things like,
-"Is programming hard"
-"what computer do I need?"
-"am I too old?"
-"what kind of jobs can I do"
-"Is bootcamp worth it?"
+- "Is programming hard"
+- "what computer do I need?"
+- "am I too old?"
+- "what kind of jobs can I do"
+- "Is bootcamp worth it?"
+
+But for now, let's do a speed run.
+- "Is programming hard"
+  - no
+- "what computer do I need?"
+  - no
+- "am I too old?"
+  - no
+- "what kind of jobs can I do"
+  - no
+- "Is bootcamp worth it?"
+  - no
+
 
 But other than that, this is how we'll do it:
 First, we're going to imagine and illustrate.
