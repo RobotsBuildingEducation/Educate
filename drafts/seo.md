@@ -71,6 +71,3 @@ This is a great example of what not to do:
   ![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/5cebdfd9-3d6a-46bd-bb65-0b257d1af42a)
 
 
-
-
-![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/a02a5d10-dc62-4217-94b3-28c4c966bff5)
