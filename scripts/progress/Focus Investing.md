@@ -1,4 +1,4 @@
-# Shitty First Drafts
+# Focused Investing
 
 Investing in stocks is ultimately a science in making decisions. Focused investing is the practice I follow - so the most I can ultimately do for you here is provide you with timeless wisdom and examples of the practice so that you can start off on the right foot. So let's jump right into it.
 
@@ -11,6 +11,8 @@ Most people simply don't have the time to pour of books and readings, so they al
 **It's extremely important to start here.** It's the best starting position because you're more or less investing in an advanced algorithm that's selecting for the best possible average. That's a great deal for most people. If all your investments end up being diversified ones, that's fine. That's still focused investing if you make that informed decision.
 
 But what's the next phase after that? Well, let's say you're extremely interested in investing in "green energy markets" or "cybersecurity markets". There are ETFs for that - so start there. But as you can see, you narrowed down an entire level with this practice already.
+
+To summarize, you need to more or less understand the nature of numbers to appreciate diversification and it's complement, focused investing. Focused investing provides more volatility, but it's crucial to remember that volatility is not risk. Diversification is a reduction of volatility. In short, don't drive fast until you're a trained driver.
 
 
 ### 2. The more that you read, the more successful you will be.
@@ -40,7 +42,7 @@ This isn't simply a macro-level observation. For example, you wouldn't make info
 
 Similar to wisdom 2, you ought to pick the right role models and influences. This is true for anything, but particularly true for the stock market. As a general rule of thumb, the closer you are to money, the more value that trust has. So don't simply pick popular models, pick ones that worked hard to earn your trust.
 
-I recommend to start with Charlie Munger, Warren Buffet, Jack Bogle and Cathie Wood. They are all exceptional figures in their own way that have greatly influenced many investors across time. You may discover your own over time, but most would agree that there is meaningful information to be learned from these folks.
+I recommend to start with Charlie Munger, Warren Buffet, Jack Bogle and Cathie Wood. They are all exceptional figures in their own way that have greatly influenced many investors across time. They will provide other insights to consider. You may discover your own over time, but most would agree that there is meaningful information to be learned from these folks.
 
 You could try not to study the greats and figure it out on your own. You may even get lucky too, but what you're ultimately doing is practicing the art of walking into an arena to get slaughtered by a lion. It's not a very reasonable decision.
 
@@ -51,6 +53,8 @@ So to keep the practice going, I'm going to keep it to 5 simple points. It may t
 Like coding, the point isn't about just writing software - there's a bigger conversation here about how and why you invest in things that aren't stocks. These are your relationships, where you live, what you practice and any number of other time commitments that you make. If I had to offer one last piece of wisdom - fight like living hell to secure your right to health, time and space before money. Sometimes life has you focusing on money but keep your vision clear - you don't want to learn the hard way why health and time is more important. It'll keep you humble and honest.
 
 So let's dive in shall we? What do I invest in and why?
+
+
 
 
 
