@@ -135,10 +135,32 @@ Another key insight to understanding education technology is ultimately understa
 
 ###  Understanding Finance & Berkshire Hathaway
 
+Berkshire hathaway is somewhat complex to understand. It is one of the "incumbents" or market leadrs. These investments are at times necessary when seeking to diversify or counterbalance risk. It's an enormous decentralized network of unrelated businesses ranging from Dairy Queen to GEICO insurance that fuels investments into individual stocks. In a nutshell, investing in Berkshire is like investing in the industrial production of compounding returns.
+
+It's pretty fascinating because despite the business model of having aggressive invesments like a 40% holding in Apple, most investors would consider Berkshire to be a financially conservative institution and many prefer to invest in Berkshire instead of the overall market. This is Berkshire investors are confident that their money is being used wisely rather than optimally. So the point of investing in Berkshire isn't particularly for its growth opportunity.
+
+Understanding that base then lets your understand how Berkshire approaches money. It generally invests in heavy cash and inelastic generating businesses like insurance, railroads and energy. They then grab this cash and essentially invest it to take stake into stocks or securities in the market. These stocks tend to follow a simple model, where Berkshire will generally invest in extremely high reputation organizations like Apple, Coca Cola, Heinz-Kraft or Bank of America.
+
+Hopefully at this point you start to consider that intelligence isn't really what you want in the market, it's wisdom. You don't want to select for the smartest investment. You want to select for the most common sense one. The answer you're looking for tends to be in front of you for a reason.
+
+
+### Understanding Apple & Technology
+
+It's pretty simple to describe Apple. Apple is another of the epic incumbents. The way I like to describe apple is "industrial mastery". If you consider the lifetime value of family spend on Apple devices are services, one could argue that individuals spend as much on Apple products than they do closing a deal on the home they live in. I think that really puts the wealth of these devices into perspective. 
+
+Apple is interesting in the sense that it began to lead the American market, when historically that position belonged to large industrial institutions like General Electric or General Motors. Frankly, it makes sense that it leads.  They sell personal devices and services with those devices. It helps to think of those devices as "vehicles to services". This is also what makes the growth of Tesla particularly legendary, since it became that "next generation disruptor" with relatively extreme lifetime value. 
+
+As a side note, One interesting practice I like to do is look at the top companies over time and observe the nature of market leaders. There is a degree of common sense there: industrials, technology and financials tend to lead the market. It is the natural economy of global society. I think this is a good practice for understanding the macroeconomic side of the market. You should almost always understand what makes market leaders lead, because it is **always** a profound condition. Then, and only then, is it possible to find other opportunities.
 
 
 ### Conclusion
 
+Well truthfully, there isn't much to touch on when it comes to incumbents like Berkshire and Apple. They're massive and elite corporations, so it usually just helps to understand how they got there in order to figure out how they're staying there. The smaller businesses are opportunities, but that also requires deep understanding of their relative position in the market.
+
+
+You may have noticed that I didn't dive much into the financial reporting of these companies. That's because financial reporting is backtracked data. It's the outcome of the understanding and the execution of the business. So it's about keeping up appropriately, but I don't believe in using financial reporting to convince people of a good investment. That part is obvious, you ought to not take too much stake into something with poor or risky financials unless it's you driving the business, but that's a whole other conversation we'll have another day.
+
+As always, you can expect the depth, the details and the quality of this content to improve over time. I believe this is a good faith attempt at getting the most important thoughts on this matter in a clear way and the challenge with this content was thematically always picking out the right parts. Please do take your own time to understand this and apply it to things in and outside of stocks, since it has been multiple and continuous years of effort to consolidate it to this point!  I look forward to improving this essay as things change over time :)
 
 
 
