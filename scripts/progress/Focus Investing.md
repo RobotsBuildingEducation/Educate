@@ -1,3 +1,6 @@
+<img width="662" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/c6680e18-acf3-483e-b022-3d5faff00b8f">
+
+
 # Focused Investing
 
 Investing in stocks is ultimately a science in making decisions. Focused investing is the practice I follow - so the most I can ultimately do for you here is provide you with timeless wisdom and examples of the practice so that you can start off on the right foot. So let's jump right into it.
