@@ -113,15 +113,38 @@ And this why one of the first real data structures that you learn ends up being 
 
 But fortunately, once you understand this next data structure, called Linked Lists, you really start to build the foundation for understanding those super powerful algorithms you see with trees and graphs. So really, I would recommend to spend too much time practicing and understanding linked lists, because you're going to be using that foundation as things get more advanced. You really want to grind this out until it's pretty much second nature so that the next stage won't be so confusing.
 
-But like always, let's jump right into it and try to make sense out of this beast.
+Alright then, let's jump right into it and try to make sense out of this beast.
 
 
 ### Linked Lists
+### Trees &  Algorithms
+
+So like usual, let's start with the hard part first and break it down piece by piece so that we can make sense out of it. Before starting, let's agree on something.
+
+Formal computer science courses have their time and place and the nature of our audience requires us to keep things in simple language. So it's not really productive for me to jump into scientific language by mentioning things like "post-order traversal", "recursions" or "branch and bound algorithm design". We're still going to touch on the essence of these subjects along the way. 
+
+However, if you are a computer science I do have some advice when you work on these subject. My old Russian professor would simply say: "finger on the book. read it five times." It's good advice.
+
+So let's start with a depth-first search. A tree is going to have a bunch of groups of data that are connected in some way. Let's call these blobs of data "locations", because a location is something that can provide a lot of details about something if you really think about it.
+
+Actually, let's geek out a bit first. Let's think about a chess game. Forget the computer. We know the basics: we have a field of locations and characters that move across that field. Now there's really only two ways the travel across the board: you can move deep or you can move across. After that, it's really just a combination of those two things and making the right choices based on the problem you have.
+
+Pretty simply right? That's algorithms. Actually, that's a lot of things are shaped this way if you really think about it. Let's think about other situations:
+
+If you were to spotlessly clean up your entire house, which order of rooms would you choose and why?
+
+If you were managing a soccer team, what positions would you select for your team and why?  
+
+If you're packing your bags at the grocery store, which items are your organizing first and why? 
+
+If you're organizing a stock market portfolio, which investments do you concentrate and diversify?
 
 
-### Trees & Search Algorithms
 
-### Algorithms
+
+
+
+
 
 
 
