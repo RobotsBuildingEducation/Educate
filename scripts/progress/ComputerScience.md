@@ -139,6 +139,10 @@ If you're packing your bags at the grocery store, which items are your organizin
 
 If you're organizing a stock market portfolio, which investments do you concentrate and diversify?
 
+So let's go back to our tree. Very simply, depth first search is going to have us follow a path of locations downward first. Breadth first search is going have us follow paths that check locations across first.
+
+
+
 
 
 
