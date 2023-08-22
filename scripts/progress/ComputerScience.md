@@ -139,7 +139,74 @@ If you're packing your bags at the grocery store, which items are your organizin
 
 If you're organizing a stock market portfolio, which investments do you concentrate and diversify?
 
-So let's go back to our tree. Very simply, depth first search is going to have us follow a path of locations downward first. Breadth first search is going have us follow paths that check locations across first.
+So let's go back to our tree. Very simply, depth first search is going to have us follow a path of locations downward first. Breadth first search is going have us follow paths that check locations across first. Let's take a look at a simple depth first search algorithm that counts the amount of `null` locations in a tree:
+
+```
+let count_null = (root) => {
+  let count = 0;
+
+  let depth_first_search = (current_root) => {
+    if(current_root === null)
+      count++
+
+    for(let next_location in current_root){
+      depth_first_search(current_root[next_location))
+    }
+
+  }
+
+  depth_first_search(root)
+
+  return count
+}
+```
+
+Alright pause. You're going to notice two things here. This code is super simple, but it also feels really difficult. That's because you're dealing with real recursions and loops. This is the kind of stuff that makes fractal magic possible! So the real secret is here is this: slow down. count. It's all counting. Remember my Russian professor's advice?
+
+Finger on the book. Read it 5 times.
+
+
+Okay okay. Let's chop this up some more. Let's create our tree with code so that we have an easier time counting through something:
+
+```
+let root = {
+  alphabet: {
+    google: {
+      chrome: true
+    }
+  },
+
+  meta: {
+    facebook: {
+      threads: null
+    }
+  }
+}
+
+```
+
+So if we were to go through this tree, what direction would we go? In this case, we're picking a branch and going down that branch. We're going deep first. So this will end up being the result:
+
+
+```
+step 1: { alphabet: { google: { chrome: true } }, { meta: { facebook: { threads: null } } }
+
+step 2: { google: { chrome: true } }
+
+step 3: { chrome: true }
+
+step 4: true
+
+step 5: { facebook: { threads: null } }
+
+step 6: { threads: null }
+
+step 7: null
+
+result: 1
+
+
+```
 
 
 
