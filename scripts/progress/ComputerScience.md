@@ -105,11 +105,16 @@ This then breaks down to the infamous binary
 ```
 
 
-
-
-
-
 ### Data Structures
+
+So the important part to understand about these transformations is that the the computer reserves space and creates addresses to reference information. Thinking about these addresses and references is what typically challenges computer science students, but it's really just a smaller atomic version of what we learned in the backend engineering lesson where we learned that most of these systems are connected networks of information that we send and receive data to.
+
+And this why one of the first real data structures that you learn ends up being pretty difficult. It's not immediately intuitive like a mapping, a list or a string of characters. There are moving parts this time!
+
+But fortunately, once you understand this next data structure, called Linked Lists, you really start to build the foundation for understanding those super powerful algorithms you see with trees and graphs. So really, I would recommend to spend too much time practicing and understanding linked lists, because you're going to be using that foundation as things get more advanced. You really want to grind this out until it's pretty much second nature so that the next stage won't be so confusing.
+
+But like always, let's jump right into it and try to make sense out of this beast.
+
 
 ### Linked Lists
 
