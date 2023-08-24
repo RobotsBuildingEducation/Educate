@@ -235,7 +235,124 @@ let list = {
 }
 ```
 
+Not so bad right? The hard part here is that we just have to really think about how the data is grouped and connected. But again, if you take your time here, you can see that the concept is reasonable. It's really just software design that you're working through. So how do we build a linked list under the hood?
 
+Well, honestly, it's just this!
+
+```
+class LinkedList {
+  constructor(head){
+    this.head = head
+  }
+}
+```
+
+This lets you process that list, that you generate with items containing data and their links. So a list item would look like this:
+
+```
+class ListItem {
+  constructor(value){
+    this.value = value
+    this.linkedTo = null
+  }
+
+  setLinkedTo(listItem){
+    this.linkedTo = listItem
+  }
+
+  getLinkedTo(){
+    return this.linkedTo
+  }
+}
+```
+
+Now at this point, you need to connect the objects you create and manage their links. So an application of a linked list would look like this:
+
+```
+let meta = new ListItem("meta")
+let instagram = new ListItem("instagram")
+let reels = new ListItem("reels")
+
+// instagram -> reels
+instagram.setLinkedTo(reels)
+
+// meta -> instagram -> reels
+meta.setLinkedTo(instagram)
+
+let company = new LinkedList(meta)
+```
+
+Oooo would you look at that? You'd be surprised how hard rocket scientists work to make things easy to understand you know! It's very important to understand the world that way too.
+
+Anyway, let's walk through our list now. In order to do that, we need to extend how our LinkedList object works.
+
+```
+class LinkedList {
+  constructor(head){
+    this.head = head
+  }
+
+  getListItem(){
+    //start from the top
+    let currentItem = this.head
+
+    // if you haven't reach reached an end point, keep going forward.
+    // meta -> instagram -> reels -> null
+    if(currentItem){
+      while(currentItem.getLinkedTo()){
+        currentItem = currentItem.getLinkedTo()
+      }
+    }
+
+    return currentItem
+  }
+}
+
+//...
+console.log(company.getLastItem())
+
+```
+
+Finga on ze book. Read it fives times! Remember, this, at at the end of the day, is a counting exercise. So please take your time working through that and don't feel shame doing it in a way that works for you. Back in college, I would write a bunch of little dots all over the place in my notes as my way to count.
+
+And again, don't forget how reasonable it is to practice this way. You're learning the mechanisms of computer programming that break things down into a bunch of 0s and 1s, which is not a natural language that you learned. So take your time and do what you got to do to work through the steps.
+
+Oke doke, let's step it up a notch. Are you ready? We can use the same principles to reverse the direction of the list.
+
+```
+class LinkedList {
+  constructor(head){
+    this.head = head
+  }
+
+  //...
+  reverse(head){
+    let previousItem = null
+    let nextItem = null
+    let currentItem = head
+
+    while(currentItem){
+      nextItem = currentItem.getLinkedTo()
+      currentItem.setLinkedto(previousItem)
+
+      previousItem = currentItem
+      currentItem = nextItem
+    }
+  }
+
+```
+
+FINGA!!! ON ZE BOOOK!! READ IT 5 TIMES ! ! ! ! No but really, it's just another counting exercise. The reason it's so important is because you're stepping through the parts that can get repeated at scale. What if a list or tree has a million different data points?
+
+At this point, we can actually start to loop right back to where we started with programming languages and the design of algorithms. Every time we take these steps, we're given the chance to code or make new decisions. That decisions, one way or another, is going to get us closer to the answer we're looking for.
+
+As usual, I recommend to just step away from the code for a moment and consider how many decisions you're always making. Slow down and observe. What categories and groupings do you create? Why do you create them? And how does that help you make it through the day-to-day? 
+
+That's algorithms! If you spend enough time geeking out about it, you end up thinking about all these dimensions of the unvirse.
+
+![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/c84ef4bf-c998-4a1f-9102-bf2492e5ea60)
+
+![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/aa2d2a5d-1b71-4036-a503-155b390443b2)
 
 
 
