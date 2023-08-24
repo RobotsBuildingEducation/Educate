@@ -111,12 +111,11 @@ So the important part to understand about these transformations is that the the 
 
 And this why one of the first real data structures that you learn ends up being pretty difficult. It's not immediately intuitive like a mapping, a list or a string of characters. There are moving parts this time!
 
-But fortunately, once you understand this next data structure, called Linked Lists, you really start to build the foundation for understanding those super powerful algorithms you see with trees and graphs. So really, I would recommend to spend too much time practicing and understanding linked lists, because you're going to be using that foundation as things get more advanced. You really want to grind this out until it's pretty much second nature so that the next stage won't be so confusing.
+But fortunately, once you understand Linked Lists, you really start to build the foundation for understanding those super powerful algorithms you see with trees and graphs. So really, I would recommend to spend too much time practicing and understanding linked lists, because you're going to be using that foundation as things get more advanced. You really want to grind this out until it's pretty much second nature so that the next stage won't be so confusing.
 
 Alright then, let's jump right into it and try to make sense out of this beast.
 
 
-### Linked Lists
 ### Trees &  Algorithms
 
 So like usual, let's start with the hard part first and break it down piece by piece so that we can make sense out of it. Before starting, let's agree on something.
@@ -125,7 +124,7 @@ Formal computer science courses have their time and place and the nature of our 
 
 However, if you are a computer science I do have some advice when you work on these subject. My old Russian professor would simply say: "finger on the book. read it five times." It's good advice.
 
-So let's start with a depth-first search. A tree is going to have a bunch of groups of data that are connected in some way. Let's call these blobs of data "locations", because a location is something that can provide a lot of details about something if you really think about it.
+So let's start with a depth-first search. It's a way to move through trees and graphs. A tree is going to have a bunch of groups of data that are connected in some way. Let's call these blobs of data "locations", because a location is something that can provide a lot of details about something if you really think about it.
 
 Actually, let's geek out a bit first. Let's think about a chess game. Forget the computer. We know the basics: we have a field of locations and characters that move across that field. Now there's really only two ways the travel across the board: you can move deep or you can move across. After that, it's really just a combination of those two things and making the right choices based on the problem you have.
 
@@ -206,6 +205,39 @@ step 7: null
 result: 1
 
 ```
+
+
+### Linked Lists
+
+So, as you can see, these special algorithms aren't fundamentally **hard** but it will require some practice to be able to see these things with clarity. So what I really recommend is to focus your energy on this next data structure that we're going to walk through. It's the building block.
+
+
+Linked Lists at the end of the day are pretty much one-dimensional trees and graphs. It starts in one place and goes in one direction toward the end rather than branching out in various directions. What this results in is less decision making to do when you reach a location - you're primarily focused on how to move across a list of locations.
+
+Let's take a look at how a basic list looks:
+
+```
+let list = {
+  head: {
+
+    value: "meta",
+    linkedTo: {
+
+      value: "instagram",
+      linkedTo: {
+
+        value: "reels",
+        linkedTo: null
+
+      }
+    }
+  }
+}
+
+
+```
+
+
 
 
 
