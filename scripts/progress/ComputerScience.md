@@ -348,9 +348,9 @@ At this point, we can actually start to loop right back to where we started with
 
 As usual, I recommend to just step away from the code for a moment and consider how many decisions you're always making. Slow down and observe. What categories and groupings do you create? Why do you create them? And how does that help you make it through the day-to-day? 
 
-That's algorithms! If you spend enough time geeking out about it, you end up thinking about all these dimensions of the unvirse.
+That's algorithms! If you spend enough time geeking out about it, you end up thinking about going in between and across dimensions of the universe.
 
-![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/c84ef4bf-c998-4a1f-9102-bf2492e5ea60)
+![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/65fb63ae-d536-48a7-8508-34bdce1969ed)
 
 ![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/aa2d2a5d-1b71-4036-a503-155b390443b2)
 
