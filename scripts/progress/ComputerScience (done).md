@@ -3,7 +3,7 @@
 
 ### Intro
 
-#### Scene 1
+#### Scene 1 
 So data structures and algorithms is the subject that push a lot of 
 folks away from computer science because there's a culture of 
 "weeding out" college students and professionals during interviews with 
