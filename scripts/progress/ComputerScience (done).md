@@ -3,46 +3,56 @@
 
 ### Intro
 
-Data structures and algorithms is the subject that push a lot of 
+#### Scene 1
+So data structures and algorithms is the subject that push a lot of 
 folks away from computer science because there's a culture of 
 "weeding out" college students and professionals during interviews with 
 this subject.
 
+
+#### Scene 2
 It it definitely challenging and you will have to have to 
 practice in order to find success at this point.
 I'll be able to help break down some concepts and offer 
 guidance to make the challenge more reasonable,
-but at this point if you're not willing to put in the work, 
-you'll end up on the side that's weeded out. So let's begin.
+but at this point real practice is going to be necessary to find success.
+So let's begin.
 
 
 
 ### Programming Languages 
 
+#### Scene 3
 So let's start off by thinking about how programming languages even work.
 We can explore something that we're all familiar with with autocorrecting technology,
 or better yet, artificially intelligent answers. How does this work and how do computers 
 seemingly "know" what to do?
 
+
+#### Scene 4
 Actually, how does a computer even know how to understand code in the first place? The
 real question we're ultimately asking is here is, "how does a machine know how to interpret information?"
 
+
+#### Scene 5
 Well, like human language, there's going to be rules, regulations and structures to how we communicate.
-How do we know that periods and commas invoke minor pause? How do we know that exclamations and 
-question marks change the tone of speech? One way or another we had to design how it all 
-worked and the rest ended up being history.
+How do we know that periods and commas invoke minor pauses? How do we know that exclamations and 
+question marks change the tone? One way or another we had to design how it all 
+worked and the rest ended up being history. So let's take a look at a piece of code:
 
-So let's take a look at a piece of code:
 
+#### Scene 6
 ```js
 let musician = new Musician("Drake")
 let top_song = musician.getTopSong()
 ```
 
 We don't really need to open up a giant manual for computer science to understand what's going on here.
-We can simply break down this code by tokens in a rough way with just basic paper and pencil
+We can simply break down this code by the tokens we see in a rough way with just basic paper and pencil.
 
-```
+
+#### Scene 7
+```js
 We have a few tokens
 - "let"
 - "musician" and "top_song"
@@ -63,14 +73,14 @@ Now some of this seems fairly obvious, but let's actually take a look at those t
 
 The _string_ "Drake" is ultimately a string of characters. So "Drake" will break down into this:
 
-```
+```js
 ["D", "r", "a", "k", "e"]
 ```
 
 But is that it? What does an array of chracters break down to? Each character is going to have a mapping:
 
 
-```
+```js
 {
   0: "D",
   1: "r",
@@ -82,7 +92,7 @@ But is that it? What does an array of chracters break down to? Each character is
 
 It's at this point where computers start it's final process of converting readable data into machine code.
 
-```
+```js
 {
   0: \0x0044,
   1: \0x0072,
@@ -94,7 +104,7 @@ It's at this point where computers start it's final process of converting readab
 
 This then breaks down to the infamous binary
 
-```
+```js
 {
   0: 00000000 01000100,
   1: 00000000 01110010,
@@ -140,7 +150,7 @@ If you're organizing a stock market portfolio, which investments do you concentr
 
 So let's go back to our tree. Very simply, depth first search is going to have us follow a path of locations downward first. Breadth first search is going have us follow paths that check locations across first. Let's take a look at a simple depth first search algorithm that counts the amount of `null` locations in a tree:
 
-```
+```js
 let count_null = (root) => {
   let count = 0;
 
@@ -167,7 +177,7 @@ Finger on the book. Read it 5 times.
 
 Okay okay. Let's chop this up some more. Let's create our tree with code so that we have an easier time counting through something:
 
-```
+```js
 let root = {
   alphabet: {
     google: {
@@ -187,7 +197,7 @@ let root = {
 So if we were to go through this tree, what direction would we go? In this case, we're picking a branch and going down that branch. We're going deep first. So this will end up being the result:
 
 
-```
+```js
 step 1: { alphabet: { google: { chrome: true } }, { meta: { facebook: { threads: null } } }
 
 step 2: { google: { chrome: true } }
@@ -216,7 +226,7 @@ Linked Lists at the end of the day are pretty much one-dimensional trees and gra
 
 Let's take a look at how a basic list looks:
 
-```
+```js
 let list = {
   head: {
 
@@ -239,7 +249,7 @@ Not so bad right? The hard part here is that we just have to really think about 
 
 Well, honestly, it's just this!
 
-```
+```js
 class LinkedList {
   constructor(head){
     this.head = head
@@ -249,7 +259,7 @@ class LinkedList {
 
 This lets you process that list, that you generate with items containing data and their links. So a list item would look like this:
 
-```
+```js
 class ListItem {
   constructor(value){
     this.value = value
@@ -268,7 +278,7 @@ class ListItem {
 
 Now at this point, you need to connect the objects you create and manage their links. So an application of a linked list would look like this:
 
-```
+```js
 let meta = new ListItem("meta")
 let instagram = new ListItem("instagram")
 let reels = new ListItem("reels")
@@ -286,7 +296,7 @@ Oooo would you look at that? You'd be surprised how hard rocket scientists work 
 
 Anyway, let's walk through our list now. In order to do that, we need to extend how our LinkedList object works.
 
-```
+```js
 class LinkedList {
   constructor(head){
     this.head = head
@@ -319,7 +329,7 @@ And again, don't forget how reasonable it is to practice this way. You're learni
 
 Oke doke, let's step it up a notch. Are you ready? We can use the same principles to reverse the direction of the list.
 
-```
+```js
 class LinkedList {
   constructor(head){
     this.head = head
