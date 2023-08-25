@@ -53,7 +53,7 @@ We can simply break down this code by the tokens we see in a rough way with just
 
 #### Scene 7
 ```js
-We have a few tokens
+Possible tokens
 - "let"
 - "musician" and "top_song"
 - "="
@@ -61,25 +61,25 @@ We have a few tokens
 - "Musician"
 - "Drake"
 - "."
-- "getTopSong()"
+- "getTopSong"
 ```
 
 A computer is going to break each part piece by piece since each token represents something competely different.
-For example, a computer will understand that "getTopSong()" is a function and "new" is a way to create new objects based off a class definition.
+For example, a computer will understand that "getTopSong" is a function and "new" is a way to create new objects based off a class definition. Now some of this seems fairly obvious, but let's actually take a look at those tokens being broken down. What do you think the "Drake" string breaks down into?
 
 
-Now some of this seems fairly obvious, but let's actually take a look at those tokens being broken down. What do you think the "Drake" string breaks down into?
-
-
-The _string_ "Drake" is ultimately a string of characters. So "Drake" will break down into this:
+#### Scene 8
+The _string_ "Drake" is ultimately a **string of characters**. So "Drake" will break down into this:
 
 ```js
 ["D", "r", "a", "k", "e"]
 ```
 
-But is that it? What does an array of chracters break down to? Each character is going to have a mapping:
+But is that it? What does an array of chracters break down to? 
 
 
+#### Scene 9
+Each character is going to have a mapping:
 ```js
 {
   0: "D",
@@ -90,6 +90,7 @@ But is that it? What does an array of chracters break down to? Each character is
 }
 ```
 
+#### Scene 10
 It's at this point where computers start it's final process of converting readable data into machine code.
 
 ```js
@@ -102,8 +103,8 @@ It's at this point where computers start it's final process of converting readab
 }
 ```
 
-This then breaks down to the infamous binary
-
+#### Scene 11
+Then eventually this breaks down to the infamous binary
 ```js
 {
   0: 00000000 01000100,
@@ -117,39 +118,69 @@ This then breaks down to the infamous binary
 
 ### Data Structures
 
+#### Scene 12
 So the important part to understand about these transformations is that the the computer reserves space and creates addresses to reference information. Thinking about these addresses and references is what typically challenges computer science students, but it's really just a smaller atomic version of what we learned in the backend engineering lesson where we learned that most of these systems are connected networks of information that we send and receive data to.
 
-And this why one of the first real data structures that you learn ends up being pretty difficult. It's not immediately intuitive like a mapping, a list or a string of characters. There are moving parts this time!
 
+#### Scene 13
+And this why one of the first real data structures or backend architectures that you learn ends up being pretty difficult. It's not immediately intuitive like a mapping, a list or a string of characters. There are moving parts this time!
+
+#### Scene 14
 But fortunately, once you understand Linked Lists, you really start to build the foundation for understanding those super powerful algorithms you see with trees and graphs. So really, I would recommend to spend too much time practicing and understanding linked lists, because you're going to be using that foundation as things get more advanced. You really want to grind this out until it's pretty much second nature so that the next stage won't be so confusing.
 
-Alright then, let's jump right into it and try to make sense out of this beast.
 
+#### Scene 15
+Alright then, let's jump right into it and try to make sense out of this beast.
 
 ### Trees &  Algorithms
 
+
+#### Scene 16
 So like usual, let's start with the hard part first and break it down piece by piece so that we can make sense out of it. Before starting, let's agree on something.
 
+#### Scene 17
 Formal computer science courses have their time and place and the nature of our audience requires us to keep things in simple language. So it's not really productive for me to jump into scientific language by mentioning things like "post-order traversal", "recursions" or "branch and bound algorithm design". We're still going to touch on the essence of these subjects along the way. 
 
-However, if you are a computer science I do have some advice when you work on these subject. My old Russian professor would simply say: "finger on the book. read it five times." It's good advice.
+#### Scene 18
+However, if you are a computer science I do have some advice when you work on these subject. My old Russian professor would simply say: "Finga on ze book. Read it five times!" You will see why this is good advice.
 
+
+#### Scene 19
 So let's start with a depth-first search. It's a way to move through trees and graphs. A tree is going to have a bunch of groups of data that are connected in some way. Let's call these blobs of data "locations", because a location is something that can provide a lot of details about something if you really think about it.
 
-Actually, let's geek out a bit first. Let's think about a chess game. Forget the computer. We know the basics: we have a field of locations and characters that move across that field. Now there's really only two ways the travel across the board: you can move deep or you can move across. After that, it's really just a combination of those two things and making the right choices based on the problem you have.
+#### Scene 20
+Actually, let's geek out a bit first. Let's think about a chess game. Forget the computer. 
 
-Pretty simply right? That's algorithms. Actually, that's a lot of things are shaped this way if you really think about it. Let's think about other situations:
+#### Scene 21
+We know the basics: we have a field of locations and characters that move across that field. Now there's really only two ways the travel across the board:
 
+#### Scene 21
+you can move deep 
+
+#### Scene 22
+or you can move across. 
+
+#### Scene 23
+After that, it's really just a combination of those two things and making the right choices based on the problem you have. Pretty simply right? That's algorithms. Actually, that's a lot of things are shaped this way if you really think about it. Let's think about other situations:
+
+#### Scene 24
 If you were to spotlessly clean up your entire house, which order of rooms would you choose and why?
 
+#### Scene 25
 If you were managing a soccer team, what positions would you select for your team and why?  
 
+#### Scene 26
 If you're packing your bags at the grocery store, which items are your organizing first and why? 
 
+#### Scene 27
 If you're organizing a stock market portfolio, which investments do you concentrate and diversify?
 
-So let's go back to our tree. Very simply, depth first search is going to have us follow a path of locations downward first. Breadth first search is going have us follow paths that check locations across first. Let's take a look at a simple depth first search algorithm that counts the amount of `null` locations in a tree:
+#### Scene 28
+So let's go back to our tree. Very simply, depth first search is going to have us follow a path of locations downward first. Breadth first search is going have us follow paths that check locations across first. 
+Let's take a look at a simple depth first search algorithm that counts the amount of `null` locations in a tree:
 
+
+#### Scene 29
 ```js
 let count_null = (root) => {
   let count = 0;
@@ -170,12 +201,15 @@ let count_null = (root) => {
 }
 ```
 
-Alright pause. You're going to notice two things here. This code is super simple, but it also feels really difficult. That's because you're dealing with real recursions and loops. This is the kind of stuff that makes fractal magic possible! So the real secret is here is this: slow down. count. It's all counting. Remember my Russian professor's advice?
+Alright pause. You're going to notice two things here. This code is super simple, but it also feels really difficult. That's because you're dealing with real recursions and loops. This is the kind of stuff that makes fractal magic possible! 
 
+#### Scene 30
+So the real secret is here is this: slow down. count. It's all counting. Remember my Russian professor's advice?
 Finger on the book. Read it 5 times.
 
 
-Okay okay. Let's chop this up some more. Let's create our tree with code so that we have an easier time counting through something:
+#### Scene 31
+Okay okay. Let's chop this up some more. Let's create our tree with code so that we have an easier time counting through something. If we were to go through this tree, what direction would we go?
 
 ```js
 let root = {
@@ -194,8 +228,9 @@ let root = {
 
 ```
 
-So if we were to go through this tree, what direction would we go? In this case, we're picking a branch and going down that branch. We're going deep first. So this will end up being the result:
 
+#### Scene 32
+In this case, we're picking a branch and going down that branch. We're going deep first. So this will end up being the result:
 
 ```js
 step 1: { alphabet: { google: { chrome: true } }, { meta: { facebook: { threads: null } } }
@@ -219,13 +254,15 @@ result: 1
 
 ### Linked Lists
 
-So, as you can see, these special algorithms aren't fundamentally **hard** but it will require some practice to be able to see these things with clarity. So what I really recommend is to focus your energy on this next data structure that we're going to walk through. It's the building block.
+#### Scene 33
+As you can see, these special algorithms aren't fundamentally **hard** but it will require some practice to be able to see these things with clarity. So what I really recommend is to focus your energy on this Linked List data structure that we're going to walk through. It's the building block for the more advanced stuff that you just saw.
+
+#### Scene 34
+Linked Lists at the end of the day are pretty much one-dimensional trees and graphs. It starts in one place and goes in one direction toward the end rather than branching out in various directions. What this results in is less decision making to do when you reach a location. So let's take a look at how to build and move across one.
 
 
-Linked Lists at the end of the day are pretty much one-dimensional trees and graphs. It starts in one place and goes in one direction toward the end rather than branching out in various directions. What this results in is less decision making to do when you reach a location - you're primarily focused on how to move across a list of locations.
 
-Let's take a look at how a basic list looks:
-
+#### Scene 35
 ```js
 let list = {
   head: {
@@ -245,8 +282,10 @@ let list = {
 }
 ```
 
-Not so bad right? The hard part here is that we just have to really think about how the data is grouped and connected. But again, if you take your time here, you can see that the concept is reasonable. It's really just software design that you're working through. So how do we build a linked list under the hood?
+Not so bad right? The hard part here is that we just have to really think about how the data is grouped and connected. But again, if you take your time here, you can see that the concept is not super unreasonable. It's really just software design that you're working through, which you're neww at! So how do we build a linked list under the hood?
 
+
+#### Scene 36
 Well, honestly, it's just this!
 
 ```js
@@ -257,7 +296,11 @@ class LinkedList {
 }
 ```
 
-This lets you process that list, that you generate with items containing data and their links. So a list item would look like this:
+This lets you process a list, that you populate with location items containing data and their links. 
+
+
+#### Scene 37
+A list item would simply look like this then:
 
 ```js
 class ListItem {
@@ -276,6 +319,7 @@ class ListItem {
 }
 ```
 
+#### Scene 38
 Now at this point, you need to connect the objects you create and manage their links. So an application of a linked list would look like this:
 
 ```js
@@ -292,8 +336,11 @@ meta.setLinkedTo(instagram)
 let company = new LinkedList(meta)
 ```
 
-Oooo would you look at that? You'd be surprised how hard rocket scientists work to make things easy to understand you know! It's very important to understand the world that way too.
+#### Scene 39
+Oooo would you look at that? You'd be surprised how hard rocket scientists work to make things easy to understand you know! It's very important to understand the world in simple terms too.
 
+
+#### Scene 40
 Anyway, let's walk through our list now. In order to do that, we need to extend how our LinkedList object works.
 
 ```js
@@ -323,10 +370,15 @@ console.log(company.getLastItem())
 
 ```
 
-Finga on ze book. Read it fives times! Remember, this, at at the end of the day, is a counting exercise. So please take your time working through that and don't feel shame doing it in a way that works for you. Back in college, I would write a bunch of little dots all over the place in my notes as my way to count.
+#### Scene 41
+Finga on ze book. Read it fives times! Remember, this, at at the end of the day, is a counting exercise. So please take your time working through that and don't feel shame doing it in a way that works for you. Back in college, I would write a bunch of little dots all over the place in my notes as my way to count how the computers were counting, like the Mayans!
 
-And again, don't forget how reasonable it is to practice this way. You're learning the mechanisms of computer programming that break things down into a bunch of 0s and 1s, which is not a natural language that you learned. So take your time and do what you got to do to work through the steps.
 
+#### Scene 42
+And again, don't forget how reasonable it is to practice this way. You're learning the mechanisms of computer science that break things down into a bunch of 0s and 1s, which is not a natural language that you learned. So take your time and do what you got to do to work through the steps.
+
+
+#### Scene 43
 Oke doke, let's step it up a notch. Are you ready? We can use the same principles to reverse the direction of the list.
 
 ```js
