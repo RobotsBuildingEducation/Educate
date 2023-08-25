@@ -346,7 +346,7 @@ FINGA!!! ON ZE BOOOK!! READ IT 5 TIMES ! ! ! ! No but really, it's just another 
 
 At this point, we can actually start to loop right back to where we started with programming languages and the design of algorithms. Every time we take these steps, we're given the chance to code or make new decisions. That decisions, one way or another, is going to get us closer to the answer we're looking for.
 
-As usual, I recommend to just step away from the code for a moment and consider how many decisions you're always making. Slow down and observe. What categories and groupings do you create? Why do you create them? And how does that help you make it through the day-to-day? 
+As usual, I recommend to just step away from the code for a moment and consider how many decisions you're always making. Slow down and observe. Why are you making those choices? What are you optimizing for? What categories and groupings do you create? Why do you create them? And how does that help you make it through the day-to-day? 
 
 That's algorithms! If you spend enough time geeking out about it, you end up thinking about going in between and across dimensions of the universe.
 
@@ -355,6 +355,24 @@ That's algorithms! If you spend enough time geeking out about it, you end up thi
 ![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/aa2d2a5d-1b71-4036-a503-155b390443b2)
 
 
+Now to leave you with an ultimate challenge. Let's increase the difficulty by 1000! 😈
+
+I want you to look into something called the N-Queens problem. You're going to find something obvious about the problem. It's complex. And by that, I mean that the amount of solutions becomes extremely large with very few inputs. It's kind of like multiplying something by 10 100 times, the number gets very large and it gets very complicated. But even in this case you're still doing the same thing to understand the problem: you're counting through steps and you're making choices every time you go through a step. The technique that you're really practicing here is a technique called "backtracking", which again, is something you naturally do in the real world when you try to organize things with unknown information when we do techniques like trial-by-error.
+
+https://en.wikipedia.org/wiki/Eight_queens_puzzle
+
+<img width="580" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/63c3601e-b18a-4b2f-93b9-b3f99fbe0ed9">
+
+
+# Conclusion
+
+And that's all folks... for now. This is version 2 of the computer science lecture. And if it needs repeating... finga on ze - nah you get the point. I really meant it when I said that this lessons requires practice. At this point you're really starting to apply the foundations of computer science in meaningful ways that eventually results in you building algorithms that power applications that we know and love. 
+
+And well, honestly, if you've gotten to this point, and you're working through these level of challenges, you really ought to consider where you are in life. At this point, it's definitely worth investing in yourself heavily. Whethere it's a tutor, a mentor, a community or tools to support your success - you really need to start making a habit of that because the things you're acquiring are deeply valuable and deeply necessary for our progress.
+
+Much like lesson 1, you need to remember that you're not an imposter. You're just holding yourself to a high standard without the sufficient resources to feel confident from the get go. But that's fine. And the way you want to work through that is with positive self-talk and affirmations that you are, in fact, that person, because we are all that person - we all just have different reasons.
+
+So good luck! And if you need any more help from me, you know where you reach me (Patreon)
 
 
 
