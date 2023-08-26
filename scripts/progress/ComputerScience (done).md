@@ -236,7 +236,7 @@ In this case, we're picking a branch and going down that branch. We're going dee
 {
   "step 1":
     { alphabet: { google: { chrome: true }},
-    { meta: { facebook: { threads: null } }}
+    { meta: { facebook: { threads: null }}}
   
   "step 2": { google: { chrome: true } }
   
