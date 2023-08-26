@@ -249,10 +249,9 @@ let root = {
   "step 6": { threads: null }
   
   "step 7": null
-  
-  "result": 1
 }
-
+// ...
+console.log(count_null(null)) // result will be 1
 ```
 
 
