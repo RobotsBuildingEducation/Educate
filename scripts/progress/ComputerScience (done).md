@@ -233,7 +233,7 @@ let root = {
 In this case, we're picking a branch and going down that branch. We're going deep first. So this will end up being the result:
 
 ```js
-{
+let root = {
   "step 1":
     { alphabet: { google: { chrome: true }},
     { meta: { facebook: { threads: null }}}
