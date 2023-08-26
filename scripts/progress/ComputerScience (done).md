@@ -53,7 +53,7 @@ We can simply break down this code by the tokens we see in a rough way with just
 
 #### Scene 7
 ```js
-Possible tokens
+// Possible tokens
 - "let"
 - "musician" and "top_song"
 - "="
