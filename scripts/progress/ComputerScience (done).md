@@ -139,7 +139,7 @@ Alright then, let's jump right into it and try to make sense out of this beast.
 So like usual, let's start with the hard part first and break it down piece by piece so that we can make sense out of it. Before starting, let's agree on something.
 
 #### Scene 17
-Formal computer science courses have their time and place and the nature of our audience requires us to keep things in simple language. So it's not really productive for me to jump into scientific language by mentioning things like "post-order traversal", "recursions" or "branch and bound algorithm design". We're still going to touch on the essence of these subjects along the way. 
+Formal computer science courses have their time and place and the nature of our audience requires us to keep things in simple language. So it's not really productive for me to jump into scientific language by mentioning things like "post-order traversal", "markov chains" or "branch and bound algorithm design". We're still going to touch on the essence of these subjects along the way. 
 
 #### Scene 18
 However, if you are a computer science student I do have some advice when you work on these subject. My old Russian professor would simply say: "Finga on ze book. Read it five times!" You will see why this is good advice.
