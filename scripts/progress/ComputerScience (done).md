@@ -356,7 +356,8 @@ class LinkedList {
     //start from the top
     let currentItem = this.head
 
-    // if you haven't reach reached an end point, keep going forward.
+    // if you haven't reach reached an end point,
+    // keep going forward.
     // meta -> instagram -> reels -> null
     if(currentItem){
       while(currentItem.getLinkedTo()){
