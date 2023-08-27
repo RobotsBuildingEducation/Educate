@@ -462,7 +462,7 @@ And well, honestly, if you've gotten to this point, and you're working through t
 Much like lesson 1, you need to remember that you're not an imposter. You're just holding yourself to a high standard without the sufficient resources to feel confident from the get go. But that's fine. The way you want to work through that is with positive self-talk and affirmations that you are, in fact, that person, because we are all that person - we all just have different reasons.
 
 #### Scene 56
-So good luck! And if you need any more help from me, you know where you reach me (Patreon)
+So good luck! And if you need any more help from me, you know where you reach me. And if you don't... what is this amateur hour? Go to the link in my bio! FINGA ON ZE BOOK!!!!!!!
 
 
 
