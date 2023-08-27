@@ -446,19 +446,22 @@ https://en.wikipedia.org/wiki/Eight_queens_puzzle
 # Conclusion
 
 #### Scene 51
-And that's all folks... for now. This is version 2 of the computer science lecture. And if it needs repeating... finga on ze - nah you get the point. 
+And that's all folks... for now. This is version 2 of the computer science lecture. And if it needs repeating... 
 
 #### Scene 52
+finga on ze - nah you get the point. 
+
+#### Scene 53
 I really meant it when I said that this lessons requires practice. At this point you're really starting to apply the foundations of computer science in meaningful ways that eventually results in you building algorithms that power applications that we know and love. 
 
 
-#### Scene 53
+#### Scene 54
 And well, honestly, if you've gotten to this point, and you're working through these level of challenges, you really ought to consider where you are in life. At this point, it's definitely worth investing in yourself heavily. Whethere it's a tutor, a mentor, a community or tools to support your success - you really need to start making a habit of that because the things you're acquiring are deeply valuable and deeply necessary for our progress.
 
-#### Scene 54
+#### Scene 55
 Much like lesson 1, you need to remember that you're not an imposter. You're just holding yourself to a high standard without the sufficient resources to feel confident from the get go. But that's fine. The way you want to work through that is with positive self-talk and affirmations that you are, in fact, that person, because we are all that person - we all just have different reasons.
 
-#### Scene 55
+#### Scene 56
 So good luck! And if you need any more help from me, you know where you reach me (Patreon)
 
 
