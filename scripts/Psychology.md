@@ -5,21 +5,26 @@ This is an initial essay and early access content to a lecture that will be rele
 ## Introduction
 
 **Slide 1x**
+<br/>
 Before starting, let’s step away from our predictable prejudices about the study of psychology, the conversations around it and its social impacts on the modern day so that we can begin to reform a stronger mental model around the subject. If we’re being honest, our generation and the generation before us has no real temporal concept of what a normal life is. Normal life, for all intents and purposes, did not really align with our narrow slice in history. We have no meaningful guidance or example to draw from.
 
 **Slide 2x**
+<br/>
 That’s just the simple truth, we're mostly positioned to understand a world governed by the consequences of supernatural economic forces. Another peculiarity is that many of you, or us, find ourselves here as the first English speaking natives, which again, adds another layer of perspective. English itself has layers, whether it’s the business-savvy speech used in corporate offices, the specialized speech used in digital media  or the well-crafted speech by the academic. Simply put, the intersections of our existence on this plane is not immediately natural.
 
 **Slide 3x**
+<br/>
 This is going to have consequences, and we may refer to them as generational curses or important conversations. You’ve heard about these before - men need therapy, hispanics need therapy, we need to complete our degrees, we need to be good parents, we need to rest, we need to be presentable, we need more self-love! The real challenge is how do we do these things from the right place? How do we do those things mindfully rather than in service to the glory of infinite productivity? How do we tap into peace?
 
 **Slide 4x**
+<br/>
 These kinds of pressures are have consequences, which then brings us to these so-called difficult conversations and antidotes around depression, anxiety or the now-popular ADHD. So let’s leave all of that at the door. We don’t need it. I’m sure that we can agree that these conversations are typically poorly programmed, communicated or introduced.
 
 
 ## Self-Esteem
 
 **Slide 5x**
+<br/>
 So before going into the clinical, let’s start off with a simple concept that we fundamentally have some control over. That’s self-esteem. It's our exposure to things. In short, self-esteem is how you feel about yourself or about things.
 
 Let’s just focus on “how you feel” part. Many people don’t do this. We feel, but don't spend too much time thinking about how we feel. We don’t revisit it. Truthfully, all of us do this and this can spark the process of declining mental health.
