@@ -1,5 +1,7 @@
 This is an initial essay and early access content to a lecture that will be released as "Self-Esteem" under the creator path. Feel welcome to provide further feedback or insight on this subject.
 
+
+
 ## Introduction
 Before starting, let’s step away from our predictable prejudices about the study of psychology, the conversations around it and its social impacts on the modern day so that we can begin to reform a stronger mental model around the subject. If we’re being honest, our generation and the generation before us has no real temporal concept of what a normal life is. Normal life, for all intents and purposes, did not really align with our narrow slice in history. We have no meaningful guidance or example to draw from.
 
