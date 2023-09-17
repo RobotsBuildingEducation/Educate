@@ -7,6 +7,11 @@ It's difficult to change the classroom because the classroom is a collection of 
 It's important to remember the foundation of this subject - education is centered around a students experience. We tend to segment the conversation into different branches, which are pretty much varying levels of constraints introduced to a student or their classrooms. But education is far more economic than that and is tied closer to the limited experience we have as people. Consider, for example, the market crash invoked by the COVID pandemic - such an experience incentivized people around the world to learn about the stock market. Consider the existential crisis that many students encounter "choosing" a study in their college careers.
 
 Duolingo may be a company is capable of achieving that extraordinary outcome. To illustrate the impact we're talking about, this organization is positioned to provide literacy solutions for global audiences wanting to learn English or any other dominant business language. It has compelling market conditions worth observing beyond an American perspective of the value of language learning.
+
+![DLR_Chart-Most-popular-language-Map (1)](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/43271dca-d6f9-4444-a64c-5b71b7461fac)
+
+![The_number_of_people_below_different_poverty_lines svg (1)](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/f500bf99-68ab-4cb1-b66c-d34327fb6c96)
+
  
  
 The organization created an ever-improving game representing a learning journey that allowed it to penetrate the consumer market internationally, which is a rare achievement for a formal education technology company. This affords it a profoundly long roadmap. This really places the company close to the first mile of learning in general, since speech is one of the first skills we acquire in our life journey.
@@ -14,19 +19,28 @@ The organization created an ever-improving game representing a learning journey 
 The big risk with this approach is that it just about requires consumer level adoption in order for it to survive as a publicly traded company. One of my early attitudes in education technology development was to avoid the temptation to depend on gamification. I held a conservative attitude after watching audiences ebb and flow between popular online video games and I determined that most education technology companies were developing pretty bad games. Duolingo likely understood this and delivered a modest approach centered around retention and practice.
 
 The company operates in a much broader manner than other paid services that try to solve more local problems, like homework helping platforms. The freemium model placed them in a unique position as an effective edutainment company. It became a meme. This allowed it to take a chaotic but productive direction with popular culture and public consciousness.
- 
+
+ ![wordpress-header-4 (1) (1)](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/55348124-0117-4815-825c-f20fd7ef4b1d)
+
 So to summarize, it has a compelling business case and has achieved extraordinary market positioning that no education technology has really achieved. It took an enormous risk in its approach, an approach that takes a significant amount of time to get right, and appears to be executing on the approach correctly. It has a moat.
 
 This focus on literacy has second-order effects that seal the deal for me. It added recent services to teach the foundations of music and mathematics. This is a strong signal that they have a repeatable recipe for success to multiply the growth of their business. These subjects also push Duolingo further into PC markets since things like math and music are popular demands for elementary and high school classrooms devices. This push makes it more likely that Duolingo can expand to other mediums and forms for other subjects like coding, history or any other learning enrichment.
 
 On top of this, Duolingo is a lean startup. It was run by 95 people by the time it approached 1 billion in worth. Today it has roughly 600 employees. This is a signal that they are effective at allocating capital and utilizing resources. It's the kind of environment that would use ChatGPT to improve their company before improving their product. For the most part, the numbers check out.
+
+ ![image (11) (1)](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/012e769f-125f-49d2-93d9-7a9b7a003788)
  
+![ba19ab1a-cdef-47c1-9220-9fba3043a91b_1544x738 (1)](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/204bcd9b-a3d8-4524-95cb-8c3dd841c14f)
+
  
 Duolingo is an expensive stock as of September 2023. From an investor point of view, the market is charging a significant premium for two primary reasons. Duolingo carries positive sentiment with OpenAI's influence over the tech industry. It's also growing rapidly. The market is essentially confident that the company will continue rapid growth and its current expensive pricing is a temporary placeholder to capture it. At current rates, we'll see Duolingo operating 1 billion in revenue in the next 2 to 3 years. This places current investors in a risky situation where investors need to determine whether the opportunity cost is worth it.
 
 Growth stocks are tricky because the ultimate goal is to effectively capture the market. At times people will express confusion by organizations like Tesla being valued at seemingly absurd levels, but that's because the market is pricing in confidence that and industry will be captured. It's at that point that the organization has to maintain confidence in order to not crash, and part of that is achieved through the numbers. In Tesla's case, it retained dominance, while it did not in Zoom's case.
- 
- 
+
+ ![image (12) (1)](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/f1d166b7-6b01-4361-8457-556543d8130b)
+
+ ![image (13) (1)](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/07bc0d29-c813-45ec-b920-875018a321eb)
+
 In my view, it's a difficult thing to execute on. I'm currently focused on burn rate for the growth of Robots Building Education, so I'm experiencing some level of additional restraint and fiscal conservatism. It is difficult to justify paying a premium today but can also see the argument that the current rate of growth would change the conversation where current prices are cheap. So the stock is currently at the top of the watchlist. Appropriate valuation would cement it at the level that Block and Pinterest, which carries a "buy as much as you can and try to sell as little as humanely possible over time" sentiment. For now, the decision is complex and based on your own risk assessment and bias, but I am eager to add it to the "RO.B.E Portfolio"
 
 If you got to this point, thank you for reading! Feel welcome to share this material with your friends and family. If you want to help, one of the most meaningful ways to help me improve is by providing feedback or asking questions. Think of it this way - everything you provide there can be applied to 750 other people, and future people that decide to join this community and platform. Powerful stuff~! 😁
