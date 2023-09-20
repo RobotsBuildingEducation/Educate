@@ -27,32 +27,57 @@ These kinds of pressures are have consequences, which then brings us to these so
 <br/>
 So before going into the clinical, let’s start off with a simple concept that we fundamentally have some control over. That’s self-esteem. It's our exposure to things. In short, self-esteem is how you feel about yourself or about things.
 
-Let’s just focus on “how you feel” part. Many people don’t do this. We feel, but don't spend too much time thinking about how we feel. We don’t revisit it. Truthfully, all of us do this and this can spark the process of declining mental health.
+**Slide 6x**
+<br/>
+Let’s just focus on “how you feel” part. Yes. This the famous "how does that make you feel?" question. Why is that done? Well. Many people don’t do this. We feel, but don't spend too much time thinking about how we feel. We don’t revisit it. Truthfully, all of us do this and this can spark the process of declining mental health. So starting here puts us back on the roadmap to improved mental health!
 
+**Slide 7x**
+<br/>
 So one way or the other, whether you have severe PTSD or bite your nails out of some emotion, you’re going to have to value the time spent thinking how you feel and the outcomes of whether you want to continue feeling that way. That’s the first step.
 
 ## Self-Acceptance
-Self-esteem is how you feel about yourself or about things. The "about yourself or about things". The second part is somewhat of a Pandora’s box. Who are you and what are things? Why does “it” matter? What is perceived and what is understood?
 
+**Slide 8x**
+<br/>
+Self-esteem is how you feel about yourself or about things. The second part is somewhat of a Pandora’s box. Who are you and what are things? Why does “it” matter? What is perceived and what is understood?
+
+**Slide 9x**
+<br/>
 At this point I recommend considering this mental model. Everything is true. That means multiple things can be true. You can be depressed and you can love life. You can have terrible focus and get an enormous amount of work done. You can hate someone and you can love them. Things can be personal or they can not be unserious. You can influence a lot around you and you have very little control over things.
 
+**Slide 10x**
+<br/>
+Traditionally, these conflicts can cause people confusion. Here are interesting examples of this: Some families may not talk for weeks, months or even years. Some families talk daily. Neither is more correct or superior. Some cultures value eye contact, others do not. Neither is more correct or superior. You may meditate by lifting weights, doing chores or performing some other ritual - again, neither superior or more correct. Sometimes your perspective is informed only by a matter of the circumstance you were exposed to, but that does not necessarily mean that you have to operate or perform within the boundaries of those circumstances.
 
-Traditionally, these conflicts can cause people confusion. Here are interesting examples of this: Some families may not talk for weeks, months or even years. Some families talk daily. Neither is more correct or superior. Some cultures value eye contact, others do not. Again, neither is more correct or superior. Sometimes your perspective is informed only by a matter of the circumstance you were exposed to, but that does not necessarily mean that you have to operate or perform within the boundaries of those circumstances.
-
-
+**Slide 11x**
+<br/>
 Self-acceptance is understanding that you can justly navigate the various perspectives about you or about things. Many people experience this as some form of liberation only because you’re removing one dominant or oppressive framework that guides your perspective in favor of the other universal ones that exist.
 
 
 ## Shame
+**Slide 12x**
+<br/>
 It’s important to decouple our understanding of emotional health from systems of productivity because those systems produce some level of shame. It is omnipresent. Shame can be casted in many common forms, ranging from envy, to fear of rejection or to some other kind of inferiority.
 
+**Slide 13x**
+<br/>
 One may wonder why such a cruel thing exists, but it’s ultimately a byproduct or waste of a competitive system. Systems of competition can or will produce some level of shame. There are winners and losers, one might say.
 
+**Slide 13x**
+<br/>
 But fortunately for us, we’re reworking or improving our mental models here. The winners and losers concept is a popular default and we can spend time to alter it in meaningful ways.
 
+**Slide 14x**
+<br/>
 So here’s the thing - not all shame is bad. Sometimes it’s justified. If you were a world champion athlete and you lost a high stakes game - well, what would you feel? It's clearly fine to feel some level of anger, disappointment or other intense negative emotion right? Sometimes it’s something we sign up for.
 
-The real issue is when we are unaware with unknowns or when it embeds around us like some cosmic dark matter. We want to be aware that these systems of capital, competition and production are also systems that produce shame and we ought to be wiser to its influence. We want to be appropriately discerning throughout this reality, but it also serves individuals to practice positive-self talk to immediately counteract some of these passive consequences. One would probably agree that things are attuned toward negativity, pessimism or other easy default-mode and positive self-talk provides a healthy counterbalance to the pressures that be.
+**Slide 15x**
+<br/>
+The real issue is when we are unaware with unknowns or when it embeds around us like some cosmic dark matter. We want to be aware that these systems of capital, competition and production are also systems that produce shame and we ought to be wiser to its influence. We still want to be appropriately discerning throughout this reality.
+
+**Slide 16x**
+<br/>
+But in the beginning stages, it serves individuals to practice positive-self talk to immediately counteract some of these passive consequences and to improve the quality of our thoughts. One would probably agree that things are attuned toward negativity, pessimism or other easy default-mode and positive self-talk provides a healthy counterbalance to the pressures that be.
 
 # Conclusion
 In conclusion, I hope that these frameworks and models helped you consider or realize some of the complexities that you’re experiencing, have experienced or may experience. Take some time to work with these concepts to improve the quality of your thoughts or experiences. Try to resist creating a system of productivity along the way with it. It’s worth the time as it may alleviate excess symptoms of depression, anxiety or inability to focus along the journey.
