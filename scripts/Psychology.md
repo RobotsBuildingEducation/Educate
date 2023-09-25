@@ -77,7 +77,7 @@ The real issue is when we are unaware with unknowns or when it embeds around us 
 
 **Slide 16x**
 <br/>
-But in the beginning stages, it serves individuals to practice positive-self talk to immediately counteract some of these passive consequences and to improve the quality of our thoughts. One would probably agree that things are attuned toward negativity, pessimism or other easy default-mode and positive self-talk provides a healthy counterbalance to the pressures that be.
+But in the beginning stages, it serves individuals to practice positive-self talk to immediately counteract some of these passive consequences and to improve the quality of our thoughts. One would probably agree that things are attuned toward negativity, pessimism or other easy default-mode and positive self-talk provides so healthy counterbalance to the pressures that be.
 
 # Conclusion
 In conclusion, I hope that these frameworks and models helped you consider or realize some of the complexities that you’re experiencing, have experienced or may experience. Take some time to work with these concepts to improve the quality of your thoughts or experiences. Try to resist creating a system of productivity along the way with it. It’s worth the time as it may alleviate excess symptoms of depression, anxiety or inability to focus along the journey.
