@@ -57,6 +57,8 @@ For example, the outcomes of paper prototypes may range wildly based on where it
 But over time you start to find what works well with you or with different teams. And it’s here where I can only advise you to think critically and keep an open mind when making your design choices.
 
 #### Further Reading
+<img width="1023" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/f594b0dc-2c2d-4a8d-95d7-f13590df6bbd">
+
 
 Lastly, if you enjoyed this subject, I highly recommend a few more follow-up sources. It’s worth your time to check out “The Design of Everyday Things” by Don Norman, who is widely revered in the field of human-computer interaction.
 
