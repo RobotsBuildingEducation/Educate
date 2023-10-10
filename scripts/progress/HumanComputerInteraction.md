@@ -15,7 +15,8 @@ Which video title is more likely to go viral?
 As you can see, this skill, combined with some technical or business acumen, can be a pretty powerful amplifier!
 
 #### Accessibility
-<img width="661" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/e5110519-a729-406d-8d69-d779a4992519">
+<img width="660" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/3aeda922-471b-4cea-8683-ebd5d438303b">
+
 
 
 
