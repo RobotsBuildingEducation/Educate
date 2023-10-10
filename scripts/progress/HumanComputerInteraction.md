@@ -42,7 +42,8 @@ Many folks may go in another direction, where they start with the discovery part
 However, the study of design also lends itself to the study of new technologies. So hype waves around things like Bitcoin or artificial intelligence is a great time for newcomers to jump in and make contributions toward large problems.
 
 #### Heuristics
-<img width="707" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/b4417a03-5318-4a06-a131-6c7c965c016e">
+![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/55a6dc61-5c0a-44f8-9e99-e6033b498759)
+
 
 Now navigating new technologies is always going to be an exciting challenge. Heuristics are essentially guidelines you can use while you create something with constraints or limited feedback. Some things are inevitably repeatable, like considering how a user can correct a mistake or malfunction. These are simply guidelines rather than rules or regulations. There’s an added benefit since they have a tendency to build or bounce off one another.
 
