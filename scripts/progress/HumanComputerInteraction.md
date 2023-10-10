@@ -1,4 +1,5 @@
 ## Interaction & Design
+![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/e1433e83-471d-46d8-b68b-ada52923067f)
 
 first and foremost, UI/UX is short for user interfaces and user experiences. It’s a multi-disciplinary approach to research and design based on the study of human-computer interaction. It’s an excellent skill to have as it can take many different forms, shapes and sizes. For our intents and purposes, let’s define this skill as “Interaction Design” or simply as “Design”.
 
@@ -14,6 +15,8 @@ Which video title is more likely to go viral?
 As you can see, this skill, combined with some technical or business acumen, can be a pretty powerful amplifier!
 
 #### Accessibility
+<img width="661" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/a14ac5b5-1dce-436c-a14a-ad8f94e52032">
+
 
 Let’s start with accessibility, one of my favorite subjects as an engineer. In the study of computer science, we tend to approach problem-solving by accounting for the worst possible outcome. We do it as a way to practice building scalable solutions with information and data. Accessibility is a subject that has us working with design principles in that manner.
 
@@ -24,6 +27,8 @@ Well, let’s consider folks that are blind. They interact with applications usi
 For example, if a video lecture is organized in an effective way for blind folks, then people who are tuning in with just headphones can also experience information meaningfully! It’s considerations like this that made things like radio and podcasts such popular media formats for people of all backgrounds to consume.
 
 ## Multidisciplinary
+![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/d007965f-17de-4599-925b-47782ceb04cc)
+
 So hopefully that conversation has you curious about what design even means. You may notice there’s an umbrella of sorts covering a lot of topics. This is because human-computer interaction is fundamentally multidisciplinary. We tend to just talk about it within the context of technology given that technology is also multidisciplinary.
 
 However, it’s all the same if you're a chemical engineer, a business owner, an architect or even a teacher; you will be able to find enormous value integrating the principles of design in your work.
@@ -37,6 +42,7 @@ Many folks may go in another direction, where they start with the discovery part
 However, the study of design also lends itself to the study of new technologies. So hype waves around things like Bitcoin or artificial intelligence is a great time for newcomers to jump in and make contributions toward large problems.
 
 #### Heuristics
+<img width="707" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/b4417a03-5318-4a06-a131-6c7c965c016e">
 
 Now navigating new technologies is always going to be an exciting challenge. Heuristics are essentially guidelines you can use while you create something with constraints or limited feedback. Some things are inevitably repeatable, like considering how a user can correct a mistake or malfunction. These are simply guidelines rather than rules or regulations. There’s an added benefit since they have a tendency to build or bounce off one another.
 
@@ -47,6 +53,7 @@ In a rather absurd sense, these concepts are the things that remind you that a w
 And if you take some time to ponder that idea, you can really start to appreciate the little things in design. Why is that when we see a glove, we know it’s meant to protect our hands? What inspired a fork and a pair of chopsticks? Why did the iPhone get rid of the headphone jack?!
 
 #### Design Systems
+<img width="707" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/9bf2436c-abf4-4e88-94b0-520fee6e4f33">
 
 Ok. let’s take a step back and review. We value accessibility because it’s fundamentally about enabling more people to do things. We understand that design research is multidisciplinary and encourages us to talk to people directly to gain more insight. We use guidelines to give us a sense of direction when developing ideas or products.
 
