@@ -15,7 +15,8 @@ Which video title is more likely to go viral?
 As you can see, this skill, combined with some technical or business acumen, can be a pretty powerful amplifier!
 
 #### Accessibility
-<img width="661" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/a14ac5b5-1dce-436c-a14a-ad8f94e52032">
+<img width="661" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/e5110519-a729-406d-8d69-d779a4992519">
+
 
 
 Let’s start with accessibility, one of my favorite subjects as an engineer. In the study of computer science, we tend to approach problem-solving by accounting for the worst possible outcome. We do it as a way to practice building scalable solutions with information and data. Accessibility is a subject that has us working with design principles in that manner.
