@@ -1,3 +1,5 @@
+# Outline
+
 STORY
 I graduated with a fairly competitive resume.
 I was not getting interviews.
@@ -47,75 +49,122 @@ Remember that a resume is fundamentally a document that communicates something a
 
 
 
+# Script
 
----
 
-Story
+### Story
+
+#### scene 1
 One of the first problems I encountered after graduating from college was not getting any calls back from employers. This didn’t really make sense to me since I was a qualified and competitive candidate on paper.
 
+#### scene 2
 The problem was my resume. It didn’t communicate that value well and I didn’t communicate it in a way that made it helpful for the person organizing out applicants. I thought about my skill in user experiences and focused heavily on improving the communication part.
 
+#### scene 3
 These changes had significant outcomes. I started to get calls back from places like Tesla and other competitive employers after making the adjustments. So let’s break this down.
 
 —
 
-Interface
+### Interface
 
+#### scene 4
 The important lesson here is to remember that a resume is a document meant to communicate your value proposition for a business. So it’s fundamentally a communication problem. This means it follows the same structure as telling a story or idea.
 
+#### scene 5
 The following interface is highly opinionated. Its intention and purpose is to educate a rookie resume writer on the challenge, since a competitive resume is often people’s first encounter with real-world business.
 
+#### scene 6
 Here are some other things to consider while learning this:
 
-Your LinkedIn profile should be optimized for recruiter search tools. Titles and years of experience are highly ranked.
-Your resume should be effective in highlighting your candidacy in 6-10 seconds.
-Your resume should offer a productive conversation about your career progress in 30 seconds to 2 minutes
-Resume readers have inherent bias and expectations and are subject to uncontrollable conditions like mood or experience.
-Not all good resumes pass and not all bad resumes fail! Don’t take things personally.
+###### scene 6.1
+- Your LinkedIn profile should be optimized for recruiter search tools. Titles and years of experience are highly ranked.
+
+###### scene 6.2
+- Your resume should be effective in highlighting your candidacy in 6-10 seconds.
+
+###### scene 6.3
+- Your resume should offer a productive conversation about your career progress in 30 seconds to 2 minutes
+
+###### scene 6.4
+- Resume readers have inherent bias and expectations and are subject to uncontrollable conditions like mood or experience.
+
+###### scene 6.5
+- Not all good resumes pass and not all bad resumes fail! Don’t take things personally.
 
 —
 
-Format
-‘
+### Format
+
+#### scene 7
 With that in place, let’s introduce the general format:
 
-Spacing is strict
+###### scene 7.1
+- Spacing is strict
+
+###### scene 7.2
 Font highlighting is strict
+
+###### scene 7.3
 Order of information is strict
+
+###### scene 8
 Alright so the first real rule is the 1 page rule. In short, you have to be able to communicate your value effectively. The right practice here is to avoid using fluff and filler since that often takes away from effective communication. Instead, leaning on honesty will either inspire more confidence in later stages of the interview process or inspire you to develop your background more competitively. 
 
+#### scene 9
 One thing I often teach is that imposter syndrome is the result of holding yourself to a high standard while not always having all the resources to prepare enough for that standard. If you feel it while writing a resume, your best bet is to avoid using fluff or filler and to lean on honesty & confidence in order to guide your risk-taking & professional development.
 
 
 
 —
 
-Education
+### Education
 
-Next up is the education part. This is your introduction. Keep it simple and move on. It doesn’t matter if it’s a community college, a vocational school, an online degree or an Ivy League. Slap it on and keep it moving.
-—
-Skills
-
-This is a follow-up section to your education introduction. This section may not be necessary for some professions that aren’t heavily based on usage of tools like software engineering. I recommend to segment into two or three sections labeled “Proficient”, “Explored” and “Spoken”. Proficient skills should be things you can talk shop about with a professional. It should be a skill you’re comfortable with. Explored skills should highlight curiosity and engagement with tools you’ve used in the past to accomplish meaningful things.
-
-—
-
-Experience
-
-This is the main part. It's going to be challenging to follow conventional resume advice about making a significant impact at organizations at the entry level. If you are unable to do that, then consider defining the impact of your role at the company followed by the type of experience you gained at that role.
-
-—
-
-Volunteering & Open Source Work
-
-The employment market is something that ebbs and flows with the conditions of the economy. Some career mentors will suggest things like projects, extracurriculars or other endeavors like I once have, but in the competitive market of 2023, I would highly recommend searching for volunteer and open source experience. 
-
-There’s a number of reasons for this other than highlighting attributes about your candidacy. Doing so also allows you to expand your network in meaningful ways.
+#### scene 10
+Next up is the education part. This is your introduction. Keep it simple and move on. 
+It doesn’t matter if it’s a community college, a vocational school, 
+an online degree or an Ivy League. Slap it on and keep it moving.
 
 
-Conclusion
+### Skills
 
-With all of this in mind, what you’ll get is a one sheet document that allows employers to quickly and effectively evaluate your candidacy through the lifecycle of an interview process. Again, it helps to treat a resume like a story, a video or some other communication piece. It should see multiple word-by-word revisions and its flow should feel good to go through. And as always, if you need extra help or support on a resume, feel welcome to hit me up and schedule a meeting on Patreon 
+#### scene 11
+This is a follow-up section to your education introduction. 
+This section may not be necessary for some professions that aren’t heavily based 
+on usage of tools like software engineering. I recommend to segment into two 
+or three sections labeled “Proficient”, “Explored” and “Spoken”. Proficient skills should be things you can talk shop about with a professional. It should be a skill you’re comfortable with. Explored skills should highlight curiosity and engagement with tools you’ve used in the past to accomplish meaningful things.
+
+
+### Experience
+
+#### scene 12
+This is the main part. It's going to be challenging to follow conventional resume 
+advice about making a significant impact at organizations at the entry level. 
+If you are unable to do that, then consider defining the impact of your role 
+at the company followed by the type of experience you gained at that role.
+
+
+### Volunteering & Open Source Work
+
+#### scene 13
+The employment market is something that ebbs and flows with the conditions of 
+the economy. Some career mentors will suggest things like projects, extracurriculars
+or other endeavors like I once have, but in the competitive market of 2023, I would 
+highly recommend searching for volunteer and open source experience. 
+
+#### scene 14
+There’s a number of reasons for this other than highlighting attributes about
+your candidacy. Doing so also allows you to expand your network in meaningful ways.
+
+
+### Conclusion
+
+#### scene 15
+With all of this in mind, what you’ll get is a one sheet document that allows employers 
+to quickly and effectively evaluate your candidacy through the lifecycle of an 
+interview process. Again, it helps to treat a resume like a story, a video or 
+some other communication piece. It should see multiple word-by-word revisions and 
+its flow should feel good to go through. And as always, if you need extra help or 
+support on a resume, feel welcome to hit me up and schedule a meeting on Patreon 
 
 
 
