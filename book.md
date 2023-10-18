@@ -9,7 +9,7 @@
   <li><a href="#">6</a></li>
   <li><a href="#">7</a></li>
   <li><a href="#">8</a></li>
-  <li><a href="#">9</a></li>
+  <li><a href="#9">9</a></li>
 </ol>
 
 # 1
