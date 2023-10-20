@@ -18,7 +18,7 @@
 
 
 ## Intro 
-### (NEEDS WORD BY WORD COMPARISON)
+### NEEDS WORD BY WORD COMPARISON
 
 **Scene 1**
 Hey. I'm ms roxana
