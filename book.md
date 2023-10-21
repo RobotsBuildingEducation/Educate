@@ -121,28 +121,33 @@ conclusion
 
 # 1
 
-
+**Scene 1**
 Okay so boom, let's learn how to code. 
 
+**Scene 2**
 Here are the subjects we're gonna tackle:
+
+**Scene 3**
 1. Data and Logic
 2. Loops
 3. Functions
 4. Creating Objects
 
-
+**Scene 4**
 We're gonna start with the harder parts first and work our way down. Remember that there are people from really different backgrounds here and I want to challenge you all in the right ways.  it's a challenge for me too - so trust me in the the informal direction we're taking here. Let's dive in.
 
 
 ## Objects
+
+**Scene 5**
 Alright so, we gotta create objects with code. Remember this - **in general, we use code to model the digital world with information, data and logic.**
 So creating objects with code is one way to structure or define things. 
 
-
+**Scene 6**
 Here is the the key to understanding objects: you have a common way to define the **state** of an object and you have a way to manage the state with **functionality**.
 There are different ways we can describe objects and you may have heard of some before, like smart contracts with cryptocurrency or displayable components like buttons on a screen.
 
-
+**Scene 7 //// **
 So here's a simple class, it's how you define how objects get made.
 
 ```ts
@@ -179,11 +184,14 @@ sheilfer.get_name();
 
 ```
 
+**Scene 8 /// **
 Not so bad right? As you can see, some of this even feels a little bit natural. So I recommend that you open your Impact wallet and use AI or ask ms. roxana to help you learn when you need it but if you want support from me directly, old-fashion intelligence is available on discord too :)
 
+**Scene 9**
 If you take some time to break this down, you can see a little pattern forming here where you essentially lay out how the information works 
 together. In general, you can create, update, receive or delete information. I mean, just think about something as simple as a Tweet. 
 
+**Scene 10**
 You recognize it as a social media product, but it's really how most code works - it's some block of messages that you can create, receive, update or delete .
 ```jsx
  let Tweet = ({ tweet }) => {
@@ -218,11 +226,11 @@ You recognize it as a social media product, but it's really how most code works 
  }
 ```
 
-
+**Scene 11**
 After that, it's about managing all the relationships of data. So here's another key thing to lessone one:
 **Coding is all about how you organize information. It's not about math.**
 
-
+**Scene 12**
 Alright, so let's keep the challenge going, we saw how a class creates an object and we saw how a component displays data and that's how a lot of code works under the hood. So let's evolve that with cool modern stuff like chatGPT or crypto. Here's a crypto transaction
 
 ```
@@ -240,29 +248,37 @@ contract RobotTransaction
 
 
 ```
-
+**Scene 13**
 See that? Without much explanation of what's even going on here we can really just start to tackle some of these scary big smarty pants subjects pretty quickly.
 Again, we have a process of defining the data and a set of functions to run common processes on them.
 
 
 ## Functions
 
+**Scene 14**
 But classes aren't the only way to define data. We also have functions, which we brushed over just now but they're still one of the most important ways to organize and handle our data.
 Generally speaking, there are two types of ways to control the flow of data with functions: synchronous ones and asynchronous ones.
 
+**Scene 15 ///**
 You're pretty used to how the internet works as a customer of it but it's definitely worthwhile to pay attention to the little details that make your experiences feel smooth.
 Synchronous functions are very similar to cooking in a pan, where the cook has their hands occupied managing the ingredients being heated.
 
+**Scene 16**
 Asynchronous functions are a little different, they're similar to placing frozen food in an oven, where a cook will have their hands free to continue working elsewhere while measuring the temperature of the food being heated.
 
+**Scene 17**
 The reason this is important is because when you handle data across a network, you don't know how long the data will take to load in, and your code usually moves in a synchronous fashion.
 A simple way to visualize this is by opening any app and examining how various things load when operating it.
 
+**Scene 18**
 So why does that happen? Well, some code is working with external systems. All those systems these days is knowna as the cloud, but it can even be sending data from your computer to your internet modem too.
 
 ## Loops
+
+**Scene 19**
 Looping is  another way to control data. Usually when you have a group of data, you're able to perform some kind of repeatable function on all the parts or some of the parts. Check it out:
 
+**Scene 19b**
 ```ts
 let artists = [
   { 
@@ -300,16 +316,20 @@ console.log(result)
 Leave the answer in Discord :) */
 ```
 
+**Scene 20**
 There are different types of looping functions. For example if you want to convert all of the values, filter values or reverse values, you can do that. Nows a great time to introduce this skill that most software engineers do and that's simply reading the documentation of the tools you're using. Most programming languages have huge dictionaries of information that outlines how things are made. This documentation will show you how these data grouping objects work and what functionality they contain.
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
 ## Data and Logic
 
+**Scene 21**
 Okay so by this point, we're at the beginning where most people learn about the basics of coding. We skipped it because I felt that it was kinda obvious that data is informed by numbers, words, groups of data and functionality, because one way or another if you got to see this video, you were using the internet and familiarity is kinda just there.
 
+**Scene 22**
 So here's the key to this simple lesson here. Data creates logic, groups of data tends to create functionality. **Logic is ultimately just what boils down to being true or false. **That's how computers see the world. **** For example
 
+**Scene 22b**
 ```ts
 
 let obama = {
@@ -340,25 +360,32 @@ legends.forEach(legend => {
 
 ```
 
+**Scene 23**
 We can see a few definitions here working together to show you how individual pieces of data creates logic and how groups of data tends to create functionality. And that's all for lesson one!
 
 
 ## Conclusion
 
+**Scene 24**
 So let's slow down here. We went through almost 4 weeks of material in under 10 minutes. Here are the main things I want you to remember:
 -  **in general, we use code to model the digital world with information, data and logic.**
 -  **Coding is all about how you organize information. It's not about math.**
 -  Logic is ultimately just what boils down to being true or false. **That's how computers see the world. **
 -  
 
+**Scene 25**
 You might feel a little overwhelmed but that's fine, just trust the guidance I'm providing for you. At this point, if you go off onto your own, you might find that there's a ton of ways do things and it can get even more overwhelming. 
 
+**Scene 26a**
 First, I recommend using AI to help you stay focused as a beginner. Please remember that I'm also available to assist you via Discord too :)
 
+**Scene 26b**
 Second, I recommend that you go through the material here and write the code by hand on paper. Draw the connections you see naturally and try not to worry too much about being right or wrong. I tend to draw little dots and bubbles.
 
+**Scene 26c**
 Lastly, try practicing modeling what you see in the real world as data. Remember, don't think about being right or wrong. It's like cooking, where the more you do it the stronger your eye will be for it.
 
+**Scene 27 ///////////////**
 In the next lesson, we're gonna start putting this together and building real visual applications with HTML, CSS and Javascript with React. 
 
 
