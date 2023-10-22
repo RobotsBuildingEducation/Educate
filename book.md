@@ -871,18 +871,18 @@ So that's the frontend. Now let's witness how awesome you are and combine everyt
 ## Introduction
 
 
-
+**Scene 1**
 Backend software engineering is something that a lot of students don't understand. It sometimes feels like some kind of mysterious and cryptic role for smart people. I don't believe that's true, I think that just happens because people don't do a good job of explaining what backend engineering is.
 
 
 ![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/54653819-33a8-4baa-a5a0-6335f5b575d5)
 
-
+**Scene 2**
 So let's clear that up here. Let's make it easy to understand so we can start thinking about larger systems and techniques.
 
 
-**---Custom Canva animation with fonts**
 
+**Scene 3**
 These are the lessons we're going to cover:
 
 1. Creating users
@@ -893,46 +893,50 @@ These are the lessons we're going to cover:
 
 # The Operating System
 
-**---Custom Canva animation with fonts**
-
-
+**Scene 4**
 As always, let's work our way backward. By the end of this lesson, we're going to understand how to define users in applications and how that creates real user experiences.  This lesson is going to be pretty conceptual, so let's go into imagination mode. 
 
 
-**---list of different but cool machines**
 
+**Scene 5**
 So let's highlight one of the key truths about computer science - we use technology to model the real world. Operating systems is kinda where computer science lives. I often suggest to students that they should think about what machines they want to work on before considering a programming language to learn for this reason.  I think people limit the range of where software engineering can exist and this is the concept where you can jump from a macbook to a bitcoin miner to a tesla robot.
 
 
-**---restaurant animation**
-
+**Scene 6**
 So let's step away from computers and let's think about something more relatable, like a kitchen in a restaurant. We don’t have to imagine much other than appreciate all of the moving parts when it comes to creating the final product - your experience with food created and how it's served by the system of operation at the restaurant. 
 
 
-**---Custom Canva animation with graphs for protocols**
+**Scene 7**
+From a customer’s perspective, you simply order and receive your food but the restaurant will launch a series of protocols to achieve that. Dishes will be washed, inventory will decline, policies and standards will have to be met, messages will be exchanged, things will break. 
 
-From a customer’s perspective, you simply order and receive your food but the restaurant will launch a series of protocols to achieve that. Dishes will be washed, inventory will decline, policies and standards will have to be met, messages will be exchanged, things will break. You get the point. A lot of things happen to get your product prepared in a timely manner. The logic of things usually turns out to be pretty common sense and easy! The same is true for computers, which are mostly governed by their own operating system.
 
-**---Animated command line**
+**Scene 7.5**
+You get the point. A lot of things happen to get your product prepared in a timely manner. 
+The logic of things usually turns out to be pretty common sense and easy! The same is true for computers, which are mostly governed by their own operating system.
+
+
 ![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/33eab7e4-4f6c-472b-aa59-4fec67efce77)
 
 
-
+**Scene 8**
 So now let's talk to our operating system in a way that you may not be used to. You’ve probably seen this kind of thing in movies or shows or whatever and it’s always this complex matrix of information, but it’s really just a text-based description of what you’re used to seeing with icons and inputs and other user-centric designs. It's a way to communicate with your computers with commands.
 
 
 <img width="992" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/557c030f-d257-4c3c-ad51-e97e7662a9d8">
 
+**Scene 9**
 You might be wondering why engineers would use such a secretive tool, but it's actually really similar to the difference between ChatGPT generating and Google searching. It's boils down to different forms of usability.
 
 
 ![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/3e152c96-92ca-4dea-9e18-5ae82e299fc4)
 
+**Scene 10**
 Studying operating systems can have an enormous amount of depth but it's the core of computing that helps you understand where AI fits into machines or why chips get designed to push the boundaries of modern computing. 
 
 
 ![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/9393eaba-b95c-48be-8ba3-a2ecdd1648df)
 
+**Scene 11**
 I encourage you to really think about what's happening when you're using your devices so that you can appreciate some of the innovation along the way - operating systems these days are really phenomenal in their capacities and it's a good idea to practice appreciation of the little things!
 
 
@@ -943,22 +947,24 @@ I encourage you to really think about what's happening when you're using your de
 
 https://github.com/RobotsBuildingEducation/Educate/assets/65219666/733b2325-18ab-46b2-a2db-828c9773f6a6
 
-
+**Scene 12**
 So these terminals or command line interfaces takes us into the world of backend software engineering. One key thing to remember here is that we have to get comfortable letting the machines do the work for us. Let them rip! Remember that computer science is ultimately the science of solving problems and many problems have been solved so that you can program efficiently with powerful modern tools.
 
 ![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/134b45fa-dc3b-4f87-8ef0-28c50aeb5a83)
 
+**Scene 13**
 Backend engineering is ultimately what gets everything connected. I like to think of it as constructing large pipelines with routes for different needs. Some pipelines may need to have data distributed for researchers and machine learning engineers. Other routes direct data to the right places to help us create smooth user experiences. You’d be surprised how much actually goes into seeing read statuses in chat applications or having your account secured when you log in and create and use data. 
 
 
 <img width="672" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/1b791fb9-061d-45a8-9f7a-0ac80478516f">
 
+**Scene 14**
 But remember, programming models the real world & we primarily use the language of logic to achieve that. It’s really quite wonderful realizing that these large systems that govern all of these operations, like when you order from Amazon or task chatGPT for information ultimately boils down to predictable messages, signals & reactions in & outside of the technology being used. There's really no wrong way to look at it! It's information meant for your design.
 
 
 <img width="728" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/fdf145b9-58f1-4008-9588-83bf8af4efb4">
 
-
+**Scene 15**
 Alright, so let's take a deep breath. Please try not to overthink this part, but please do engage in your imagination too. Like most things, it's going to be fairly predictable if you're given guidance. When you're using a command line to communicate with your machine or other external systems, you're going to have your bread-and-butter skills related to that. Cheat sheets people! Use them.
 
 
@@ -966,38 +972,42 @@ Alright, so let's take a deep breath. Please try not to overthink this part, but
 
 <img width="706" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/56de1984-024b-4d9d-b378-f078e3db647a">
 
+**Scene 16**
 And remember, it's pretty much like having a screen you can click on. You're going to do the equivalent of navigating file sytems, clicking download and install, or saving files to applications. Then if you're curious or a situation has you searching for answers, you can explore more advanced techniques - but for now let's apply one of the golden rules and Keep It Simple. 
 
 # The Database
 
 <img width="143" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/2cd4c6d2-aa03-49d5-a92d-17bfb0486117">
 
-
+**Scene 17**
 So that's kinda like level one of building the pipelines. The next part of building pipelines is understanding where the data is stored and how to move it responsibly, like the conveyor belts handling Macbook Pro deliveries around the clock.
 
 ![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/6132ddc7-2143-4e25-84f1-2a1a6bf00c7e)
 
+**Scene 18**
 There are many different ways to store data, and you may have heard databases using tables with SQL or Excel, or non-relational databases structured with abstractions of key-value pairs. Either way, there's still that fundamental aspect to all of these differences and that's mostly getting used to organizing information using identities and mapping out relationships with those identies.
 
 <img width="314" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/ed6bfc6e-0565-493b-b8f3-793a2825d1a2">
 
 
-
+**Scene 19**
 What that means is that we use identities to refer to and communicate packaged bodies of data. Using basic language, we can describe data inside of a database like this:
-
-
-<img width="505" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/57281963-bd9f-4180-b9eb-8b62c52540f5">
 
 "In this collection of users authenticated by Google Sign-In, each user gets uniquely defined by a document of key-value pairs describing the user's profile."
 
+<img width="505" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/57281963-bd9f-4180-b9eb-8b62c52540f5">
+
+
+
 <img width="243" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/3c49310c-f9c5-4630-85b2-d5c4f197a227">
+**Scene 20**
 "This table of users connects each user to a table of high scores"
 
 <img width="243" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/3c49310c-f9c5-4630-85b2-d5c4f197a227">
+
+**Scene 21**
 Now again, let's imagine the real world and how data can describe the various identities and relationships using combinations: 
 
-
-**---Animated lettering**
 1. What is the identity of the restaurant? CHIPOTLE
 2. What is the identity of the city? Chicago
 3. What is the identity of the neighborhood? Lincoln Park
@@ -1005,10 +1015,11 @@ Now again, let's imagine the real world and how data can describe the various id
 6. What is the identity of the order type? Pick-up
 
 
-**---Animated visual**
+**Scene 22**
 From a human perspective, you ordered something awfully predictable and truthfully the same goes for its data perspective. It's a breakdown of things. It just takes practice to get a hang of designing relationships with data rather than just using it. In the example above, would you consider allowing a certain maximum of orders at a given time? Is it reasonable for a restaurant to promise and prepare 25,000 completed orders at exactly 5:30PM? How could that kind of bottleneck be alleviated? Is there a trend of what kind of ingredient is being ordered? You might be guessed already how data can be a creative exercise.
 
-**---Animated visual**
+
+**Scene 23**
 And if you haven't guessed it yet, you can just about describe anything these days and this is where we can start driving a lot of conversations about careers in artificial intelligence, data science or any other number of computational professions. Like lesson one, it's all about organizing data, logic and modeling the world. 
 
 
@@ -1017,27 +1028,28 @@ And if you haven't guessed it yet, you can just about describe anything these da
 
 <img width="315" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/06c85ed3-28b8-40ff-b2a3-9aa171c56ed1">
 
+**Scene 24**
 Now creating users is probably one of the most important constructions to understand because it packages our software to creating user experiences. 
 
 
 <img width="392" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/09f3ceb0-09df-4b72-9e9f-a531ceb514b1">
 
-
+**Scene 25**
 In a nutshell, you create an account with a combination of data. So let's say you're using a service that allows you to build banking technology. That service will probably collect your login information, name, address and other financial data to create a unique identity. That unique identity will be converted into these secret keys that you'll get for creating an account and you can use those secret keys to connect your app code to the service. You go through authorization servers or authorization backends to accomplish this verification process. Pipelines people!
 
 <img width="804" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/9e3b1ede-514e-457f-a730-a3660acbc704">
 
-
+**Scene 26 //**
 And that's all a user is. That's why users have these crazy letter and name combinations like "sKuU1185zZ6agp". Those identities eventually helps point data in the right direction. This is ultimately how you connect to services. You would be surprised what you can get out of the box these days, ranging from machine learning features to accepting payments.
 
 
 ## Conclusion
 
-**---Animated visual** 
-
+**Scene 27** 
 As always, take some time to internalize some of this information. Let your mind explore the concepts and allow yourself to be creative. Don't worry too much about making "mistakes" when you're a beginner - letting yourself create mistakes gives you opportunities to improve. I can totally understand if you found this challenging on the first go because parts are definitely moving now but this ultimately why you get quizzed on these data structures and algorithms for some jobs. If you can theoretically understand those constructions, it can help you pick up the skills to understand large systems operating together too. But really, sometimes you don't need a atomic physicist to build a neighborhood of homes either, sometimes you need creative people for that too, so some people can be frustrated by the practice!
 
 
+**Scene 28** 
 We're going to go throught the process of connecting systems so that we can create an app with users in the next lessons, so that's all folks! See you later.
 
 
