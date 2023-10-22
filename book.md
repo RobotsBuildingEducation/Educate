@@ -393,12 +393,18 @@ In the next lesson, we're gonna start putting this together and building real vi
 
 ## Intro
 
+**Scene 1**
 Okay let's quickly review lesson one, We took at look at the fundamentals of organizing data with code.
 We learned about objects, functions, loops and logic.
 
+**Scene 2**
 One of the examples we saw there was a version of a class that we call a component. 
+
+**Scene 3**
 Components are a popular way to create user interface and experiences. So let's take a look at this Tweet example.
 
+
+**Scene 4**
 ```jsx
 
 let Tweet = ({ tweet }) => {
@@ -433,31 +439,42 @@ let Tweet = ({ tweet }) => {
  }
 
 ```
-
+**Scene 5**
 I used to find a lot of trouble back in the day when I would suggest that people are better off learning a skill like React 
 instead the traditional HTML/CSS and Javascript, but that claim mostly comes from a place of wisdom rather than tradition. We'll get to that later and we'll see that here.
 
-So before explaining React, let's just create a simple illustration. Our phones are these remote controls for the digital world.
-When we use these apps, we change the state of our experiences in the digital world. That's pretty true right?
+**Scene 6**
+So before explaining React, let's just create a simple illustration. Our phones are these remote controls for the digital world. When we use these apps, we change the state of our experiences in the digital world. That's pretty true right?
 
+**Scene 7**
 So when you think about those elements in an app, and the way you interact with them, you end up creating these reactions where the state of the user interface or user experience has changed. That's pretty much how React and other component frameworks like Vue, Angular or HTML5 works. It's the frontend. It's event-based programming. 
 
+**Scene 8**
 These are the main parts of a react component:
 
+
+**Scene 8.1**
 1. You have the component's hooks
-2. You have the component's state
-3. You have the component's properties
 
-As always, let's keep things simple. Hooks are functions that handles and synchronizes operations with the state of a component. I like to think about them like levers, 
-where using the levers will result in the machine changing. 
+**Scene 8.2**
+3. You have the component's state
 
+**Scene 8.3**
+4. You have the component's properties
+
+**Scene 9**
+As always, let's keep things simple. Hooks are functions that handles and synchronizes operations with the state of a component. I like to think about them like levers, where using the levers will result in the machine changing. 
+
+**Scene 10**
 Next is the state. The state is essentially the dynamic data that you're managing. It's the data that you expect to change because either machines or people are using it.
 In short, when you change the state of the component, you're refreshing the display and causing the component to render again.
 
+**Scene 11 ///**
 Now here's where I rewind back to our conversation about learning React before HTML/CSS/Javascript. I don't believe there's anything wrong with doing it the traditional way,
 but I really think it's worth observing **why** React, or other component-based frameworks ended up completely dominating and uplifting the field. They're really 
 wonderful pieces of technology under the hood and I would encourage you all to study the programming languages internals and history along the way. It'll help you understand coding in a more well-rounded way because you'll get to see how companies influence change and upgrades. You get to see what Apple does and what Microsoft does kinda vibes. Trillion dollar energy!
 
+**Scene 12**
 Well, I guess this might just be me getting older and appreciating the little details of things, 
 but isn't it kind of cool that programming languages translate things like `["hello", world"] translate to `new Array()`?
 or, in React's case, `<header>Hello World</header>`, it translates to `React.createElement("header", null, "Hello World")
@@ -466,9 +483,10 @@ or, in React's case, `<header>Hello World</header>`, it translates to `React.cre
 
 <img width="370" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/c5fc6a0b-9dc5-40c1-946d-6d1c73c72f24">
 
-
+**Scene 13**
 Anway, let's stay on task. Now the last part of a component we really need to take a closer at are the properties of the component. Let's organize our tweet component more.
 
+**Scene 14**
 ```
 
 // we have the tweet property. We don't change it.
@@ -550,26 +568,30 @@ let Tweet = ({ tweet }) => {
  }
 ```
 
+**Scene 15**
 So you might be looking at this code and thinking how some of it makes sense, but some of it is also too much. That's normal, yeah, because what you're really doing when you put hooks, state and properties together is a data model. You're looking at so many other things, like the flow of data, or all the little rules you might not be aware of. Like, why don't we change properties? Why do we only change state? When or why do we create copies? o that we can safely change values as needed? This ends up being fuel for imposter syndrome and writer's block or coder's block or another other blockage. 
 
+**Scene 16**
 But honestly, it's just practice. Remember, deep breaths. Challenge yourself. Experiment like a mad scientist. Break things. Coding is nice because the material is very cheap :) Lean on what you know! React is a framework and there are rules to how things work. It's like a soccer or football game, usually you can expect the goalie to be protecting the net rather than trying to score points right?
 
-
+**Scene 17**
 Wait hold on, pause. Look at you. You're engineering software. All those questions that you just asked are things you'll have to work through to answer, and that's exactly what software engineering is. It's not about writing code as much as it is planning and understanding the pipelines. Isn't that cool? How you feel right now is how professional software engineers sometimes feel too! So good job.
 
-
+**Scene 18**
 So here's the real bread and butter to becoming a React expert, and why React exploded in popularity - you need to understand how the data is supposed to flow using its system.
 Let't take a look at our Tweet component again:
 
+**Scene 19**
 We have a function called `createLike` and it updates the state of the component. When the state of the component updates, the component's display refreshes.
 
+**Scene 20**
 The components display is a group of smaller components with properties. One component here event passes in our `createLike` function as a property. 
 So what happens if we use `createLike` inside of that smaller component? Well, then both the `TweetContent` and `TweetCommands` components will update, because it updated appropriately inside of `Tweet` and it refreshed the display with new properties and state.
 
-At first glance, it kinda seems like you're running in circles, but one of the reasons that React exploded in popularity was because of this contained one-way data flow.
-This ended up creating a lot of intuition between idea, planning and coding, because it was really easy to design the relationships and distribute objects that worked well together.
-As a result, people were able to create a lot of interesting architectures and controls over user experiences with these display containers and data pipelines.
+**Scene 21**
+At first glance, it kinda seems like you're running in circles, but one of the reasons that React exploded in popularity was because of this contained one-way data flow. This ended up creating a lot of intuition between idea, planning and coding, because it was really easy to design the relationships and distribute objects that worked well together. As a result, people were able to create a lot of interesting architectures and controls over user experiences with these display containers and data pipelines.
 
+**Scene 22**
 To put it simply, like the Tweet, think about a typical tiktok video and the relationships that describe it as a series of messages. A video contains a like button, a comment section and a share button. A comment section contains comments. A comment contains a reply button. The list goes on and on in a number of ways. This is how Robots Building Education looks like:
 
 <img width="590" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/04fd52cb-c3c3-4fab-a59d-5ccc89688008">
@@ -580,36 +602,50 @@ To put it simply, like the Tweet, think about a typical tiktok video and the rel
 
 ---
 
-
+**Scene 23**
 Phew, that was pretty tough. So we covered react components and more or less saw things in action. In summary, React is a data model that creates components with state and properties and displays visual elements with it.
 
 So now let's take a look at these elements. Let's start with HTML.
 
 
 # HTML
-
+**Scene 24**
 So some of you folks may recall this from the Myspace days. For those of you that aren't familiar, Myspace was a popular social networking site in the 2000s. Facebook quickly became the titan of the industry shortly after, but during those days a lot of people were able to customize their profile page. It was a lot of people's first experience with programming and many people enjoyed it. Well, that whole thing became an industry, and it's mostly lead by big tech organizations and their influence over how software is developed.
 
+**Scene 25**
 So, actually, that's why I tell people to learn React before HTML/CSS/Javascript. It's just the right economic thing to do if you understood who changes the software. React is ultimately an upgrade of the previous system and there's very little logical conclusion to do things inefficiently because any future upgrade now will be built off the influence of what React and Facebook accomplished. Let's put it this way, these days, you're probably going to learn some basics of photography on an iPhone first, and every year that passes it becomes more true.
 
+
+**Scene 26**
 You can learn them all at the same time, and truthfully, most engineers are not educators. They certainly are opinionated though, but that comes with the trade.
 
+**Scene 27**
 Anyway, the name of the game with HTML is just how you're structuring your display. I recommend to think about organizing things into containers and then placing the containers where they need to be.
 
+**Scene 28**
 The other main thing about HTML is understanding the attributes or properties that you can define and use. These, like most things I try to explain, are pretty common sense when you take your time with it.
 
+**Scene 29**
 Let's go through this example here. I have a header with some attributes. 
 
-- An event will handle user functionality like  like clicks, hovering, dragging, longpressing or any number of common interactions
 
+
+**Scene 30**
 - An ID will create a identification label unique to that element, no different than an ID label on a shipping package from Amazon
-
+- 
+**Scene 31**
 - A class will be a group identifier, where multiple elements can share an identity. This can be something like a "FRAGILE" box being shipped.
 
+**Scene 32x**
+- An event will handle user functionality like  like clicks, hovering, dragging, longpressing or any number of common interactions
+
+**Scene 33**
 - A style will allow you to design and customize how elements look!
 
-
+**Scene 34**
 The list goes on, and there's definitely plenty of attributes that you're going to use all the time, so you'll definitely run into them and pretty much remember them just out of frequency. Like the previous lesson, I recommend to utilize a combination of W3Schools documentation for HTML and CSS paired along with ChatGPT. You'll quickly see that there's so many attributes, and itll make sense why I recommend to know how to apply more than remember when it comes to learning code.
+
+
 
 ```jsx
 
@@ -652,24 +688,34 @@ let HeaderComponent = () => {
 
 
 # CSS
+**Scene 35**
+So let's took at that style property and discuss CSS now. 
 
-So let's took at that style property and discuss CSS now. CSS stands for cascading style sheets, which indicates that it's used to design how things look and it also describes the order in which styles are applied. So in the example above, we see two font `color` properties`. One is pink and the other is gold. The gold one is what ends up being applied to the text display.
+**Scene 36**
+CSS stands for cascading style sheets, which indicates that it's used to design how things look and it also describes the order in which styles are applied. So in the example above, we see two font `color` properties`. One is pink and the other is gold. The gold one is what ends up being applied to the text display.
 
+**Scene 37**
 There are a number of ways to define and assign styles to an HTML element. Some older courses may suggest to learn about the `<style>` element, others may tell you about linking `styles.css` files to your HTML or javascript files. Others will teach you how to target and style elements by ID or class names, and many CSS libraries or frameworks work that way under the hood.
-  
+
+**Scene 38**
 They're all valid and worthwhile to understand. I spent a lot of time handwriting my own CSS back in the day, and it usually takes a fair amount to convince me out of my ways, so I feel pretty confident in suggesting to first understand the inline example I showed you with the react `style` property or to take a look into Styled-Components, a library built with React. The reason I prefer this is because you have way more control over the data you're using. In short, it's just easier to do cool things.
   
-
+**Scene 39**
 Sheesh, with that out of the way, we can focus on what's really important. The foundation of CSS is that same key:value pair combination we see to describe data sets. There are a few ways we style our elements, so you need to understand these concepts:
-  
+
+**Scene 40.0**
   1. The box model - this is how we shape our actual elements
+
+**Scene 40.1**
   2. The flexbox model -  this is how we position our elements
+
+**Scene 40.2**
   3. The animation model - this is how we animate our elements
   
-  
+**Scene 41**  
 I'll remind you often that our robot friends are helpful here to explore these concepts and phrases I use. Paired with ms. roxana, I think you can start to really dig deep!
   
-  
+**Scene 42**    
 The box model basically describes how to shape those containers I was talking about. You probably have a rough mental model of what I'm talking about, take a look at this example and how it shapes this Rihanna button. In this case, you're going to be using these box model values so much, that you'll end up remembering them just out of how much you'll practice:
   
   ```jsx
@@ -695,7 +741,7 @@ The box model basically describes how to shape those containers I was talking ab
   ```
   
   
-  
+**Scene 43**    
 Okay, so now let's step it up one notch. Let's position our elements. This can be pretty tough because you got to logically think about the size of different screens. To understand positioning, you gotta study the flexbox model. In a nutshell, you start to organize elements in rows and columns. Let's observe a few examples:
   
   
@@ -736,36 +782,40 @@ Okay, so now let's step it up one notch. Let's position our elements. This can b
   
   ```
 
-
+**Scene 44**  
  As you can see here, the elements are getting positioned based on its container. Frankly, I think this flexbox model got popular simply because it flows pretty well with how CSS and React data flows and applies. There are a number of different ways you can position these elements using the flexbox model, and like the previous lesson, exploring the documentations is what will lead your curiousity to success.
   
-  
+**Scene 45**    
 Now the last part. The animation model. This is tough for me, because in the previous version I said it wasn't too important, but you could add some nices touches or details with it. AI changes things a bit. In the grand scheme of things, animations don't rank too highly in the business world but they can be satisfying or powerful at times. So let's take a look at the ways we can do it:
-  
+
+ **Scene 46**   
 - We can animation with basic CSS
 - We can animate by computing our own styles with react
 - We can animate by using CSS keyframes
 - We can animate by using the `<canvas />` element.
   
-
+**Scene 47**  
 Now if you were to research each item in the list, you would realize that the canvas element is by far the most complicated but the most powerful tool. In fact, I believe Khan Academy essentially teaches you javascript by using a library called P5.js that is centered around controlling and coding the canvas element the same way React is used to control HTML components.
   
 
+**Scene 48**  
 So, before it used to be an entirely seperate and specialized skill, but now chatGPT kind of makes things easier, and in the future, it certainly will make things easier. In fact, I'm using AI right now to come up with these examples because I haven't written this in quite some time. 
-  
+
+**Scene 49**  
 So another way to animate elements is with keyframe animations. In a nutshell, you're defining the state of CSS properties based on cycle timer that ranges from 0 to 100%. Again, it's also not too important in the grand scheme of things, but people do create cool things with it.
   
-  
+**Scene 50**   
 And lastly, the basic animations. This is what many people will include for basic accessibility practices, like signaling that a button has been selected, or visual cues indicating that a mouse is hovering over an element.
   
   
   
 ----
-  
-  
+
+**Scene 51**   
 So that's the frontend. Now let's witness how awesome you are and combine everything we've learned in the past two lessons so we can create the button on this app that talks to roxana and creates this education content:
   
-  
+**Scene 52**    
+### DRY RUN SCENE IS COMPLETELY UNSCRIPTED 😭
 ```jsx
   
   let Button = ({ button, setCourseContent }) => {
