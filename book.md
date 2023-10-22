@@ -399,12 +399,11 @@ We learned about objects, functions, loops and logic.
 
 **Scene 2**
 One of the examples we saw there was a version of a class that we call a component. 
-
-**Scene 3**
 Components are a popular way to create user interface and experiences. So let's take a look at this Tweet example.
 
+// skip a count here
 
-**Scene 4**
+**Scene 4, 4.1, 4.2, 4.3**
 ```jsx
 
 let Tweet = ({ tweet }) => {
