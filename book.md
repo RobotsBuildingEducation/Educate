@@ -1055,99 +1055,101 @@ We're going to go throught the process of connecting systems so that we can crea
 # 4
 ![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/d5490f55-e9f9-469e-8b97-27358783405d)
 
-
+**Scene 1**
 In this lesson, we're going step-by-step to finally going to piece together everything we've learned so that we can build an application by connecting systems together so that we have real users.  Google, Youtube, ChatGPT and Stack Overflow will be your best friends here if you come across something you want to learn more about.
 
 
-
+**Scene 2**
 First we're going to download & install VSCode. This is where you write code.
 
 <img width="204" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/0a522f35-a151-475a-80bc-dc550bd8a462">
 
 
-
+**Scene 3**
 Second, we'll download & install nodeJS. This lets you build javascript apps.
 
 ![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/f05ec1f9-29fe-4cd8-a225-2a31dedf6373)
 
 
 ---
-
+**Scene 4**
 Then you'll have to open your command line terminal and install npm. NPM allows other developers to share their solutions with you in things called packages. We’re using a special command here called “sudo” which gives you administrator level permissions on your device, since I don’t know how your device is configured
 
 
 <img width="563" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/f7825a4d-9c63-4545-ba90-70ac397b2048">
 
-
+**Scene 5**
 Create a folder and name it after your project. Im calling my app The Digital Border.
 
 
 <img width="123" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/539b1c8c-deab-4edf-8a60-1188b266e41f">
 
 
-
+**Scene 6**
 Open VSCode and open your folder in the app the same way you open up documents on google drive or microsoft word.
 
 
 
 <img width="971" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/ccdc9f0c-ff57-4814-a763-5507e8278422">
 
-
+**Scene 7**
 Find the little icons on the bottom left of your window to open up the the menu that contains an in-app command line.
 
 
 <img width="302" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/196f950d-1e48-4203-88f7-47106c12b3f1">
 
-
+**Scene 8**
 Select the terminal option.
 <img width="972" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/71b3dfb5-1d30-4f47-85a5-10054d161d9e">
 
-
+**Scene 9**
 Now run a command to start a react project with Vite. Remember what we said about letting the machines do the work for you? Use command `npm create vite@latest` and answer the questions. The following folder shows you how I configured the project using a React setup with javascript. They're even nice enough to tell you what to do next!
 
 <img width="969" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/d72015b7-1438-45c8-860b-bcc3fd0fba33">
 
-
+**Scene 10**
 So let's do what they're telling us. `cd` stands for `change directory` which is pretty much like clicking into a folder.
 <img width="667" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/7f2345a5-b219-48fd-8b84-d463ba471d07">
 
 
-
+**Scene 11**
 If you click the "package.json" file in your app folder, you'll see the list of software being installed for your project under the dependencies keys. This is what `sudo npm install` is going to do when you run it in your project. 
 
 <img width="672" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/66df9839-86a6-4789-a42a-e918f411a6e8">
 
-
+**Scene 12**
 Alright, now let's run your app! Run `npm run build` and then run `npm run dev` and your app will launch in development mode! Congratulations! You can find more application commands in your `package.json` file under the "scripts" key.
 
 <img width="653" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/3b99e3d0-fcd0-46a1-bcb8-fd94fd96323b">
 
 <img width="1512" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/dbec6b33-f0a5-4aef-a2de-0300cce75aed">
 
-
+**Scene 13**
 Now let's set up our database with Google Cloud. Run this command to install firebase onto your machine: `sudo npm install -g firebase-tools`
 
 <img width="537" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/effebf17-c251-44fc-af8b-f46e313f9b5e">
 
-
+**Scene 14**
 Then we initiate and set up the project with the command `firebase login`. You'll end up on a typical google login screen to authenticate your account
 
 <img width="797" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/5b608605-441e-41e0-8183-cd9d1d18cb1a">
 
-
+**Scene 15**
 After logging in, we'll go to `console.firebase.google.com` and add your project. This will create your dashboard where you can use various backend services like authentication or even out-of-the-box machine learning tools.
 
 <img width="845" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/782947e3-2b65-4ab5-a7c2-1714bbf9d1c1">
 
+**Scene 16**
 When you're in, activate the following services: authentication, firestore and hosting. I'm purposefully not telling you how to because I want you to explore this process with curiosity and I want you to trust your gut! 
 <img width="1512" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/fe07bc78-32e7-41a3-b81a-7be09a122f66">
 
+**Scene 17**
 Once you've completed it, you'll find access to a secure website in the Hosting tab. In my case, it's `https://the-digital-border.web.app/`. Now we need to connect our code to this backend service.
 
 <img width="1066" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/a64532b6-bd65-48fe-96ac-631687bb7708">
 
 
-
+**Scene 18**
 Next run `firebase init` and answer the following questions. These questions will write files into your project that connect your code to your firebase project.
 
 In a nutshell, here are the steps:
@@ -1155,20 +1157,24 @@ In a nutshell, here are the steps:
 1. Activate firestore and hosting.
 <img width="602" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/f39406ab-7a19-4284-bc97-8fae797b58a6">
 
+**Scene 19**
 2. Select "use an existing product" and select the project you recently created.
    <img width="558" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/fa31a2d7-216d-471e-9917-9011f10428b2">
 
+**Scene 20**
 3. Press enter and allow firebase to create a file for rules to secure your data
 <img width="438" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/f29566c6-7fb0-4f09-b6ef-1c7614fab936">
 
-
+**Scene 21**
 4. Press enter and allow firebase to create a file for indexes that helps you sort and your collections of saved data.
 <img width="502" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/81c9f504-0d6f-466d-8d1e-9068cafc9985">
 
+**Scene 22**
 5. Then setup the following answers to configure your application and connect it to the web
 
 <img width="565" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/a91acd2e-9ddf-45d3-b1ac-eef8c5363cd8">
 
+**Scene 23**
 6. Now earlier you had run `npm run build`. This essentially prepared your code for deployment. Run `firebase deploy` and you will launch your website!
 
 Pretty cool right! Congrats!
@@ -1179,22 +1185,24 @@ Pretty cool right! Congrats!
 
 ---
 
+**Scene 24**
 That's fire. let's create users. We need to install firebase and a react library that will make it easier for us to implement a login button. Run this command ` sudo npm install --save firebase react-firebaseui --legacy-peer-deps`. The legacy-peer-deps dependency will give you a stable version in the event that the React libraries we're using aren't up to date.
 
 <img width="683" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/25780912-900c-40d5-a766-3eb793bd2fa3">
 
-
+**Scene 25**
 Next we have to activate authentication in our firebase dashboard, select sign-in methods, select the Google option, and enable it.
 <img width="1254" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/13cda1ab-b5c1-4faf-a57b-ce92766c7366">
 
-
+**Scene 26**
 After that, we have to get data about your project to connect everything together once and for all. So go to your project settings
 <img width="426" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/14f3d387-c7dd-4b5c-8282-918d1b5fd11f">
 
-
+**Scene 27**
 Select the web application denoted by the `</>` bracket symbol
 <img width="979" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/fc92505d-6d16-432d-a287-2cf6beb46d13">
 
+**Scene 28**
 Register your app's name and you will get a set of keys. This is what will connect your backend to your code so you can customize your product.
 You can find these keys in your project settings again and you can even use this to connect to other devices if you build on mobile or game studios like Unity 
 <img width="987" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/887051df-605f-4b35-8c6f-6e86617e29f1">
@@ -1204,51 +1212,54 @@ You can find these keys in your project settings again and you can even use this
 
 # The Frontend
 
-
+**Scene 29**
 Now let's go back to your code. Let's create a folder called `database` inside your `app/src` folder and create a file called `firebaseResources.js`
 
 
 <img width="564" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/21b242a6-d48b-4f1e-a1e9-3cdf6bc3afe2">
 
-
+**Scene 30**
 In our App.jsx file, we'll import a sign in button component from the library we installed and have it rendered.
 <img width="585" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/b5425002-e862-4bf8-9812-40e77bfea5ac">
 
 
 
-
+**Scene 31**
 Now your app will have a login button that you can log into!
 <img width="808" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/3f0d1cae-5fc6-4e88-aace-012333944780">
 
+**Scene 32**
 If we go into our authentication service, we can see that we've created a user
 <img width="1370" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/46b473cb-f49e-42ac-bc62-54312db1de12">
 
+**Scene 33**
 So now we can continue to engage in this user construct so that we can create user experiences by defining what belong's in a user's profile. Lets import some things from functionality from firebase:
 
 <img width="521" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/3fa64e01-47d4-4868-af28-d80ae91713f4">
 
-
+**Scene 34**
 Then let's define the state we're going to see on the screen:
 
 <img width="458" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/f9051cfe-6e5f-4344-8f42-3ce39a4039d5">
 
+**Scene 35**
 After that we're going to use a common hook called `useEffect`. This hook allows us to set up our components and track different changes that occur throughout a component's usage or lifecycle.
 
 <img width="560" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/f655084b-cfb5-475e-90a2-9649e03d9272">
 
-
+**Scene 36**
 Let's define a header component to prepare the display based on the state of the user being logged in or not:
 
 <img width="524" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/be15b738-2bda-420f-9595-dcc586f8ef72">
 
-
+**Scene 37**
 Then we simply insert the header component into the rendering process
 
 <img width="525" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/ddfdcd70-7393-4c2c-b53e-5d89aff18aab">
 
 
 
-
+**Scene 38**
 Amazing. You now have a real, live app that you can design and build in your vision. Run `npm run build` then `firebase deploy` again to refresh your website with the new code!
 <img width="781" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/23c078da-6e44-4e40-bff5-e828576671fe">
 
@@ -1256,29 +1267,30 @@ Amazing. You now have a real, live app that you can design and build in your vis
 
 # Summary
 
+**Scene 39**
 And here we are. Let's summarize what we did here. We used the command line to set up our application with react and firebase.
 Then we configured our code using identities and keys to define our systems so that they can communicate and move data around.
 This allowed us to create users and design user experiences.
 
-So that's the nature of building applications. The frontend is going to handle user experiences, visual elements and events. The backend is going to design pipelines to communicate, design and move data across networks.
-
-Now for the last part - working with other engineers.
+**Scene 40**
+So that's the nature of building applications. The frontend is going to handle user experiences, visual elements and events. The backend is going to design pipelines to communicate, design and move data across networks. Now for the last part - working with other engineers.
 
 # Github
 
-
+**Scene 41**
 Github is where we can collaborate with other engineers. Think of it like Google Drive but with extra steps so that code can update safely and predictably.
 
+**Scene 42**
 We're not going to go through a tutorial in this lesson because this is a worthwhile challenge for you to figure out on your own.
 It will test your knowledge when it comes to connecting services and working with your operating system. 
 
-
+**Scene 43**
 It will also have you working like an engineer, so think of it like your first real test - you have some knowledge, but not all, and you need to figure the rest out. You've already made it this far, so taking the extra step will break you into a new level as a fresh engineer.
 
-
+**Scene 44**
 When you figure it out, you'll be able to onboard yourself to Robots Building Education. We'll have code here that works with ChatGPT and fintech to build nice features for families & communities. That being said, you would be really surprised what you can get away with with enough curiousity and smart tools.
 
-
+**Scene 45**
 So let's highlight some of the things you can expect to use regularly, your bread and butter concepts:
 
 - Cloning -  this will allow you to copy code from Github to your computer
@@ -1302,6 +1314,7 @@ Merging - Merges is what ultimately gets code updated once and for all. Once cod
 
 # Conclusion
 
+**Scene 46**
 I'm hoping that by now, your mind is spinning, your imagination is rolling and you had a challenging experience to build your confidence. Please do remember that I'm available for private tutoring if you need assistance with the material here or the steps to take after completing these lessons. You can expect these lessons to upgrade over time because they've been designed in a modular way that allows for them to improve continuously - so thank you for supporting Robots Building Education, the pleasure has been mine, and I look forward to meeting you and creating more awesome stuff for you!
 
 
