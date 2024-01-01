@@ -22,7 +22,7 @@ So this is why we use different social platforms. They fulfill the needs of thei
 
 Data & Design
 
-![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/16deabf2-3576-438d-b828-f30d6c637385)
+<img width="674" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/16deabf2-3576-438d-b828-f30d6c637385">
 
 
 But how? How did Pinterest accomplish a moat? Let’s start with how the data originated. In its early days, Pinterest was a platform where content was shared, collected and curated by its users. These pins fulfilled some private and organizational needs for the users. They were popular vision boards. Plans. Over time, this need transformed into a visual search engine. This search engine became recognized as a search engine for ideas. It was at this point where Pinterest really started to grow its word-of-mouth reputation as a useful utility for people’s homes.
