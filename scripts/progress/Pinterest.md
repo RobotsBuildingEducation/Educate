@@ -1,21 +1,22 @@
 Understanding incentives
 
+<img width="560" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/fea67ddd-516d-402e-b4ea-b2032363c650">
+
 Understanding incentives is a subject you’ll need to question and learn in order to understand and pick apart businesses. Incentives are drivers for economic behavior.
 
-Pinterest is a company I like to use to understand incentives. Immediately, many novice investors may ask questions like, “Why would you invest in Pinterest when Tiktok or Meta exists?” and I like to answer this question by asking, “What drives you to shop at Target or Costco?”
+Pinterest is a company I like to use to understand incentives. Immediately, many novice investors may ask questions like, “Why would you invest in Pinterest when Tiktok or Meta exists?” and I like to answer this question by asking, “What drives you to shop at Target or Costco?”. It’s there where we can start to look at different concepts like psychological bias and other economic consequences that drive our consumer behavior. So let’s ask the question, why do we use Pinterest when Meta or Tiktok exists?
 
-It’s there where we can start to look at different concepts like psychological bias and other economic consequences that drive our consumer behavior. So let’s ask the question, why do we use Pinterest when Meta or Tiktok exists?
+<!-- <img width="300" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/2d0ae050-0ffe-4b55-8249-b828df1f2156">  -->
+
 
 The Mental Model
-Let’s start with a simple mental model to understand where we are on the internet. Social networks are a subset of communication technologies and these communication platforms create a network known as the internet.
+<img width="674" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/1fa18dcb-f66e-422f-a267-16453744ba41">
 
-Communication platforms tend to range from intention to entertainment. This spectrum isn’t linear, sometimes entertainment platforms can be intentional. Sometimes tools can be entertaining. I want us to think really abstractly about what communication even means. It’s the source of a lot of change and movement. 
+Let’s start with a simple mental model to understand where we are on the internet. Social networks are a subset of communication technologies and these communication platforms create a network known as the internet. Communication platforms tend to range from intention to entertainment. This spectrum isn’t linear, sometimes entertainment platforms can be intentional. Sometimes tools can be entertaining. I want us to think really abstractly about what communication even means. It’s the source of a lot of change and movement. 
 
-For example, a singer like Beyoncé can clearly sing for our entertainment, but what happens if a singer is suddenly protesting some social issue? Suddenly this entertainer becomes intentful in her communications.
+For example, a singer like Beyoncé can clearly sing for our entertainment, but what happens if a singer is suddenly protesting some social issue? Suddenly this entertainer becomes intentful in her communications. So platforms aren’t always one-dimensional, but a lot of these platforms are going to be driven by the data that informs it. This is what we know as the algorithm. For that reason, platforms like Instagram and Pinterest tend to have more curation in their distribution while platforms like Tiktok or Snapchat may be more candid or “lo-fi” in their approach. We can ponder why that is and you’ll come up with various potential answers.
 
-So platforms aren’t always one-dimensional, but a lot of these platforms are going to be driven by the data that informs it. This is what we know as the algorithm. For that reason, platforms like Instagram and Pinterest tend to have more curation in their distribution while platforms like Tiktok or Snapchat may be more candid or “lo-fi” in their approach. We can ponder why that is, and you’ll come up with various potential answers.
-
-So this is why we use different social platforms. They fulfill the needs of their customers for different reasons and they have genuine moats around those services. This is why Google, despite its size and influence, were unable to compete with the social nature of Facebook, a platform designed around connection.This may also explain why Pinterest can still perform impressively well despite sharing space with platforms like Tiktok, Google, Instagram or even Amazon.
+So this is why we use different social platforms. They fulfill the needs of their customers for different reasons and they have genuine moats around those services. This is why Google, despite its size and influence, were unable to compete with the social nature of Facebook, a platform designed around connection. This may also explain why Pinterest can still perform impressively well despite sharing space with platforms like Tiktok, Google, Instagram or even Amazon.
 
 
 Data & Design
