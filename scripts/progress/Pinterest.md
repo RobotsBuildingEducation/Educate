@@ -21,15 +21,19 @@ So this is why we use different social platforms. They fulfill the needs of thei
 
 
 Data & Design
-But how? How did Pinterest accomplish a moat? Let’s start with how the data originated. In its early days, Pinterest was a platform where content was shared, collected and curated by its users. These pins fulfilled some private and organizational needs for the users. They were popular vision boards. Plans.
 
-Over time, this need transformed into a visual search engine. This search engine became recognized as a search engine for ideas. It was at this point where Pinterest really started to grow its word-of-mouth reputation as a useful utility for people’s homes.
+![image](https://github.com/RobotsBuildingEducation/Educate/assets/65219666/16deabf2-3576-438d-b828-f30d6c637385)
+
+
+But how? How did Pinterest accomplish a moat? Let’s start with how the data originated. In its early days, Pinterest was a platform where content was shared, collected and curated by its users. These pins fulfilled some private and organizational needs for the users. They were popular vision boards. Plans. Over time, this need transformed into a visual search engine. This search engine became recognized as a search engine for ideas. It was at this point where Pinterest really started to grow its word-of-mouth reputation as a useful utility for people’s homes.
 
 And now, we are in the era where this platform transforms yet again, especially with the advent of creative media - where the platform seeks to transform itself into a shopping platform. So Pinterest, from the perspective of its customers, lets them discover ideas, plan and execute those ideas.
 
-And you might be thinking, well, doesn’t a platform like Amazon do that? And the answer is yes, which is why I see a platform like Pinterest closer to competing with organizations like Google & Amazon rather than entertainment platforms like Meta and Tiktok. Pinterest is geared toward intentional communication.
+And you might be thinking, well, doesn’t a platform like Amazon do that? And the answer is yes, which is why I see a platform like Pinteres closer to competing with organizations like Google & Amazon rather than entertainment platforms like Meta and Tiktok. Pinterest is geared toward intentional communication.
 
 Macroeconomics
+
+
 There’s a lot of potential and promise behind Pinterest’s current market value. Another moat-building outcome is that the platform is overwhelmingly used by women, such that expansion to any country almost guarantees that nearly 50% of the adult population are monthly active users. 
 
 The only real plausible explanation for this is that Pinterest is a platform that delivers on the promise of its design and users develop a high form of trust with the platform, resulting in word-of-mouth adoption. What this means is that the value-per-pixel in its advertising space is higher than the average of other advertising spaces; Pinterest is a platform designed around high-quality outcomes.
