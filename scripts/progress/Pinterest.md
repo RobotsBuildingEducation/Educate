@@ -34,15 +34,24 @@ And you might be thinking, well, doesn’t a platform like Amazon do that? And t
 Macroeconomics
 
 
-There’s a lot of potential and promise behind Pinterest’s current market value. Another moat-building outcome is that the platform is overwhelmingly used by women, such that expansion to any country almost guarantees that nearly 50% of the adult population are monthly active users. 
+<img width="473" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/c57a740c-e42a-44bd-a14d-d9819949ec27">
 
-The only real plausible explanation for this is that Pinterest is a platform that delivers on the promise of its design and users develop a high form of trust with the platform, resulting in word-of-mouth adoption. What this means is that the value-per-pixel in its advertising space is higher than the average of other advertising spaces; Pinterest is a platform designed around high-quality outcomes.
+
+
+There’s a lot of potential and promise behind Pinterest’s current market value. Another moat-building outcome is that the platform is overwhelmingly used by women, such that expansion to any country almost guarantees that nearly 50% adoption of the adult population are monthly active users. 
+
+The only real plausible explanation for this is that Pinterest is a platform that delivers on the promise of its design and users develop a high form of trust with the platform. What this means is that the value-per-pixel in its advertising space is higher than the average of other advertising spaces; Pinterest is a platform designed around high-quality outcomes. In summary, Pinterest is a kind of business that can accomplish something once per month rather than depending on a model that depends on daily usage. It's a trade-off in the advertising world.
 
 In recent history, this theory was back tested and strongly signaled by potential acquisitions from Microsoft and Paypal for upwards 45 billion dollars. The final outcome seemingly appeared that Paypal’s COO, formerly Venmo CEO, became the new CEO of Pinterest, while the founder moved into the role of executive chairman of the board while researching the future psychological-health technology. These are significant movements toward monetization.
 
 What you may notice here with Pinterest is that the story tends to just make sense. It is my belief that Pinterest remains a strong acquisition for organizations like Target or Amazon since this platform may transform into a disruptive competitor - how?
 
 The Future
+
+<img width="473" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/91ca663e-6e34-40ae-b9a3-a44f4600f134">
+
+
+
 Many investors have the habit of avoiding good opportunities or overcomplicating potential opportunities when new-fangled technology arrives to the markets. One such case is the uncertain strategies surrounding AI investments. Pinterest is one such investment. Given the nature of the platform and its history, it’s clear that Pinterest has a very real possibility of competing with global organizations like SHEIN, Tiktok Shop and other AI-powered shopping channels.
 
 This is one of the reasons I liken Pinterest to the business of Costco. Customers tend to enter and leave the platform happily. They follow an internal philosophy to achieve quality selection. The distribution is also intentional and meaningful. A quick browse just now has briefly introduced ads about Visa, Southwest Airlines and Expedia. A search for kitchen ideas presents an entire browsing section aligned with Amazon ads.
@@ -53,5 +62,9 @@ It is my view that Pinterest will find good ways to manage that problem and user
 
 
 Conclusion
-In short, there’s a lot of potential and promise behind Pinterest’s current market value and the total addressable market surrounding retail, advertising and payments. The history and path ahead appears well-poised for success. Its current valuation appears to reflect that of a wonderful company at a fair price. The position of the business is fundamentally sound and simple to understand. The moat it maintains relative to its titan-sized competitors is visible. I believe it’s a strong acquisition target if not a company that successfully multiplies its growth and presence as a reliable American brand. Pinterest is a reasonable way to invest in the realm of social media.
+
+<img width="473" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/35080d40-fe49-4a78-83b2-9e3c79442649">
+
+
+In short, there’s a lot of potential and promise behind Pinterest’s current market value and the total addressable market surrounding retail, advertising and payments. The history and path ahead appears well-poised for success. Its current valuation appears to reflect that of a wonderful company at a fair price. The position of the business is fundamentally sound and simple to understand. The moat it maintains relative to its titan-sized competitors is visible. I believe it’s a strong acquisition target if not a company that successfully multiplies its growth and presence as a reliable American brand. Pinterest can be a reasonable way to invest in social media, similar to buying a nice piece of real estate in the internet society. Either way, it's a good starting point to learn more about the investing in the industry.
 
