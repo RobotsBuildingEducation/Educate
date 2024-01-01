@@ -6,7 +6,7 @@ Understanding incentives is a subject you’ll need to question and learn in ord
 
 Pinterest is a company I like to use to understand incentives. Immediately, many novice investors may ask questions like, “Why would you invest in Pinterest when Tiktok or Meta exists?” and I like to answer this question by asking, “What drives you to shop at Target or Costco?”. It’s there where we can start to look at different concepts like psychological bias and other economic consequences that drive our consumer behavior. So let’s ask the question, why do we use Pinterest when Meta or Tiktok exists?
 
-<img width="473" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/2d0ae050-0ffe-4b55-8249-b828df1f2156"> 
+<img width="300" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/2d0ae050-0ffe-4b55-8249-b828df1f2156"> 
 
 
 The Mental Model
