@@ -10,6 +10,7 @@ Pinterest is a company I like to use to understand incentives. Immediately, many
 
 
 The Mental Model
+
 <img width="674" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/1fa18dcb-f66e-422f-a267-16453744ba41">
 
 Let’s start with a simple mental model to understand where we are on the internet. Social networks are a subset of communication technologies and these communication platforms create a network known as the internet. Communication platforms tend to range from intention to entertainment. This spectrum isn’t linear, sometimes entertainment platforms can be intentional. Sometimes tools can be entertaining. I want us to think really abstractly about what communication even means. It’s the source of a lot of change and movement. 
