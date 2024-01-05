@@ -38,6 +38,6 @@ Investing in the work
 After this, there is a direct relationship with how much you read and how much you understand. You will not make it if you don't cultivate a love for learning, since the market carries enormous intersectional bodies of work that are constantly clashing and transforming. Reading is money and you only need a few homeruns to achieve most goals before time, faith, family and health massively overweigh and overshadow meaning through labor.
 
 Conclusion
-That's all. Short and sweet. Most people don't successfully reach past this point in their investing careers because the water starts to get awfully dangerous. Intuition, logic and intense psychological factors start to interact after this level because the science of reasoning is not a simple concept. You can learn more in the RO.B.E Focus Investing lecture and Patreon Extras++ essays on the application.
+That's all. Short and sweet. Most people don't successfully reach past this point in their investing careers because the water starts to get awfully dangerous. Intuition, logic and intense psychological factors start to interact after this level because the science of reasoning is not a simple concept. Really one of the hard parts is that you're working with exponential numbers and exponential data operates in ways that many people are unfamiliar with. As you read and learn more, you understand what is meant by "diversification is protection against ignorance.". You can learn more in the RO.B.E Focus Investing lecture and Patreon Extras++ essays on the application.
 
 
