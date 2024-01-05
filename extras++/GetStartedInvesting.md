@@ -1,3 +1,5 @@
+<img src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/f852d307-dc2c-4d08-a63d-f745e6bd5d64" width="300" />
+
 Introduction
 
 Learning how to pick stocks, investments and good businesses takes months and years of effort to understand. 
@@ -10,7 +12,7 @@ as $1/mo.
 
 Signing Up
 
-You'll create different investing accounts over your lifetime the same way youll use different payment cards. I like Robinhood because they keep making what people need. This referal link will get you started with them.
+You'll create different investing accounts over your lifetime the same way youll use different payment cards. I like Robinhood because they keep making what people need. [This referal link will get you started with them](https://join.robinhood.com/sheilfz)
 
 
 How To Think About Money Allocation
