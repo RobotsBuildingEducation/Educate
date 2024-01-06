@@ -1,4 +1,5 @@
-Understanding incentives
+# Pinterest & Social Media
+## Understanding incentives
 
 <img width="560" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/fea67ddd-516d-402e-b4ea-b2032363c650">
 
@@ -9,7 +10,7 @@ Pinterest is a company I like to use to understand incentives. Immediately, many
 <img width="300" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/2d0ae050-0ffe-4b55-8249-b828df1f2156"> 
 
 
-The Mental Model
+## The Mental Model
 
 <img width="674" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/1fa18dcb-f66e-422f-a267-16453744ba41">
 
@@ -20,7 +21,7 @@ For example, a singer like Beyoncé can clearly sing for our entertainment, but 
 So this is why we use different social platforms. They fulfill the needs of their customers for different reasons and they have genuine moats around those services. This is why Google, despite its size and influence, were unable to compete with the social nature of Facebook, a platform designed around connection. This may also explain why Pinterest can still perform impressively well despite sharing space with platforms like Tiktok, Google, Instagram or even Amazon.
 
 
-Data & Design
+## Data & Design
 
 <img width="674" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/16deabf2-3576-438d-b828-f30d6c637385">
 
@@ -31,7 +32,7 @@ And now, we are in the era where this platform transforms yet again, especially 
 
 And you might be thinking, well, doesn’t a platform like Amazon do that? And the answer is yes, which is why I see a platform like Pinteres closer to competing with organizations like Google & Amazon rather than entertainment platforms like Meta and Tiktok. Pinterest is geared toward intentional communication.
 
-Macroeconomics
+## Macroeconomics
 
 
 <img width="473" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/c57a740c-e42a-44bd-a14d-d9819949ec27">
@@ -46,7 +47,7 @@ In recent history, this theory was back tested and strongly signaled by potentia
 
 What you may notice here with Pinterest is that the story tends to just make sense. It is my belief that Pinterest remains a strong acquisition for organizations like Target or Amazon since this platform may transform into a disruptive competitor - how?
 
-The Future
+## The Future
 
 <img width="473" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/91ca663e-6e34-40ae-b9a3-a44f4600f134">
 
@@ -61,7 +62,7 @@ Now the truth is, every business is going to experience some level of churn. We 
 It is my view that Pinterest will find good ways to manage that problem and users will adapt to the changes around advertising, shopping and marketing. I think a healthy outcome would be if this combination encouraged more people to post organically, spurring the creation of successful creator businesses and an alternative yet focused service that stays away from the chaos of other social platforms.
 
 
-Conclusion
+## Conclusion
 
 <img width="473" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/35080d40-fe49-4a78-83b2-9e3c79442649">
 
