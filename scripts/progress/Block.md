@@ -31,56 +31,97 @@ That was all for some time. That was my introduction to the markets. Being a gam
 
 
 I graduated from college some years later and moved to the Bay Area. I ended up working at a financial technology startup. This exposed me to the regulatory environment around banking and financial networks. My manager was also quite a believer in Bitcoin. He talked about it in relation to the principles of investing. It was a good place for me to learn things about money.
+
+<img width="489" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/aec16447-d377-43fa-a17e-e4bc0c437c18">
+
  
 This period of my life became a peculiar intersection of events. I became a pretty battle-hardened software engineer that adapted quickly to the changes brought by the COVID lockdowns. Digital collaboration wasn’t a foreign concept for me or many folks my age. It was quietly preferred for many of us. It was crucial to the success of the economy in some ways.
+
 I became a writer on the side and started what was going to be my career as a creator. I wrote about the optimistic future of technology and the organizations that will drive us in that direction. I worked on my business. I began to understand social media, its constraints and gateways in ways I was unfamiliar with. I also began to learn a lot about the art of investing in a serious way. It was apparent that my advantage was in the tech market but I was not skilled enough yet to make big choices. It would ultimately narrow down to social media, financial and education technology investments.
 
 ## The Product
 
 This all happened before and after the events that transpired with Bitcoin in 2020. It wasn’t really until closer to the year 2021 when I turned my head toward Bitcoin after the company Square had acquired TIDAL and placed Shawn “Jay-Z” Carter to the board.
+
+<img width="487" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/b714b51a-b9b1-482b-a696-b17783198601">
+
  
 It wasn’t until 2022 that I began to appreciate the potential of Bitcoin’s future after taking some time to understand a white-paper written by Block and its approach to decentralizing networks with the company they created called TBD. That was the mysterious software ecosystem that many folks like me patiently awaited for. There wasn’t as much time anymore.
+
+<img width="487" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/e4ac87c8-b3d9-4da3-972d-1f15cf8653b7">
+
  
 And it was in 2023 where we arrive today with the advent of generative AI and recommended social feeds. At this point, it’s pretty clear for anyone that is following what we are going to see. We’re going to see competition between networks. We’ve been seeing it.
 
 To those that like a good prediction, it’s likely that we will see the ability to transact between applications like Cash App and Coinbase. It would become a process no different than a Gmail sender being able to deliver a message to Yahoo Mail recipients.
+
+<img width="488" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/4f0e4af0-f2f8-4456-9dd9-bca891c5e306">
+
  
 The same is built for social media. There are early signs that these mechanisms work after Instagram’s successful launch and onboarding for Threads. It’s in the best interest of the user to have these networks decentralized in a way where people are the owners of the publications and relationships rather than the platforms - since the platforms do not provide you those things - they are earned and created by people interacting. There is a non-trivial need for this, since there are a growing amount of people that depend on these communication technologies for their income.
 
 And Block is at the center of this. It wants to be a good steward of the internet and its financial networks are a gateway to achieve that. Bitcoin, at the end of the day, may be a system that most consumers aren’t interfacing with, the same way most people aren't all too concerned with the details for treasury bills when exchanging in the value of a dollar. The same could be said for sending emails. Users aren’t really concerned with the protocols underneath it that transmit the data, they’re interested in the service.
 
 That’s the foundation of financial services. You need to create incentives to entrust, transact or deposit money. Block is unique in how they’re seen as an innovative company, yet they operate in a rather simple and pragmatic manner for their day-to-day. There isn't too much risk associated with their clientele. Block is the kind of company that works when a merchant has a cardboard sign with a $cashtag address written on it. There aren’t many shiny objects.
+
+<img width="488" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/69e48b26-e2b0-48dc-b00b-4239d0b5d70a">
+
  
 I believe that’s what Jack, the founder of Block and Twitter, means by Bitcoin being the native currency of the internet. There will be new services and ways to interface with applications without the same limitations created by centralized services, banks and card networks. These unlocks can become liberating mechanisms for consumers and merchants.
 
 ## The Social
 The United States had recently exited the world war as a global power and went through an era of reforming global geopolitics under its influence. A lot of recent American history can be understood under that context. Oversimplifying, there were two global powers after the world war and they had competing economic policies. One can assume that the greater system would likely result in the greater or more productive military over a period of time. There’s a number of ways to opine or produce a narrative around history. Either way, the American military was more influential. Society changed in unique ways.
+
+<img width="481" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/838a2873-9644-4bd4-84a0-0e21b1127de8">
  
 This influence relationship applied domestically and internationally. It was a time of expressing power over supply chains. In the US, it meant containment through drug war. It also suggested a reworking of monetary standards away from gold and toward dollar-based trust. These implementations were almost immediately after the Civil Rights Act, invoking a new era of control.
- 
+
+<img width="486" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/743756b6-0fb2-4af4-9a93-5bda50d09e2b">
+
 By this time, designing powerful communication networks was no longer unknown. It was rapidly applied to the financial pipelines. It was policies written in the Bank Secrecy Act that governed these transactions and thus began a long legacy of controls and monitors in the name of preventing crime. It created a network to determine and score trust amongst civilians, criminals, terrorists and enemies of state. This continues today with sophisticated algorithms to handle the level of scale these operations have become.
 
 And at this point it really isn’t much of a debate to see the consequences of these policies. Academics in humanities will typically accept the common sense premise that racism and expressions of power didn’t suddenly vanquish due to the outcomes brought by Martin Luther King and the success of the Civil Rights movement. Economics is not a simple linear progression. We can see the outcomes of Black American families that were effectively subjugated economically by these policies. It can also be similarly witnessed in the suppression of Latin American economies.
+
+<img width="483" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/9159437e-e8ef-4e54-8ffc-66f2d1ae8563">
+
  
 This model ultimately backtracks to before the Civil Rights and after the Patriot Act . Our new financial standards created a system dependent on trust. The more trusted you were by the owners of the networks and reserves, the more access you had to capital systems. The longer you’ve participated in these networks, the more likely you’ve gathered trust. These underfunded schools, unbanked societies and our attitudes toward civil development are informed by this reality and what it incentivizes. One could eventually draw the connection that the system that produced the inequity was the same one that allowed culture to express their experiences in it through now-American staples like rap and hip-hop.
 
 But obviously, people are largely unconcerned with committing crimes with these kinds of transactions. This creates a disconnection. Using cash gives you privacy but technology and networks do not. Cash doesn’t require verification, but cards do. Cards are convenient despite this, but it’s clear that the medium of exchange is transforming. The next stage seems to be the legitimization of cards as money, and this is why Bitcoin is often referred to as true digital cash.
+
+<img width="492" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/07bd8202-1b0f-4da5-b98e-3a65f0068daa">
+
  
 Increasing the privacy of digital transactions would thus facilitate interactions we have yet to really experience online. Our current pipelines do not allow this to happen. This is what is known as trustless interactions. The system leaves trust up to its users. Again, the user often does not see what happens or upgrades behind the scenes, but our current pipelines also do not allow for service to be built - so what happens in the background is important.
 
 This reality is what defines the vision and culture behind Block. It can create new pipelines. What drives the organization is building solutions that solve problems related to financial access and inclusion. The company can’t be understood otherwise. Its attitude toward financial services is different from other vendors. As such, it’s important to value the principles of diversity, access and history when accounting for the direction Block will take. One needs to appreciate the outcomes of working in the economics of oppression.
+
+<img width="492" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/bbc4dcb7-d9c9-4e00-9a2c-0bca4aa0ab95">
+
  
 As a result, Block ties itself to the legacy and struggle that Black Americans and other minority groups experience, and this can be observed at all levels of the organization. Block is not your traditional Silicon Valley dream - its products are grounded by reality and the needs of main street. These seemingly random events, like the adoption of Bitcoin in El Salvador, are especially relative and share a common economic story.
 
 There is this accessibility principle that I teach about how creating access for those who need it creates access for those who didn’t ask for it. I often provide the example that designing information to be read clearly by a screen reader may benefit those who read the same information since it’s well organized. I relate it to the advent of radio and podcast and how new mediums may change the experiences we participate in or appreciate. The same could be said for restrictive or liberating laws, policies and social codes.
+
+<img width="489" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/3023c021-c7c6-4662-88c3-b1275dbf9c3a">
+
  
 Block, in many ways, positions itself by providing solutions to alleviate the cost of poverty by developing sound solutions inspired by Bitcoin and financial services for local economies. As a result, what you saw was Cash App popularized originally in spaces where oppression economics are highest in the United States, which would be impoverished inner cities in the southern US. It was accepted and embedded into cultures that inform and influence what we recognize as “Gen Z” or younger digitally native culture.
+
+<img width="473" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/27466d6d-8f27-4b91-804e-acf81e761eb6">
+
  
 This outcome isn’t some kind of master plan devised by someone. It’s the outcome of the simple reality that the organization started by selling hardware to accept and bridge payment cards through internet connected phones. To accept cash with technology. In some ways, developing Bitcoin software is also a revolution of the company itself, where they’re repeating the same steps they took when they started building bridges. In short, the company started solving a financial access problem and continued to expand from that founding principle. The intersection is an act of nature.
+
+<img width="490" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/26b8d7d3-bbba-4b5a-a994-df73fa0bc5ea">
+
  
 Block capturing this market position and social reputation is nothing short of a phenomenon. It’s one that many companies don’t have the privilege of achieving. Its creative positioning is exactly what allows it to be a disruptive force over the long term. This positioning is not all too different from the gateways that Apple accessed with the iPod and its transformation into the iPhone.
 
 And thus I believe that Block’s acquisition of TIDAL and their partnership with Shawn Carter is a historic one. It’s a unique relationship between visionaries across technical and social landscapes that can’t be replicated by other financial institutions. It’s an act of legacy and an act to actualize historic outcomes for the betterment of society. You could argue that investing in TIDAL with current conditions would be like investing in the value of hip-hop.
+
+<img width="489" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/41ba44e1-9437-4b5a-8c48-4a7bbd249958">
+
  
 I believe the typical wall street analyst undervalues the potential generated by this relationship and thus misses the point or even the purpose that drives Block’s underlying growth. Block wants to repair old economies and introduce new ones and it wants to do it from an approach that creates fairness and equilibrium. It wants to change the game.
 
@@ -88,6 +129,9 @@ I believe the typical wall street analyst undervalues the potential generated by
 Block is a predictable business. They want to right financial wrongs. It, like many of their peers, wants to improve the internet. In the short term, you’ll see it enter nascent but influential local markets like cannabis or beauty. You’ll see them facilitate small but accessible loans or meaningful alternatives. Their advertisements will be popular, impactful and welcomed. You’ll find them from local restaurants all the way up to arena conacerts.
 
 In the long term, you’ll see them continue to apply the same financial inclusion model to continue to grow. You really have to ask what the point is at a certain level. What does it mean in the world if Block is a 300 billion dollar company that competes with organizations like Chase or Visa? Why would that outcome occur?
+
+<img width="492" alt="image" src="https://github.com/RobotsBuildingEducation/Educate/assets/65219666/5584cf1d-30cc-41bc-ae03-38d5c4635c3a">
+
  
 In my view, the same financial inclusion pattern would apply at scale. They may foray into larger trust applications and solve problems related to housing or even government scale enterprise. It may be an organization as influential as Universal Music Group or other art & entertainment networks. It may capture or invent markets we are not yet aware of.
 
